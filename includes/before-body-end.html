@@ -51,6 +51,21 @@
   .ff-muted { color: #666; font-size: 0.9rem; margin-top: 8px; }
 </style>
 
+<style>
+  /* Overrides */
+  .ff-topbar { 
+    justify-content: flex-start;   /* left-justify the button */
+  }
+  .ff-topbar .ff-cta {
+    font-size: 2rem;               /* ~2x larger text */
+    padding: 18px 22px;            /* a bit more padding for balance */
+  }
+  .ff-topbar .ff-cta .ff-icon {
+    font-size: 2.2rem;             /* scale the icon up too */
+  }
+</style>
+
+
 <!-- top bar gets inserted at the very beginning of <body> -->
 <div class="ff-topbar" id="ff-topbar" hidden>
   <button id="ff-summarize-btn" class="ff-cta" aria-label="Summarize Fantasy Impact">
