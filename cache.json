@@ -650,6 +650,16 @@
       "siteUrl": "https://sports.yahoo.com/nfl/",
       "articles": [
         {
+          "id": "db44b38b-9a9b-33cd-a409-74a0d3c2db87",
+          "author": null,
+          "description": "The NFL season is only four weeks old, but the Buffalo Bills and Philadelphia Eagles already look set to be the leading Super Bowl contenders.",
+          "link": "https://www.bbc.com/sport/american-football/articles/cx231gjg385o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+          "publishedOn": "2025-10-02T06:17:55.000Z",
+          "wordCount": 6880,
+          "title": "Are Bills and Eagles destined to meet in Super Bowl?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fc8e/live/44001f80-9eea-11f0-92db-77261a15b9d2.png"
+        },
+        {
           "id": "5d50fa50-8fbb-3cbc-8440-7b0e89768cc1",
           "author": null,
           "description": "The Buccaneers returned to practice Wednesday, and they ended it with 16 players on their injury report.",
