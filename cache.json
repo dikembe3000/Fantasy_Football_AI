@@ -1,0 +1,1433 @@
+{
+  "sources": [
+    {
+      "title": "RotoWire.com Latest NFL News",
+      "feedUrl": "https://www.rotowire.com/rss/news.php?sport=NFL",
+      "siteUrl": "https://www.rotowire.com",
+      "articles": [
+        {
+          "id": "nfl608688",
+          "author": null,
+          "description": "Bowers (knee) was limited in practice Wednesday.\n\n        Visit RotoWire.com for more analysis on this update.",
+          "link": "https://www.rotowire.com//football/player/brock-bowers-17693",
+          "publishedOn": "2025-10-01T23:29:00.000Z",
+          "wordCount": 29913,
+          "title": "Brock Bowers: Limited at practice Wednesday",
+          "imageUrl": null
+        },
+        {
+          "id": "nfl608686",
+          "author": null,
+          "description": "Irving officially missed Wednesday's walkthrough due to foot and shoulder injuries, Jenna Laine of ESPN.com reports.\n\n        Visit RotoWire.com for more analysis on this update.",
+          "link": "https://www.rotowire.com//football/player/bucky-irving-17784",
+          "publishedOn": "2025-10-01T23:28:00.000Z",
+          "wordCount": 30024,
+          "title": "Bucky Irving: Tending to pair of injuries",
+          "imageUrl": null
+        },
+        {
+          "id": "nfl608679",
+          "author": null,
+          "description": "Evans (hamstring) didn't participate in Wednesday's walkthrough, Jenna Laine of ESPN.com reports.\n\n        Visit RotoWire.com for more analysis on this update.",
+          "link": "https://www.rotowire.com//football/player/mike-evans-9253",
+          "publishedOn": "2025-10-01T23:18:00.000Z",
+          "wordCount": 50681,
+          "title": "Mike Evans: Still no on-field activity",
+          "imageUrl": null
+        },
+        {
+          "id": "nfl608676",
+          "author": null,
+          "description": "Mayfield didn't take part in Wednesday's walkthrough due to knee and right biceps injuries, Jenna Laine of ESPN.com reports.\n\n        Visit RotoWire.com for more analysis on this update.",
+          "link": "https://www.rotowire.com//football/player/baker-mayfield-12619",
+          "publishedOn": "2025-10-01T23:14:00.000Z",
+          "wordCount": 44193,
+          "title": "Baker Mayfield: No activity at walkthrough",
+          "imageUrl": null
+        },
+        {
+          "id": "nfl608657",
+          "author": null,
+          "description": "McLaurin (quadriceps) was a non-participant at Wednesday's practice.\n\n        Visit RotoWire.com for more analysis on this update.",
+          "link": "https://www.rotowire.com//football/player/terry-mclaurin-13536",
+          "publishedOn": "2025-10-01T22:10:00.000Z",
+          "wordCount": 42672,
+          "title": "Terry McLaurin: Remains sidelined from practice",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Injury News",
+      "feedUrl": "https://www.draftsharks.com/rss/injury-news",
+      "siteUrl": "https://www.draftsharks.com",
+      "articles": [
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79400/trey-benson-suddenly-out-at-least-four-weeks",
+          "author": "Kevin English",
+          "description": "The Cardinals have announced that RB Trey Benson will hit IR for the knee injury he suffered late in Week 4. That announcement comes just after",
+          "link": "https://www.draftsharks.com/shark-bites/79400/trey-benson-suddenly-out-at-least-four-weeks",
+          "publishedOn": "2025-10-01T16:46:04.000Z",
+          "wordCount": 9672,
+          "title": "Trey Benson Suddenly Out at Least Four Weeks",
+          "imageUrl": "https://www.draftsharks.com/player-images/f5ac447c-9a7f-4fca-0e2f-36fd9f033400/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79396/tyreek-hill-has-successful-knee-surgery",
+          "author": "Kevin English",
+          "description": "Dolphins WR Tyreek Hill underwent successful surgery to repair the ACL and other ligaments in his left knee on Tuesday, according to NFL Network's Tom P",
+          "link": "https://www.draftsharks.com/shark-bites/79396/tyreek-hill-has-successful-knee-surgery",
+          "publishedOn": "2025-10-01T12:24:35.000Z",
+          "wordCount": 9285,
+          "title": "Tyreek Hill Has Successful Knee Surgery",
+          "imageUrl": "https://www.draftsharks.com/player-images/67be2e61-4839-4897-2648-b6bc67c7af00/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79393/andrew-van-ginkel-set-to-miss-week-5",
+          "author": "Kevin English",
+          "description": "Vikings HC Kevin O'Connell said Tuesday that Edge Andrew Van Ginkel won't practice this week because of his neck injury, according to the team website.",
+          "link": "https://www.draftsharks.com/shark-bites/79393/andrew-van-ginkel-set-to-miss-week-5",
+          "publishedOn": "2025-09-30T22:38:50.000Z",
+          "wordCount": 9532,
+          "title": "Andrew Van Ginkel Set to Miss Week 5",
+          "imageUrl": "https://www.draftsharks.com/player-images/3249f4b9-2d54-4f8b-3314-48f93ce43100/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79368/tyjae-spears-expected-back-on-the-field-this-week",
+          "author": "Kevin English",
+          "description": "The Titans are expected to open RB Tyjae Spears' 21-day practice window this week, according to NFL Network's Ian Rapoport. Spears landed on IR entering",
+          "link": "https://www.draftsharks.com/shark-bites/79368/tyjae-spears-expected-back-on-the-field-this-week",
+          "publishedOn": "2025-09-29T17:28:50.000Z",
+          "wordCount": 9463,
+          "title": "Tyjae Spears Expected Back on the Field This Week",
+          "imageUrl": "https://www.draftsharks.com/player-images/5236fea5-0a3e-432a-7bdb-1c9b84a49300/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79366/cedric-tillman-set-to-miss-multiple-weeks-after-hamstring-injury",
+          "author": "Kevin English",
+          "description": "Browns WR Cedric Tillman is set to miss weeks, according to HC Kevin Stefanski. Tillman injured his hamstring in the second quarter against the Lions. H",
+          "link": "https://www.draftsharks.com/shark-bites/79366/cedric-tillman-set-to-miss-multiple-weeks-after-hamstring-injury",
+          "publishedOn": "2025-09-29T17:26:18.000Z",
+          "wordCount": 9449,
+          "title": "Cedric Tillman Set to Miss Multiple Weeks After Hamstring Injury",
+          "imageUrl": "https://www.draftsharks.com/player-images/af7934b1-213b-498e-5bf5-d8e3adce7200/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79365/travon-walker-wrist-injury-sounds-serious",
+          "author": "Kevin English",
+          "description": "ESPN's Jeremy Fowler reports that Jaguars Edge Travon Walker will be meeting with a specialist to get more details about the wrist injury that knocked h",
+          "link": "https://www.draftsharks.com/shark-bites/79365/travon-walker-wrist-injury-sounds-serious",
+          "publishedOn": "2025-09-29T17:05:01.000Z",
+          "wordCount": 9572,
+          "title": "Travon Walker Wrist Injury Sounds Serious",
+          "imageUrl": "https://www.draftsharks.com/player-images/adc47b4d-8978-4508-c46e-f05338544900/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79364/confirmed-acl-tear-ends-malik-nabers-season",
+          "author": "Kevin English",
+          "description": "Further testing has confirmed the fear that Giants WR Malik Nabers tore his right ACL in Sunday's win over the Chargers. He'll need surgery and miss the",
+          "link": "https://www.draftsharks.com/shark-bites/79364/confirmed-acl-tear-ends-malik-nabers-season",
+          "publishedOn": "2025-09-29T15:16:38.000Z",
+          "wordCount": 9737,
+          "title": "Confirmed: ACL Tear Ends Malik Nabers' Season",
+          "imageUrl": "https://www.draftsharks.com/player-images/de04aa1a-f1da-4fac-8846-5460e4be2e00/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79328/malik-nabers-believed-to-have-torn-acl",
+          "author": "Kevin English",
+          "description": "Giants WR Malik Nabers \"is believed\" to have torn his right ACL in Sunday's game vs. the Chargers, according to NFL Network. These types of reports are",
+          "link": "https://www.draftsharks.com/shark-bites/79328/malik-nabers-believed-to-have-torn-acl",
+          "publishedOn": "2025-09-28T18:57:34.000Z",
+          "wordCount": 9259,
+          "title": "Malik Nabers Believed To Have Torn ACL",
+          "imageUrl": "https://www.draftsharks.com/player-images/de04aa1a-f1da-4fac-8846-5460e4be2e00/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79279/andrew-van-ginkel-out-vs-steelers",
+          "author": "Kevin English",
+          "description": "The Vikings have ruled Edge Andrew Van Ginkel out for Sunday's game against the Steelers because of a neck injury. Van Ginkel missed Week 2 with a concu",
+          "link": "https://www.draftsharks.com/shark-bites/79279/andrew-van-ginkel-out-vs-steelers",
+          "publishedOn": "2025-09-26T17:44:26.000Z",
+          "wordCount": 9444,
+          "title": "Andrew Van Ginkel Out vs. Steelers",
+          "imageUrl": "https://www.draftsharks.com/player-images/3249f4b9-2d54-4f8b-3314-48f93ce43100/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79250/eagles-lose-nolan-smith-for-at-least-a-month",
+          "author": "Kevin English",
+          "description": "The Eagles on Wednesday placed Edge Nolan Smith on IR after he tweaked the same triceps that he tore (and played through) in the Super Bowl victory over",
+          "link": "https://www.draftsharks.com/shark-bites/79250/eagles-lose-nolan-smith-for-at-least-a-month",
+          "publishedOn": "2025-09-25T14:39:43.000Z",
+          "wordCount": 9508,
+          "title": "Eagles Lose Nolan Smith for at Least a Month",
+          "imageUrl": "https://www.draftsharks.com/player-images/ed4c804d-c975-4be7-a36f-326cebe7d100/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79232/quincy-williams-set-to-miss-at-least-four-games",
+          "author": "Kevin English",
+          "description": "The Jets are placing LB Quincy Williams on IR for the shoulder injury he suffered in Sunday's loss to the Buccaneers, according to ESPN's Rich Cimini. T",
+          "link": "https://www.draftsharks.com/shark-bites/79232/quincy-williams-set-to-miss-at-least-four-games",
+          "publishedOn": "2025-09-23T18:14:44.000Z",
+          "wordCount": 9555,
+          "title": "Quincy Williams Set to Miss at Least Four Games",
+          "imageUrl": "https://www.draftsharks.com/player-images/80fe7a5f-dcee-4b71-10e9-7dae92841700/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79224/confirmed-najee-harris-has-torn-achilles",
+          "author": "Kevin English",
+          "description": "Chargers HC Jim Harbaugh confirmed on Monday that RB Najee Harris tore his left Achilles in the Week 3 win over the Broncos. Harris is done for the seas",
+          "link": "https://www.draftsharks.com/shark-bites/79224/confirmed-najee-harris-has-torn-achilles",
+          "publishedOn": "2025-09-22T21:19:31.000Z",
+          "wordCount": 9349,
+          "title": "Confirmed: Najee Harris Has Torn Achilles",
+          "imageUrl": "https://www.draftsharks.com/player-images/26ecb987-4bdd-4530-605d-9375e171d200/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79221/jatavion-sanders-has-high-ankle-sprain",
+          "author": "Kevin English",
+          "description": "Panthers TE Ja'Tavion Sanders is expected to miss \"multiple weeks\" with a high-ankle sprain suffered in the Week 3 win over the Falcons, according to Th",
+          "link": "https://www.draftsharks.com/shark-bites/79221/jatavion-sanders-has-high-ankle-sprain",
+          "publishedOn": "2025-09-22T20:12:23.000Z",
+          "wordCount": 9264,
+          "title": "Ja'Tavion Sanders Has High-Ankle Sprain",
+          "imageUrl": "https://www.draftsharks.com/player-images/54a4e816-ce7d-4cc8-fd03-b66d9b65bd00/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79219/expect-ceedee-lamb-to-miss-at-least-a-couple-of-games",
+          "author": "Kevin English",
+          "description": "Monday has delivered a slight range of outlooks on the return timeline for Cowboys WR CeeDee Lamb. The wideout did suffer a high left ankle sprain in th",
+          "link": "https://www.draftsharks.com/shark-bites/79219/expect-ceedee-lamb-to-miss-at-least-a-couple-of-games",
+          "publishedOn": "2025-09-22T18:53:46.000Z",
+          "wordCount": 9594,
+          "title": "Expect CeeDee Lamb to Miss at Least a Couple of Games",
+          "imageUrl": "https://www.draftsharks.com/player-images/fd4a0b1e-b492-49b8-2e33-4183ddd25400/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79216/49ers-reveal-season-ending-knee-injury-for-nick-bosa",
+          "author": "Kevin English",
+          "description": "Niners HC Kyle Shanahan told reporters Monday that Edge Nick Bosa tore his right ACL in Sunday's win over the Cardinals. Shanahan said after the game th",
+          "link": "https://www.draftsharks.com/shark-bites/79216/49ers-reveal-season-ending-knee-injury-for-nick-bosa",
+          "publishedOn": "2025-09-22T18:25:12.000Z",
+          "wordCount": 9338,
+          "title": "49ers Reveal Season-Ending Knee Injury for Nick Bosa",
+          "imageUrl": "https://www.draftsharks.com/player-images/7094d81f-25c5-484d-a4ef-eb9ae23bb100/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79215/colston-lovelands-hip-injury-not-serious",
+          "author": "Kevin English",
+          "description": "Bears TE Colston Loveland's hip injury is not believed to be serious and he has \"a chance\" to play vs. the Raiders this weekend, according to ESPN's Ada",
+          "link": "https://www.draftsharks.com/shark-bites/79215/colston-lovelands-hip-injury-not-serious",
+          "publishedOn": "2025-09-22T17:42:22.000Z",
+          "wordCount": 9268,
+          "title": "Colston Loveland's Hip Injury Not Serious",
+          "imageUrl": "https://www.draftsharks.com/player-images/39b62cdc-7b6c-4f6e-b320-dff5f9ab6700/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79212/giants-lose-tyrone-tracy-for-some-time",
+          "author": "Kevin English",
+          "description": "Giants RB Tyrone Tracy dislocated his right shoulder in Sunday night's loss to the Chiefs. ESPN's Jordan Raanan reports that he's \"expected to miss some",
+          "link": "https://www.draftsharks.com/shark-bites/79212/giants-lose-tyrone-tracy-for-some-time",
+          "publishedOn": "2025-09-22T16:36:29.000Z",
+          "wordCount": 9435,
+          "title": "Giants Lose Tyrone Tracy for 'Some Time'",
+          "imageUrl": "https://www.draftsharks.com/player-images/fe5036ed-725e-4ba1-b11d-93988c728700/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79210/commanders-lose-will-harris-amid-tough-day-for-dbs",
+          "author": "Kevin English",
+          "description": "Washington probably lost S Will Harris for the season in Sunday's win over the Raiders. Harris suffered a fibula fracture late in the second quarter. Th",
+          "link": "https://www.draftsharks.com/shark-bites/79210/commanders-lose-will-harris-amid-tough-day-for-dbs",
+          "publishedOn": "2025-09-22T16:14:22.000Z",
+          "wordCount": 9437,
+          "title": "Commanders Lose Will Harris Amid Tough Day for DBs",
+          "imageUrl": "https://www.draftsharks.com/player-images/8fd76c6b-84c1-4263-cf99-ee2e6314d900/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79204/ceedee-lamb-has-high-ankle-sprain",
+          "author": "Kevin English",
+          "description": "Cowboys WR CeeDee Lamb is believed to have a high-ankle sprain, according to NFL Network's Ian Rapoport. Lamb is undergoing additional tests on Monday t",
+          "link": "https://www.draftsharks.com/shark-bites/79204/ceedee-lamb-has-high-ankle-sprain",
+          "publishedOn": "2025-09-22T12:39:21.000Z",
+          "wordCount": 9252,
+          "title": "CeeDee Lamb Has High-Ankle Sprain",
+          "imageUrl": "https://www.draftsharks.com/player-images/fd4a0b1e-b492-49b8-2e33-4183ddd25400/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79194/nick-bosa-might-be-out-a-while",
+          "author": "Kevin English",
+          "description": "Niners Edge Nick Bosa left Sunday's win over the Cardinals with a right knee injury, and there's reason to believe it could be serious. Bosa flashed a t",
+          "link": "https://www.draftsharks.com/shark-bites/79194/nick-bosa-might-be-out-a-while",
+          "publishedOn": "2025-09-22T01:18:44.000Z",
+          "wordCount": 9479,
+          "title": "Nick Bosa Might Be Out a While",
+          "imageUrl": "https://www.draftsharks.com/player-images/7094d81f-25c5-484d-a4ef-eb9ae23bb100/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79136/emeka-egbuka-expected-to-be-ready-for-sunday",
+          "author": "Kevin English",
+          "description": "Buccaneers WR Emeka Egbuka is expected to play Sunday against the Jets, according to ESPN's Jeremy Fowler. The rookie is dealing with hip and groin inju",
+          "link": "https://www.draftsharks.com/shark-bites/79136/emeka-egbuka-expected-to-be-ready-for-sunday",
+          "publishedOn": "2025-09-20T18:56:34.000Z",
+          "wordCount": 9297,
+          "title": "Emeka Egbuka Expected to be Ready for Sunday",
+          "imageUrl": "https://www.draftsharks.com/player-images/25c2ab7a-9c0e-44a9-b51b-404eb77e3f00/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79135/packers-expect-to-have-tucker-kraft-on-sunday",
+          "author": "Kevin English",
+          "description": "Packers TE Tucker Kraft is expected to play Sunday against the Browns, despite a left knee injury he suffered in practice this week. Kraft missed practi",
+          "link": "https://www.draftsharks.com/shark-bites/79135/packers-expect-to-have-tucker-kraft-on-sunday",
+          "publishedOn": "2025-09-20T18:38:41.000Z",
+          "wordCount": 9473,
+          "title": "Packers Expect to Have Tucker Kraft on Sunday",
+          "imageUrl": "https://www.draftsharks.com/player-images/088db1b7-3ae0-4ea9-cb93-e168ab1c8000/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79134/xavier-worthy-not-traveling-for-sunday-night-game",
+          "author": "Kevin English",
+          "description": "The Chiefs have downgraded WR Xavier Worthy to out for Sunday night's game against the Giants, and he is not traveling with the team, according to multi",
+          "link": "https://www.draftsharks.com/shark-bites/79134/xavier-worthy-not-traveling-for-sunday-night-game",
+          "publishedOn": "2025-09-20T15:45:23.000Z",
+          "wordCount": 9513,
+          "title": "Xavier Worthy Not Traveling for Sunday Night Game",
+          "imageUrl": "https://www.draftsharks.com/player-images/d3e1ddcc-e7bb-472a-b0f6-4e60f19e6700/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79130/andrew-van-ginkel-seems-likely-to-play",
+          "author": "Kevin English",
+          "description": "Vikings Edge Andrew Van Ginkel and S Harrison Smith are questionable for Sunday's game against the Bengals. Van Ginkel got back to full practice partici",
+          "link": "https://www.draftsharks.com/shark-bites/79130/andrew-van-ginkel-seems-likely-to-play",
+          "publishedOn": "2025-09-20T00:48:47.000Z",
+          "wordCount": 9301,
+          "title": "Andrew Van Ginkel Seems Likely to Play",
+          "imageUrl": "https://www.draftsharks.com/player-images/3249f4b9-2d54-4f8b-3314-48f93ce43100/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79127/bengals-expect-to-miss-cam-taylor-britt-might-miss-another-cb",
+          "author": "Kevin English",
+          "description": "The Bengals list CB Cam Taylor-Britt as doubtful for Sunday's game against the Vikings because of a hamstring injury. CB DJ Turner II is questionable as",
+          "link": "https://www.draftsharks.com/shark-bites/79127/bengals-expect-to-miss-cam-taylor-britt-might-miss-another-cb",
+          "publishedOn": "2025-09-20T00:18:46.000Z",
+          "wordCount": 9401,
+          "title": "Bengals Expect to Miss Cam Taylor-Britt, Might Miss Another CB",
+          "imageUrl": "https://www.draftsharks.com/player-images/bf14c607-2501-4dd6-3968-8fe49d1e6e00/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79125/seahawks-likely-to-miss-three-key-dbs-vs-saints",
+          "author": "Kevin English",
+          "description": "The Seahawks will likely have to go without S Julian Love, CB Devon Witherspoon, and S Nick Emmanwori for Sunday's game against the Saints. All three DB",
+          "link": "https://www.draftsharks.com/shark-bites/79125/seahawks-likely-to-miss-three-key-dbs-vs-saints",
+          "publishedOn": "2025-09-19T21:00:22.000Z",
+          "wordCount": 9396,
+          "title": "Seahawks Likely to Miss Three Key DBs vs. Saints",
+          "imageUrl": "https://www.draftsharks.com/player-images/ccbb57d3-ea5d-4538-abfa-20d2efe14800/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79095/tucker-krafts-knee-injury-not-serious",
+          "author": "Kevin English",
+          "description": "The knee injury Packers TE Tucker Kraft suffered in Thursday's practice is not serious, according to multiple reports. A source told ESPN's Adam Schefte",
+          "link": "https://www.draftsharks.com/shark-bites/79095/tucker-krafts-knee-injury-not-serious",
+          "publishedOn": "2025-09-18T22:02:32.000Z",
+          "wordCount": 9259,
+          "title": "Tucker Kraft's Knee Injury Not Serious",
+          "imageUrl": "https://www.draftsharks.com/player-images/088db1b7-3ae0-4ea9-cb93-e168ab1c8000/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79088/tucker-kraft-hurts-left-knee-in-practice",
+          "author": "Kevin English",
+          "description": "Packers TE Tucker Kraft injured his left knee in Thursday's practice, according to multiple reports. NFL Network's Ian Rapoport says, \"the belief is it'",
+          "link": "https://www.draftsharks.com/shark-bites/79088/tucker-kraft-hurts-left-knee-in-practice",
+          "publishedOn": "2025-09-18T20:24:39.000Z",
+          "wordCount": 9285,
+          "title": "Tucker Kraft Hurts Left Knee In Practice",
+          "imageUrl": "https://www.draftsharks.com/player-images/088db1b7-3ae0-4ea9-cb93-e168ab1c8000/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79066/justin-fields-concussion-knocks-him-out-for-week-3",
+          "author": "Kevin English",
+          "description": "Jets QB Justin Fields has been announced as out for their Week 3 match-up against the Buccaneers. HC Aaron Glenn announced that Fields would not play, a",
+          "link": "https://www.draftsharks.com/shark-bites/79066/justin-fields-concussion-knocks-him-out-for-week-3",
+          "publishedOn": "2025-09-17T16:11:46.000Z",
+          "wordCount": 9464,
+          "title": "Justin Fields' Concussion Knocks Him Out for Week 3",
+          "imageUrl": "https://www.draftsharks.com/player-images/7ddebb60-bc0b-4f8d-d525-98824e706200/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79064/jayden-reed-had-collarbone-and-foot-surgeries",
+          "author": "Kevin English",
+          "description": "Packers WR Jayden Reed said on social media Tuesday that he had successful surgeries on his collarbone and foot. We knew he was getting his broken colla",
+          "link": "https://www.draftsharks.com/shark-bites/79064/jayden-reed-had-collarbone-and-foot-surgeries",
+          "publishedOn": "2025-09-17T01:09:28.000Z",
+          "wordCount": 9266,
+          "title": "Jayden Reed Had Collarbone And Foot Surgeries",
+          "imageUrl": "https://www.draftsharks.com/player-images/f17e7604-8787-4db1-e59f-74fddd5e4000/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79062/aaron-jones-set-to-miss-at-least-four-games",
+          "author": "Kevin English",
+          "description": "The Vikings are placing RB Aaron Jones on IR for the hamstring injury that knocked him out of Sunday night's loss to the Falcons. That means Jones will",
+          "link": "https://www.draftsharks.com/shark-bites/79062/aaron-jones-set-to-miss-at-least-four-games",
+          "publishedOn": "2025-09-16T21:27:04.000Z",
+          "wordCount": 9527,
+          "title": "Aaron Jones Set to Miss at Least Four Games",
+          "imageUrl": "https://www.draftsharks.com/player-images/9bc627c8-6a46-4dc7-fca5-0356a709d900/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79060/calijah-kancey-injury-takes-key-pass-rusher-out-of-bucs-lineup",
+          "author": "Kevin English",
+          "description": "Buccaneers DT Calijah Kancey tore his left pectoral muscle in Monday night's win over Houston, according to multiple reports. He'll have surgery Friday,",
+          "link": "https://www.draftsharks.com/shark-bites/79060/calijah-kancey-injury-takes-key-pass-rusher-out-of-bucs-lineup",
+          "publishedOn": "2025-09-16T17:22:51.000Z",
+          "wordCount": 9579,
+          "title": "Calijah Kancey Injury Takes Key Pass Rusher Out of Bucs Lineup",
+          "imageUrl": "https://www.draftsharks.com/player-images/4cb2d018-2c67-4a13-789a-1246f9640700/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79048/jayden-daniels-iffy-for-week-3-with-knee-sprain",
+          "author": "Kevin English",
+          "description": "Commanders QB Jayden Daniels sprained his right knee in Thursday night's loss at Green Bay, according to multiple reports. The injury's not expected to",
+          "link": "https://www.draftsharks.com/shark-bites/79048/jayden-daniels-iffy-for-week-3-with-knee-sprain",
+          "publishedOn": "2025-09-15T18:35:04.000Z",
+          "wordCount": 9492,
+          "title": "Jayden Daniels Iffy for Week 3 with Knee Sprain",
+          "imageUrl": "https://www.draftsharks.com/player-images/75c6e937-75e7-4740-1ac0-f9f6cd2cd800/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79046/maybe-alex-highsmith-wont-miss-too-much-time",
+          "author": "Kevin English",
+          "description": "Steelers Edge Alex Highsmith left Sunday's loss to the Seahawks with what the team quickly deemed a high ankle sprain. NFL Network's Ian Rapoport report",
+          "link": "https://www.draftsharks.com/shark-bites/79046/maybe-alex-highsmith-wont-miss-too-much-time",
+          "publishedOn": "2025-09-15T17:23:59.000Z",
+          "wordCount": 9461,
+          "title": "Maybe Alex Highsmith Won't Miss TOO Much Time",
+          "imageUrl": "https://www.draftsharks.com/player-images/3c3f8de9-ea4d-4956-dff7-188b7cfa9300/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79041/confirmed-joe-burrow-out-for-a-minimum-of-three-months",
+          "author": "Kevin English",
+          "description": "Bengals QB Joe Burrow will require surgery on his toe, sidelining him for at least three months, according to ESPN’s Adam Schefter. Burrow suffered a",
+          "link": "https://www.draftsharks.com/shark-bites/79041/confirmed-joe-burrow-out-for-a-minimum-of-three-months",
+          "publishedOn": "2025-09-15T12:44:32.000Z",
+          "wordCount": 9449,
+          "title": "Confirmed: Joe Burrow Out for a Minimum of Three Months",
+          "imageUrl": "https://www.draftsharks.com/player-images/d8ccf9c3-35b8-4062-440a-756894165300/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78994/laiatu-latu-not-expected-to-play-against-broncos",
+          "author": "Kevin English",
+          "description": "Colts Edge Laiatu Latu is officially questionable for today's game against the Broncos because of a hamstring injury, but multiple reports say he's not",
+          "link": "https://www.draftsharks.com/shark-bites/78994/laiatu-latu-not-expected-to-play-against-broncos",
+          "publishedOn": "2025-09-14T12:52:21.000Z",
+          "wordCount": 9432,
+          "title": "Laiatu Latu Not Expected to Play Against Broncos",
+          "imageUrl": "https://www.draftsharks.com/player-images/7f733e33-652b-4dd2-f33d-4da6bc62d100/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78982/andrew-van-ginkel-out-harrison-smith-questionable",
+          "author": "Kevin English",
+          "description": "The Vikings have ruled Edge Andrew Van Ginkel out for Sunday's game against the Falcons. He's in the concussion protocol off the Monday night win over t",
+          "link": "https://www.draftsharks.com/shark-bites/78982/andrew-van-ginkel-out-harrison-smith-questionable",
+          "publishedOn": "2025-09-12T21:14:50.000Z",
+          "wordCount": 9528,
+          "title": "Andrew Van Ginkel Out; Harrison Smith Questionable",
+          "imageUrl": "https://www.draftsharks.com/player-images/3249f4b9-2d54-4f8b-3314-48f93ce43100/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78966/noah-brown-suffers-groin-injury",
+          "author": "Kevin English",
+          "description": "Commanders WR Noah Brown was knocked out of Thursday night's game vs. the Packers with a groin injury. He was primarily replaced by rookie Jaylin Lane,",
+          "link": "https://www.draftsharks.com/shark-bites/78966/noah-brown-suffers-groin-injury",
+          "publishedOn": "2025-09-12T14:50:00.000Z",
+          "wordCount": 9239,
+          "title": "Noah Brown Suffers Groin Injury",
+          "imageUrl": "https://www.draftsharks.com/player-images/aeed6e5c-2bcf-4b22-2af0-83143eb1f400/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78960/jayden-reed-has-broken-collarbone",
+          "author": "Kevin English",
+          "description": "Packers WR Jayden Reed broke his collarbone in Thursday night's win over the Commanders, HC Matt LaFleur said. The \"hope\" is that Reed will be back in 6",
+          "link": "https://www.draftsharks.com/shark-bites/78960/jayden-reed-has-broken-collarbone",
+          "publishedOn": "2025-09-12T11:36:03.000Z",
+          "wordCount": 9463,
+          "title": "Jayden Reed Has Broken Collarbone",
+          "imageUrl": "https://www.draftsharks.com/player-images/f17e7604-8787-4db1-e59f-74fddd5e4000/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78959/jayden-reed-hurts-right-shoulder",
+          "author": "Kevin English",
+          "description": "Packers WR Jayden Reed is officially questionable to return to Thursday night's game vs. the Commanders with a right shoulder injury. Reed made an impre",
+          "link": "https://www.draftsharks.com/shark-bites/78959/jayden-reed-hurts-right-shoulder",
+          "publishedOn": "2025-09-12T01:14:27.000Z",
+          "wordCount": 9275,
+          "title": "Jayden Reed Hurts Right shoulder",
+          "imageUrl": "https://www.draftsharks.com/player-images/f17e7604-8787-4db1-e59f-74fddd5e4000/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78962/blake-cashman-to-miss-at-least-four-games",
+          "author": "Kevin English",
+          "description": "The Vikings are placing LB Blake Cashman on IR for the hamstring injury that knocked him out of Monday night's game. That means he'll miss at least the",
+          "link": "https://www.draftsharks.com/shark-bites/78962/blake-cashman-to-miss-at-least-four-games",
+          "publishedOn": "2025-09-11T18:50:47.000Z",
+          "wordCount": 9505,
+          "title": "Blake Cashman to Miss at Least Four Games",
+          "imageUrl": "https://www.draftsharks.com/player-images/62938d73-2316-47f8-f869-099d3295fb00/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78944/chris-godwin-headed-back-to-the-field",
+          "author": "Kevin English",
+          "description": "NFL Network's Ian Rapoport reports that Buccaneers WR Chris Godwin is expected to practice today for the first time since last year's ankle injury, whic",
+          "link": "https://www.draftsharks.com/shark-bites/78944/chris-godwin-headed-back-to-the-field",
+          "publishedOn": "2025-09-11T15:04:00.000Z",
+          "wordCount": 9588,
+          "title": "Chris Godwin Headed Back to the Field",
+          "imageUrl": "https://www.draftsharks.com/player-images/5a1d4a3c-a257-4b36-53e1-3beef1245c00/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78943/brock-purdy-expected-to-miss-at-least-two-games-with-turf-toe",
+          "author": "Kevin English",
+          "description": "49ers QB Brock Purdy is expected to miss two to five games with a turf toe variant, per NFL Network’s Ian Rapoport. He suffered the injury in the seco",
+          "link": "https://www.draftsharks.com/shark-bites/78943/brock-purdy-expected-to-miss-at-least-two-games-with-turf-toe",
+          "publishedOn": "2025-09-11T13:08:24.000Z",
+          "wordCount": 9461,
+          "title": "Brock Purdy Expected To Miss At Least Two Games with Turf Toe",
+          "imageUrl": "https://www.draftsharks.com/player-images/16c8fad7-d9cf-45c3-2586-38fefd9c2300/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78928/vikings-expect-to-lose-blake-cashman-for-multiple-games",
+          "author": "Kevin English",
+          "description": "Vikings LB Blake Cashman left Monday night's win over the Bears with an injury to his right hamstring. Ben Goessling of the Minnesota Star Tribune repor",
+          "link": "https://www.draftsharks.com/shark-bites/78928/vikings-expect-to-lose-blake-cashman-for-multiple-games",
+          "publishedOn": "2025-09-09T18:40:47.000Z",
+          "wordCount": 9499,
+          "title": "Vikings Expect to Lose Blake Cashman for Multiple Games",
+          "imageUrl": "https://www.draftsharks.com/player-images/62938d73-2316-47f8-f869-099d3295fb00/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78924/deshon-elliott-looks-likely-to-miss-a-few-games",
+          "author": "Kevin English",
+          "description": "The Steelers are set to announced the signing of S Jabrill Peppers, according to multiple reports. That comes two days after S DeShon Elliott left the w",
+          "link": "https://www.draftsharks.com/shark-bites/78924/deshon-elliott-looks-likely-to-miss-a-few-games",
+          "publishedOn": "2025-09-09T15:38:58.000Z",
+          "wordCount": 9563,
+          "title": "DeShon Elliott Looks Likely to Miss a Few Games",
+          "imageUrl": "https://www.draftsharks.com/player-images/0bfa9303-0cc8-44fe-9fc8-f15ad3cb8700/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78919/nick-emmanwori-set-to-miss-some-time",
+          "author": "Kevin English",
+          "description": "Seahawks rookie S Nick Emmanwori suffered a high ankle sprain on his fifth play of Sunday's loss to the 49ers and now appears likely to miss multiple ga",
+          "link": "https://www.draftsharks.com/shark-bites/78919/nick-emmanwori-set-to-miss-some-time",
+          "publishedOn": "2025-09-09T00:27:14.000Z",
+          "wordCount": 9455,
+          "title": "Nick Emmanwori Set to Miss Some Time",
+          "imageUrl": "https://www.draftsharks.com/img/DS-YourUnfairAdvantage-banner.webp"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78916/brock-purdy-iffy-for-week-2-with-multiple-injuries",
+          "author": "Kevin English",
+          "description": "Niners QB Brock Purdy came away from Sunday's win over the Seahawks with an injury to his left shoulder and a toe injury, according to multiple reports.",
+          "link": "https://www.draftsharks.com/shark-bites/78916/brock-purdy-iffy-for-week-2-with-multiple-injuries",
+          "publishedOn": "2025-09-08T22:52:24.000Z",
+          "wordCount": 9451,
+          "title": "Brock Purdy Iffy for Week 2 with Multiple Injuries",
+          "imageUrl": "https://www.draftsharks.com/player-images/16c8fad7-d9cf-45c3-2586-38fefd9c2300/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78914/george-kittle-expected-to-miss-multiple-weeks",
+          "author": "Kevin English",
+          "description": "Several reports have 49ers TE George Kittle missing multiple weeks with the hamstring injury he suffered in Sunday's win over the Seahawks. NFL Network'",
+          "link": "https://www.draftsharks.com/shark-bites/78914/george-kittle-expected-to-miss-multiple-weeks",
+          "publishedOn": "2025-09-08T22:41:42.000Z",
+          "wordCount": 9292,
+          "title": "George Kittle Expected to Miss Multiple Weeks",
+          "imageUrl": "https://www.draftsharks.com/player-images/d4a3173e-0916-4f06-76b5-abfe2f24bc00/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78875/drake-london-injury-not-believed-to-be-serious",
+          "author": "Kevin English",
+          "description": "Falcons WR Drake London has been diagnosed with a shoulder sprain and is considered \"day to day,\" according to NFL Network's Ian Rapoport. London is sch",
+          "link": "https://www.draftsharks.com/shark-bites/78875/drake-london-injury-not-believed-to-be-serious",
+          "publishedOn": "2025-09-08T00:04:49.000Z",
+          "wordCount": 9265,
+          "title": "Drake London Injury Not Believed To Be Serious",
+          "imageUrl": "https://www.draftsharks.com/player-images/b854a0f2-4419-4d2c-58a3-a739debf4900/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78849/make-plans-to-miss-xavier-worthy-for-at-least-a-bit",
+          "author": "Kevin English",
+          "description": "NFL Network's Ian Rapoport reports that Chiefs WR Xavier Worthy suffered a dislocated shoulder in Friday night's loss to the Chargers and is still seeki",
+          "link": "https://www.draftsharks.com/shark-bites/78849/make-plans-to-miss-xavier-worthy-for-at-least-a-bit",
+          "publishedOn": "2025-09-07T13:31:00.000Z",
+          "wordCount": 9494,
+          "title": "Make Plans to Miss Xavier Worthy for at Least a Bit",
+          "imageUrl": "https://www.draftsharks.com/player-images/d3e1ddcc-e7bb-472a-b0f6-4e60f19e6700/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78846/tj-edwards-expected-to-miss-week-1-maybe-more",
+          "author": "Kevin English",
+          "description": "Bears LB T.J. Edwards is doubtful for Monday night's game against the Vikings because of a hamstring injury that has cost him \"nearly a week and a half\"",
+          "link": "https://www.draftsharks.com/shark-bites/78846/tj-edwards-expected-to-miss-week-1-maybe-more",
+          "publishedOn": "2025-09-07T12:36:54.000Z",
+          "wordCount": 9539,
+          "title": "T.J. Edwards Expected to Miss Week 1 -- Maybe More",
+          "imageUrl": "https://www.draftsharks.com/player-images/903f2342-bd04-4617-37da-f18df70e2500/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78831/xavier-worthy-hurts-right-shoulder",
+          "author": "Kevin English",
+          "description": "Chiefs WR Xavier Worthy suffered an apparent right shoulder injury when he collided with TE Travis Kelce on the team's third offensive play of Friday ni",
+          "link": "https://www.draftsharks.com/shark-bites/78831/xavier-worthy-hurts-right-shoulder",
+          "publishedOn": "2025-09-06T00:18:00.000Z",
+          "wordCount": 9247,
+          "title": "Xavier Worthy Hurts Right Shoulder",
+          "imageUrl": "https://www.draftsharks.com/player-images/d3e1ddcc-e7bb-472a-b0f6-4e60f19e6700/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78832/dre-greenlaws-quad-remains-a-problem",
+          "author": "Kevin English",
+          "description": "The Broncos have ruled LB Dre Greenlaw out for Sunday's game against the Titans. That's not a surprise after Greenlaw missed practice all week. It appea",
+          "link": "https://www.draftsharks.com/shark-bites/78832/dre-greenlaws-quad-remains-a-problem",
+          "publishedOn": "2025-09-05T22:40:29.000Z",
+          "wordCount": 9438,
+          "title": "Dre Greenlaw's Quad Remains a Problem",
+          "imageUrl": "https://www.draftsharks.com/player-images/b9bf1d4d-1606-4595-ea1f-88aa5e79f000/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78826/chase-young-to-miss-opener-with-calf-injury",
+          "author": "Kevin English",
+          "description": "The Saints have ruled Edge Chase Young out for Sunday's game against the Cardinals because of a calf injury. HC Kellen Moore called it a \"week-to-week\"",
+          "link": "https://www.draftsharks.com/shark-bites/78826/chase-young-to-miss-opener-with-calf-injury",
+          "publishedOn": "2025-09-05T20:46:40.000Z",
+          "wordCount": 9353,
+          "title": "Chase Young to Miss Opener with Calf Injury",
+          "imageUrl": "https://www.draftsharks.com/player-images/a0e00a81-28a8-4716-c71e-ad1298d97800/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78823/micah-parsons-questionable-with-back-injury",
+          "author": "Kevin English",
+          "description": "The Packers are listing Edge Micah Parsons as questionable for Sunday's game against the Lions with the back injury that has limited his practice work s",
+          "link": "https://www.draftsharks.com/shark-bites/78823/micah-parsons-questionable-with-back-injury",
+          "publishedOn": "2025-09-05T20:44:25.000Z",
+          "wordCount": 9271,
+          "title": "Micah Parsons Questionable with Back Injury",
+          "imageUrl": "https://www.draftsharks.com/player-images/e4ac6267-42aa-496b-5af2-d4baff136700/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78808/will-shipley-hurts-ribs-in-opener",
+          "author": "Kevin English",
+          "description": "Eagles RB Will Shipley suffered a rib injury in the first half of Thursday night's opener vs. the Cowboys. He was officially deemed \"questionable\" to re",
+          "link": "https://www.draftsharks.com/shark-bites/78808/will-shipley-hurts-ribs-in-opener",
+          "publishedOn": "2025-09-05T13:03:33.000Z",
+          "wordCount": 9259,
+          "title": "Will Shipley Hurts Ribs In Opener",
+          "imageUrl": "https://www.draftsharks.com/img/DS-YourUnfairAdvantage-banner.webp"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78797/christian-kirk-likely-to-miss-week-1-with-strained-hamstring",
+          "author": "Kevin English",
+          "description": "Texans WR Christian Kirk has a strained hamstring that likely keeps him out of the opener against the Rams for Week 1. He could be out for additional ti",
+          "link": "https://www.draftsharks.com/shark-bites/78797/christian-kirk-likely-to-miss-week-1-with-strained-hamstring",
+          "publishedOn": "2025-09-04T21:30:58.000Z",
+          "wordCount": 9496,
+          "title": "Christian Kirk Likely to Miss Week 1 with Strained Hamstring",
+          "imageUrl": "https://www.draftsharks.com/player-images/d43b589d-23d6-4b44-521b-025a36153200/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/78778/isaiah-likely-expected-to-miss-week-1-but-not-much-more",
+          "author": "Kevin English",
+          "description": "The Ravens expect TE Isaiah Likely to miss Sunday's game against the Bills, but NFL Network's Ian Rapoport reports that Likely \"should be ready early in",
+          "link": "https://www.draftsharks.com/shark-bites/78778/isaiah-likely-expected-to-miss-week-1-but-not-much-more",
+          "publishedOn": "2025-09-03T12:41:42.000Z",
+          "wordCount": 9526,
+          "title": "Isaiah Likely Expected to Miss Week 1 but Not Much More",
+          "imageUrl": "https://www.draftsharks.com/player-images/2b1f899b-73ec-4a4b-24f9-79554acbd800/1200x675.avif"
+        }
+      ]
+    },
+    {
+      "title": "NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports",
+      "feedUrl": "https://sports.yahoo.com/nfl/rss/",
+      "siteUrl": "https://sports.yahoo.com/nfl/",
+      "articles": [
+        {
+          "id": "5d50fa50-8fbb-3cbc-8440-7b0e89768cc1",
+          "author": null,
+          "description": "The Buccaneers returned to practice Wednesday, and they ended it with 16 players on their injury report.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-did-not-practice-wednesday-with-knee-right-biceps-injuries",
+          "publishedOn": "2025-10-02T02:35:49.000Z",
+          "wordCount": 2214,
+          "title": "Baker Mayfield did not practice Wednesday with knee, right biceps injuries",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/f471af1/2147483647/strip/true/crop/4300x2419+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F19%2Fa6%2F55a4cdcf401bbf4c9b156b0f677d%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2238217171"
+        },
+        {
+          "id": "5a83fa87-adda-4a40-b846-aeaa4a566685",
+          "author": "Jason Fitz,Charles Robinson,Frank Schwab",
+          "description": "Jason Fitz, Charles Robinson and Frank Schwab break down every angle of Flacco being benched for Gabriel while Sanders continues to serve as third string.",
+          "link": "https://sports.yahoo.com/nfl/article/joe-flacco-benched-dillon-gabriel-starts--shedeur-sanders-goes-mute-013513760.html",
+          "publishedOn": "2025-10-02T01:35:13.000Z",
+          "wordCount": 9281,
+          "title": "Joe Flacco benched, Dillon Gabriel starts & Shedeur Sanders goes mute",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/16GwJHLsQ46tjUkLju_qLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/0c4441f0-9f2d-11f0-bff7-9d17bf9217fd"
+        },
+        {
+          "id": "57749580-7884-4fc4-86f2-47293059b9f9",
+          "author": "Matt Jacob",
+          "description": "Week 5 NFL betting trends to know for the biggest games, including Broncos-Eagles.",
+          "link": "https://sports.yahoo.com/nfl/betting/article/nfl-betting-odds-lines-betting-trends-to-know-for-week-5s-biggest-games-010707567.html",
+          "publishedOn": "2025-10-02T01:07:07.000Z",
+          "wordCount": 12436,
+          "title": "NFL betting, odds, lines: Betting trends to know for Week 5&#39;s biggest games",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/q4McEkx0LD6naIgI9pHEnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/ac25c4f0-9f28-11f0-8bfb-efbb1a472214"
+        },
+        {
+          "id": "16ae7d22-406a-38d6-9942-3c8e499013dc",
+          "author": null,
+          "description": "Another week, another group of under-the-radar RBs, WRs and TEs who could spike for fantasy football lineups.",
+          "link": "https://www.nbcsports.com/fantasy/football/news/flex-finder-week-5-freerolling-with-rachaad-white-and-michael-carter",
+          "publishedOn": "2025-10-02T01:04:50.000Z",
+          "wordCount": 3893,
+          "title": "FLEX Finder Week 5: Freerolling with Rachaad White and Michael Carter",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/e9ece8b/2147483647/strip/true/crop/3628x2041+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F28%2F35%2F674a22844395a0cc070b9668752c%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27141023"
+        },
+        {
+          "id": "46eb8ef9-91fc-3458-b8b1-37b947b6dfff",
+          "author": null,
+          "description": "Shedeur Sanders pantomimes his responses about staying at No. 3 on the Cleveland Browns' depth chart after fellow rookie Dillon Gabriel is named starter.",
+          "link": "https://sports.yahoo.com/article/shedeur-sanders-mutes-himself-literally-000458032.html",
+          "publishedOn": "2025-10-02T00:04:58.000Z",
+          "wordCount": 9360,
+          "title": "Shedeur Sanders mutes himself, literally, after Dillon Gabriel becomes Browns&#39; starting QB",
+          "imageUrl": "https://media.zenfs.com/en/la_times_articles_853/e105e7d8d70a7da5bc550e4b707641a1"
+        },
+        {
+          "id": "f719927e-7c20-3f20-905b-93ba3f9ef302",
+          "author": null,
+          "description": "Cowboys cornerback Trevon Diggs has had a rough go of it this year.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trevon-diggs-is-back-in-the-starting-lineup-hopes-for-more-man-to-man-defense",
+          "publishedOn": "2025-10-01T23:49:44.000Z",
+          "wordCount": 2413,
+          "title": "Trevon Diggs is back in the starting lineup, hopes for more man-to-man defense",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/c676f48/2147483647/strip/true/crop/5868x3301+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F03%2Fcd%2Fa99a61e54dbeba468b59bdc0d029%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2238358930"
+        },
+        {
+          "id": "c0fc717c-87e7-3014-a23c-b81a331a2de7",
+          "author": null,
+          "description": "On Wednesday, Browns third-string quarterback Shedeur Sanders made the unusual (and possibly unprecedented) decision to conduct a press conference via mime.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-shedeur-sanders-silent-press-conference-was-a-response-to-criticism-from-rex-ryan",
+          "publishedOn": "2025-10-01T23:36:16.000Z",
+          "wordCount": 2277,
+          "title": "Report: Shedeur Sanders silent press conference was a response to criticism from Rex Ryan",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/7df30a6/2147483647/strip/true/crop/7513x4226+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2F74%2F8ebb16e04d8f9a995f15bc3d7f29%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237637130"
+        },
+        {
+          "id": "fc353e67-99c1-3701-8e1b-0736b3d533fb",
+          "author": null,
+          "description": "Howard walks away after four 2025 starts with the Colts.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/xavien-howard-my-kids-are-more-important-to-me-than-football",
+          "publishedOn": "2025-10-01T23:20:13.000Z",
+          "wordCount": 2461,
+          "title": "Xavien Howard: &quot;My kids are more important to me than football&quot;",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/7bcdf73/2147483647/strip/true/crop/6633x3731+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F74%2Fe416167749eeb5f4d23b49af5ccc%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27029213"
+        },
+        {
+          "id": "ec7e3d79-00b2-3504-a475-e835262a7a59",
+          "author": null,
+          "description": "Follow the latest injury news for fantasy football lineups in Week 5.",
+          "link": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-injury-report-week-5-top-wrs-go-down-lamar-jackson-ricky-pearsall-updates",
+          "publishedOn": "2025-10-01T23:01:00.000Z",
+          "wordCount": 5377,
+          "title": "Fantasy Football Injury Report Week 5: Bucky Irving, Trey Benson injuries; Jayden Daniels update",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/af74477/2147483647/strip/true/crop/4430x2492+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2F78%2F079ee5994923b066240868a061c2%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27028088"
+        },
+        {
+          "id": "e84a105d-564e-3226-80d5-fe754a6f30c7",
+          "author": null,
+          "description": "Howard said postgame that his performance was \"not to my ability.\"",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-cb-xavien-howard-retires-after-rough-outing-sunday",
+          "publishedOn": "2025-10-01T22:58:00.000Z",
+          "wordCount": 2223,
+          "title": "Colts CB Xavien Howard retires after rough outing Sunday",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/d2740e4/2147483647/strip/true/crop/4799x2699+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F17%2F8b%2Fc7e23a0043669f825d191bcf4473%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235439007"
+        },
+        {
+          "id": "a23081a7-3bde-3d4d-a0a4-8ca2de62d196",
+          "author": null,
+          "description": "The Eagles returned to practice on Wednesday, and tight end Dallas Goedert (knee) did not participate.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dallas-goedert-did-not-practice-wednesday",
+          "publishedOn": "2025-10-01T22:40:11.000Z",
+          "wordCount": 2114,
+          "title": "Dallas Goedert did not practice Wednesday",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/454c20b/2147483647/strip/true/crop/3862x2172+0+201/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd3%2Ff7%2Fd967ecc74cb7be33e631160904e0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237653339"
+        },
+        {
+          "id": "79aba237-424a-4f51-8e83-5cdaee84af20",
+          "author": "Andy Backstrom",
+          "description": "Xavien Howard, 32, has surprisingly decided to end his nine-season career. The news came three days after he played 66 defensive snaps in a Week 4 loss to the Los Angeles Rams.",
+          "link": "https://sports.yahoo.com/nfl/breaking-news/article/colts-cb-xavien-howard-retires-4-games-into-season-says-he-wants-to-prioritize-his-family-222909029.html",
+          "publishedOn": "2025-10-01T22:29:09.000Z",
+          "wordCount": 9701,
+          "title": "Colts CB Xavien Howard retires 4 games into season, says he wants to prioritize his family",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/YIgsFI5TIfCSlTt2otuumQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/dff23480-9f14-11f0-a959-2cde23556978"
+        },
+        {
+          "id": "7b412baf-036e-489f-b5b6-8861aa9a8d35",
+          "author": "Charles McDonald,Nate Tice",
+          "description": "We're a month into the NFL season and even further than that into college football, so Nate Tice and Charles McDonald check in with their first mock of the cycle.",
+          "link": "https://sports.yahoo.com/nfl/article/2026-nfl-mock-draft-10-an-edge-defender-goes-no-1-and-4-qbs-follow-him-in-the-top-10-220558890.html",
+          "publishedOn": "2025-10-01T22:05:58.000Z",
+          "wordCount": 15748,
+          "title": "2026 NFL mock draft 1.0: An edge defender goes No. 1, and 4 QBs follow him in the top 10",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/JvcA3JeP3AuT5Vm6NvwT8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/91028a70-9efe-11f0-affe-60552728ec4b"
+        },
+        {
+          "id": "b770e586-5742-3cff-a26c-13baeee91a34",
+          "author": null,
+          "description": "Texans cornerback Derek Stingley Jr. and wide receiver Nico Collins continue to work through their injuries.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derek-stingley-sat-not-practice-nico-collins-was-limited",
+          "publishedOn": "2025-10-01T21:54:00.000Z",
+          "wordCount": 2161,
+          "title": "Derek Stingley missed practice; Nico Collins was limited",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/745a74b/2147483647/strip/true/crop/3981x2239+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F05%2F3c%2Fc879060245a7a0e5d2f656a87f81%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237774776"
+        },
+        {
+          "id": "76923bdb-eca6-3c95-b4fb-ec427da98c03",
+          "author": null,
+          "description": "Quarterback Lamar Jackson had plenty of company on the sideline at Ravens practice on Wednesday.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roquan-smith-ronnie-stanley-join-lamar-jackson-as-non-participants-in-wednesdays-practice",
+          "publishedOn": "2025-10-01T21:40:53.000Z",
+          "wordCount": 2178,
+          "title": "Roquan Smith, Ronnie Stanley join Lamar Jackson as non-participants in Wednesday&#39;s practice",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/a279903/2147483647/strip/true/crop/8473x4766+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2F4e%2Ff70040624900ae57584fc1fa846c%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2238267809"
+        },
+        {
+          "id": "9e4db5d5-91de-3f7c-96c1-5a57659b5d99",
+          "author": null,
+          "description": "Rams wide receiver Puka Nacua is off to an incredible start, even by his standards, as the Rams prepare for their first divisional battle against the 49ers.",
+          "link": "https://sports.yahoo.com/article/puka-nacuas-stunning-start-reminiscent-213956931.html",
+          "publishedOn": "2025-10-01T21:39:56.000Z",
+          "wordCount": 10320,
+          "title": "Puka Nacua&#39;s stunning start reminiscent of Cooper Kupp&#39;s historic Rams season",
+          "imageUrl": "https://media.zenfs.com/en/la_times_articles_853/f01e6934c022c552bd41eada99e71b0e"
+        },
+        {
+          "id": "b213bf81-a147-4df4-a390-238d2316b2f5",
+          "author": "Ryan Young",
+          "description": "\"I let my frustrations boil over.\"",
+          "link": "https://sports.yahoo.com/nfl/breaking-news/article/aj-brown-takes-full-accountability-for-post-after-latest-low-volume-game-insists-it-wasnt-directed-at-eagles-213805589.html",
+          "publishedOn": "2025-10-01T21:38:05.000Z",
+          "wordCount": 9600,
+          "title": "A.J. Brown takes &#39;full accountability&#39; for post after latest low-volume game, insists it wasn&#39;t directed at Eagles",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/beUD4reQ2AwBJjLzLzWCKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/c11cb890-9e07-11f0-bfff-1ab820f7917b"
+        },
+        {
+          "id": "4e3cc64e-6729-3eea-a5f9-6cce1e40dc4f",
+          "author": null,
+          "description": "The Cowboys added left guard Tyler Smith to their injury report Wednesday as they opened practice for Sunday's game against the Jets.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lg-tyler-smith-among-seven-key-cowboys-out-of-practice",
+          "publishedOn": "2025-10-01T21:31:13.000Z",
+          "wordCount": 2142,
+          "title": "LG Tyler Smith among seven key Cowboys out of practice",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/c5271d8/2147483647/strip/true/crop/3055x1718+0+159/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2F54%2F17c56bcc4f30946bad18f93ac9d0%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27031874"
+        },
+        {
+          "id": "4682a243-73e1-3671-8527-2a1fed76ab34",
+          "author": null,
+          "description": "The San Francisco 49ers have an opportunity to best the Los Angeles Rams in one specific area on Thursday night.",
+          "link": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/defense-rams-offensive-line/1878672/?partner=yahoo",
+          "publishedOn": "2025-10-01T21:18:01.000Z",
+          "wordCount": 2438,
+          "title": "Where shorthanded 49ers might have advantage vs. tough Rams team in Week 5",
+          "imageUrl": "https://media.nbcsportsbayarea.com/2025/10/fred-warner-yetur-gross-matos-GettyImages-2190625493-e1759378510716.jpg?quality=85&strip=all&resize=1200%2C675"
+        },
+        {
+          "id": "f66f5cf3-d97e-3a9d-97de-ae1b26e0640b",
+          "author": null,
+          "description": "The Lions placed cornerback D.J.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-place-cb-d-j-reed-on-ir-open-practice-window-for-dt-alim-mcneill",
+          "publishedOn": "2025-10-01T21:05:34.000Z",
+          "wordCount": 2231,
+          "title": "Lions place CB D.J. Reed on IR, open practice window for DT Alim McNeill",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/0e1b566/2147483647/strip/true/crop/4217x2372+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F60%2F09%2Fffbbbc094145881c76300d5ce84f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237637257"
+        },
+        {
+          "id": "e0ccacb4-ae8d-36c4-af36-7c6d597d49e5",
+          "author": null,
+          "description": "The Rams play the 49ers on Thursday Night Football, and both teams enter with some key injuries.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rob-havenstein-tyler-higbee-are-doubtful-for-thursday-night-football",
+          "publishedOn": "2025-10-01T20:38:11.000Z",
+          "wordCount": 2183,
+          "title": "Rob Havenstein, Tyler Higbee are doubtful for Thursday Night Football",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/3030d7f/2147483647/strip/true/crop/4748x2671+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2Fb0%2F2e9880e64943a04ca8aee2d58005%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2236255336"
+        },
+        {
+          "id": "ddb61278-9102-44f3-94e7-50d9c79db1c7",
+          "author": "Jori Epstein",
+          "description": "It wasn't some joke about the  Browns panicking after a 1-3 start, nor was it a mistake. Instead, it was a text about the opportunity, and the analogy is apt.",
+          "link": "https://sports.yahoo.com/nfl/article/browns-dillon-gabriel-is-approaching-replacing-joe-flacco-like-a-fire-station-yes-a-fire-station-203751060.html",
+          "publishedOn": "2025-10-01T20:37:51.000Z",
+          "wordCount": 11833,
+          "title": "Browns&#39; Dillon Gabriel is approaching replacing Joe Flacco like a fire station. Yes, a fire station",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fEV.tNBV3R_ms8AtyG3rRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2025-10/0c29b24d-d073-4353-8b34-fabb9037c0c5"
+        },
+        {
+          "id": "9d663ca6-76a8-3f3e-8a2b-6cbc9fa17390",
+          "author": null,
+          "description": "San Francisco will be shorthanded on Thursday night, as Mac Jones is now set to make his third start of the season.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-jauan-jennings-ricky-pearsall-all-ruled-out-for-49ers-rams",
+          "publishedOn": "2025-10-01T20:23:40.000Z",
+          "wordCount": 2287,
+          "title": "Brock Purdy, Jauan Jennings, Ricky Pearsall all ruled out for 49ers-Rams",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/ffb5d10/2147483647/strip/true/crop/6884x3872+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0d%2Faa%2F1c4729be435d97671dffd5aaea52%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27217119"
+        },
+        {
+          "id": "1b5f5b11-586f-48b1-b759-18db7a506db8",
+          "author": "Scott Pianowski",
+          "description": "Has stacking actually helped any fantasy managers in season-long leagues this year? Scott Pianowski takes a closer look.",
+          "link": "https://sports.yahoo.com/fantasy/article/is-stacking-dead-in-season-long-fantasy-football-leagues-2025-has-been-rough-for-managers-pairing-a-star-wr-with-his-qb-201648999.html",
+          "publishedOn": "2025-10-01T20:16:48.000Z",
+          "wordCount": 10481,
+          "title": "Is stacking dead in season-long fantasy football leagues? 2025 has been rough for managers pairing a star WR with his QB",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/NembV3cICHORRL.PfbyycA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/e6285800-9f02-11f0-a1fd-a4aab011de14"
+        },
+        {
+          "id": "9df66fe9-0443-38b7-a0b0-f887101456ed",
+          "author": null,
+          "description": "The Chargers signed offensive tackle Foster Sarell to the active roster from the practice squad, the team announced Wednesday.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-sign-ol-foster-sarell-to-the-active-roster",
+          "publishedOn": "2025-10-01T20:15:47.000Z",
+          "wordCount": 2155,
+          "title": "Chargers sign OL Foster Sarell to the active roster",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/8772a87/2147483647/strip/true/crop/1715x965+0+338/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdd%2F18%2F28b0baf14b7ca6b4302afa08bf1f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2191917362"
+        },
+        {
+          "id": "33b78703-f76e-4281-b71a-5af54304f957",
+          "author": "Ryan Young",
+          "description": "Jauan Jennings, Ricky Pearsall and Jordan Watkins were all ruled out due to various injuries, too.",
+          "link": "https://sports.yahoo.com/nfl/breaking-news/article/49ers-qb-brock-purdy-ruled-out-of-thursday-night-matchup-with-rams-due-to-toe-injury-mac-jones-to-start-201308838.html",
+          "publishedOn": "2025-10-01T20:13:08.000Z",
+          "wordCount": 9361,
+          "title": "49ers QB Brock Purdy ruled out of Thursday night matchup with Rams due to toe injury, Mac Jones to start",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OjvvHxbge4zmcTszT29L_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/f444b5a0-9f02-11f0-967d-73b20a876f27"
+        },
+        {
+          "id": "e267d6cf-e83a-30a1-8506-29510f59db56",
+          "author": null,
+          "description": "The Panthers held a walkthrough on Wednesday ahead of Sunday's game against the Dolphins.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chuba-hubbard-estimated-as-non-participant-wednesday",
+          "publishedOn": "2025-10-01T20:02:20.000Z",
+          "wordCount": 2167,
+          "title": "Chuba Hubbard estimated as non-participant Wednesday",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/0d73c28/2147483647/strip/true/crop/3644x2050+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb0%2F79%2F30d1fab54d9cb368d42c2ffe3812%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237927049"
+        },
+        {
+          "id": "19f6d1ee-5fe6-3fdf-8b33-38367100c01a",
+          "author": null,
+          "description": "Wide receiver Alec Pierce is getting closer to returning to action for the Colts.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alec-pierce-back-to-full-practice-for-colts",
+          "publishedOn": "2025-10-01T19:50:52.000Z",
+          "wordCount": 2103,
+          "title": "Alec Pierce back to full practice for Colts",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/6272e40/2147483647/strip/true/crop/3061x1722+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9f%2F4c%2Fdd72cbbb4f68b140d94e686fb1d2%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235438827"
+        },
+        {
+          "id": "b5cccdfa-2559-3566-9363-bbbd2d88c48d",
+          "author": null,
+          "description": "Giants quarterback Jaxson Dart will make his first NFL road start on Sunday, and he’ll do so against a team that passed up on him in the 2025 NFL Draft, the New Orleans Saints.",
+          "link": "https://sny.tv/articles/giants-jaxson-dart-chip-on-shoulder-saints",
+          "publishedOn": "2025-10-01T19:49:41.000Z",
+          "wordCount": 2116,
+          "title": "Giants&#39; Jaxson Dart: &#39;Always a chip on your shoulder&#39; facing team like Saints, who passed on drafting him",
+          "imageUrl": "https://images.contentstack.io/v3/assets/bltf7a82b39b0908da4/bltb9d276b5f2b09228/68d970a7a0fa4658dfcc3791/DartTDrun.jpg?format=jpg&quality=75&fit=bounds&width=1296&height=729"
+        },
+        {
+          "id": "65137328-332e-3ab0-9e28-273e6d1d185b",
+          "author": null,
+          "description": "The Bills got two key members of their defense back on the practice field on Wednesday.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-milano-ed-oliver-back-at-practice-for-bills",
+          "publishedOn": "2025-10-01T19:43:58.000Z",
+          "wordCount": 2122,
+          "title": "Matt Milano, Ed Oliver back at practice for Bills",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/ec0d8de/2147483647/strip/true/crop/5993x3371+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F82%2F7d%2F0d720e104e25ac454636ba494c48%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235745419"
+        },
+        {
+          "id": "a430e468-b4b7-330d-9f25-2d1d434a7098",
+          "author": null,
+          "description": "Josh Allen, Jonathan Taylor, Puka Nacua, and Trey McBride highlight positional rankings for Week 5 of the 2025 NFL season.",
+          "link": "https://www.nbcsports.com/nfl/matthew-berry/news/matthew-berrys-fantasy-football-rankings-for-week-5-of-2025-season",
+          "publishedOn": "2025-10-01T19:40:00.000Z",
+          "wordCount": 3353,
+          "title": "Matthew Berry’s Fantasy Football Rankings for Week 5 of 2025 season",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/998c0ad/2147483647/strip/true/crop/3527x1984+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2F54%2Fb1230f6c427789609a3d607693d7%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27114025"
+        },
+        {
+          "id": "98d3c2f7-c6e7-3018-95eb-711e827d6d7a",
+          "author": null,
+          "description": "Already down one starting offensive tackle, the Chargers are unlikely to have another for Sunday’s game against the Commanders.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-joe-alt-doubtful-for-week-5-unsure-if-hell-go-on-ir",
+          "publishedOn": "2025-10-01T19:36:17.000Z",
+          "wordCount": 2157,
+          "title": "Jim Harbaugh: Joe Alt doubtful for Week 5, unsure if he&#39;ll go on IR",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/dedbd9e/2147483647/strip/true/crop/3270x1839+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F05%2Fea%2F835b1ccd4406b62832e99373857c%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27198156"
+        },
+        {
+          "id": "6da2c3bd-16fc-3925-b4b4-4533f6e3fb3e",
+          "author": null,
+          "description": "The Cowboys have another injury issue on their hands at wide receiver.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/foot-injury-could-sideline-cowboys-wr-kavontae-turpin-this-week",
+          "publishedOn": "2025-10-01T19:21:41.000Z",
+          "wordCount": 2135,
+          "title": "Foot injury could sideline Cowboys WR KaVontae Turpin this week",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/643d897/2147483647/strip/true/crop/7974x4485+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2F7c%2Fc86df09d494daa5ae489dd1eabe1%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2238362762"
+        },
+        {
+          "id": "96b04fb3-c193-461d-bf94-d54bed358155",
+          "author": "Michael Fiddle",
+          "description": "Michael Fiddle gives a full breakdown of 49ers-Rams, including his favorite bet on the game and a few player props to target.",
+          "link": "https://sports.yahoo.com/nfl/betting/article/49ers-vs-rams-odds-predictions-best-bets-player-prop-wagers-for-thursday-night-football-191850171.html",
+          "publishedOn": "2025-10-01T19:18:50.000Z",
+          "wordCount": 11756,
+          "title": "49ers vs. Rams odds, predictions: Best bets, player-prop wagers for Thursday Night Football",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/4dj9BtoPsOFLzyMgT6tl7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/7cabd650-9ede-11f0-aeef-26a013b1d316"
+        },
+        {
+          "id": "0400f8ae-02a6-3078-833d-6e2008b7ad0f",
+          "author": null,
+          "description": "Vikings head coach Kevin O'Connell told reporters a few days ago that the hope is quarterback J.J.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/j-j-mccarthy-entering-next-phase-of-rehab-but-did-not-practice-wednesday",
+          "publishedOn": "2025-10-01T19:13:57.000Z",
+          "wordCount": 2309,
+          "title": "J.J. McCarthy entering &quot;next phase&quot; of rehab, but did not practice Wednesday",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/65fb3cc/2147483647/strip/true/crop/5419x3048+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0d%2F63%2F1bf32f43438d86bc0f800970c82d%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2236469290"
+        },
+        {
+          "id": "2b589af8-e0ee-4fea-9890-184ef0ad3375",
+          "author": "Andy Backstrom",
+          "description": "When Shedeur Sanders was asked about the Browns' quarterback change Wednesday, he mouthed his answers, taking an unorthodox approach to handling media.",
+          "link": "https://sports.yahoo.com/nfl/breaking-news/article/shedeur-sanders-silently-mouths-answers-when-asked-questions-about-browns-quarterback-change-191106616.html",
+          "publishedOn": "2025-10-01T19:11:06.000Z",
+          "wordCount": 10270,
+          "title": "Shedeur Sanders silently mouths answers when asked questions about Browns&#39; quarterback change",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/CcLRdegiGm8F2BvkqwVshQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/b3fefbd0-9eef-11f0-bf91-aca27d53af77"
+        },
+        {
+          "id": "09213c83-3e8b-35da-a485-fc175f6de82a",
+          "author": null,
+          "description": "On the day the Browns benched veteran quarterback Joe Flacco for rookie Dillon Gabriel, it's natural for the media to seek comments from Flacco, Gabriel, and the team's other quarterback: rookie Shedeur Sanders.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-opts-to-move-mouth-not-speak-in-response-to-reporters-questions",
+          "publishedOn": "2025-10-01T18:53:44.000Z",
+          "wordCount": 2309,
+          "title": "Shedeur Sanders opts to move mouth, not speak, in response to reporters&#39; questions",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/34504c8/2147483647/strip/true/crop/6596x3710+0+343/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2Fc4%2F82358ad3462daead059556f73667%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27195837"
+        },
+        {
+          "id": "ae2d800b-9d4d-39e1-904a-202d7520d90c",
+          "author": null,
+          "description": "Multiple reporters on the scene note that Jackson was one of eight players out of the day's practice.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-is-not-practicing-on-wednesday",
+          "publishedOn": "2025-10-01T17:49:50.000Z",
+          "wordCount": 2161,
+          "title": "Lamar Jackson is not practicing on Wednesday",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/8ce5608/2147483647/strip/true/crop/6332x3562+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2Fa8%2F7c5f3bdb43beba85dfc8e5ab7351%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27196910"
+        },
+        {
+          "id": "033a6cff-aec5-3d87-ad5e-c4f822974eb9",
+          "author": null,
+          "description": "After trading for Micah Parsons, the Packers entered the 2025 season as the favorites to dethrone the Lions and win the NFC North.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-and-lions-are-now-co-favorites-to-win-the-nfc-north",
+          "publishedOn": "2025-10-01T17:19:29.000Z",
+          "wordCount": 2223,
+          "title": "Packers and Lions are now co-favorites to win the NFC North",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/5a4d2d9/2147483647/strip/true/crop/4924x2770+0+257/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff5%2F27%2F1144d43d482cac150d631942dbf2%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235937321"
+        },
+        {
+          "id": "e64bf965-9609-4e59-b6d1-74337ec90fdb",
+          "author": "James Koh",
+          "description": "James Koh gives you useful stats you should know for fantasy football going into Week 5.",
+          "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-outside-wr-matchups-we-love-for-week-5-171744747.html",
+          "publishedOn": "2025-10-01T17:17:44.000Z",
+          "wordCount": 10437,
+          "title": "Fantasy Football: Outside WR matchups we love for Week 5",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ApWOJGflke2PoJHDdfMrBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/cae562b0-9ee7-11f0-9eff-d02ff695bedb"
+        },
+        {
+          "id": "10a1982d-5de4-4d66-804d-aee94338e25c",
+          "author": "Ryan Young",
+          "description": "Dillon Gabriel will get the first start of his career this weekend in London.",
+          "link": "https://sports.yahoo.com/nfl/breaking-news/article/browns-to-start-dillon-gabriel-against-the-vikings-and-bench-veteran-joe-flacco-shedeur-sanders-remains-qb3-122801066.html",
+          "publishedOn": "2025-10-01T12:28:01.000Z",
+          "wordCount": 9529,
+          "title": "Browns to start Dillon Gabriel against the Vikings and bench veteran Joe Flacco, Shedeur Sanders remains QB3",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/jF0b.y7czyTXBswJswysvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/5ac3cf50-9e36-11f0-9f7b-d5101f0e8628"
+        },
+        {
+          "id": "4d16d389-e976-4e29-b408-86f750a7210a",
+          "author": "Yahoo Sports Fantasy Staff",
+          "description": "Here are our fantasy football rankings for each position for Week 4 of the 2025 NFL season.",
+          "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-5-half-ppr-rankings-180829648.html",
+          "publishedOn": "2025-09-30T18:08:29.000Z",
+          "wordCount": 6999,
+          "title": "Fantasy Football Week 5 Half-PPR Rankings",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/cf9y_dodN1bwI02pJqXbPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/af8066c0-9d69-11f0-bfbe-ac0f6f06b80a"
+        },
+        {
+          "id": "12b64c15-6dcd-4b56-86d1-f9043e5ef062",
+          "author": "Justin Boone",
+          "description": "Justin Boone shares his fantasy football kicker rankings for Week 5 of the 2025 NFL season.",
+          "link": "https://sports.yahoo.com/fantasy/article/2025-fantasy-football-rankings-justin-boones-top-kickers-for-week-5-174254306.html",
+          "publishedOn": "2025-09-30T17:42:54.000Z",
+          "wordCount": 7377,
+          "title": "2025 Fantasy Football Rankings: Justin Boone&#39;s top kickers for Week 5",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/XyZ1Jw5K8j0ZbDNB6fhxzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/166f8d00-9d71-11f0-b9fc-abec5c4eb9ed"
+        },
+        {
+          "id": "e51138e8-1c5b-4835-8424-8079d82844c3",
+          "author": "Justin Boone",
+          "description": "Justin Boone shares his fantasy football defense rankings for Week 5 of the 2025 NFL season.",
+          "link": "https://sports.yahoo.com/fantasy/article/2025-fantasy-football-rankings-justin-boones-top-defenses-for-week-5-174132618.html",
+          "publishedOn": "2025-09-30T17:41:32.000Z",
+          "wordCount": 7416,
+          "title": "2025 Fantasy Football Rankings: Justin Boone&#39;s top defenses for Week 5",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/pVRklzNVTzgdrSImg7ZR_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/ca491310-9d70-11f0-bf7e-e5790d000598"
+        },
+        {
+          "id": "d80cd5ab-2a81-4302-9f32-2673f357ee4c",
+          "author": "Justin Boone",
+          "description": "Justin Boone shares his fantasy football FLEX rankings for Week 5 of the 2025 NFL season.",
+          "link": "https://sports.yahoo.com/fantasy/article/2025-fantasy-football-rankings-justin-boones-flex-rankings-for-week-5-174008133.html",
+          "publishedOn": "2025-09-30T17:40:08.000Z",
+          "wordCount": 7412,
+          "title": "2025 Fantasy Football Rankings: Justin Boone&#39;s FLEX rankings for Week 5",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/tflh599GKYEc1cnlkoIXxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/84db2de0-9d70-11f0-9ef3-2c66fa9189ca"
+        },
+        {
+          "id": "0bdad0dd-895e-4077-be0e-9c9b3f90043e",
+          "author": "Justin Boone",
+          "description": "Justin Boone shares his fantasy football tight end rankings for Week 5 of the 2025 NFL season.",
+          "link": "https://sports.yahoo.com/fantasy/article/2025-fantasy-football-rankings-justin-boones-top-tight-ends-for-week-5-173735328.html",
+          "publishedOn": "2025-09-30T17:37:35.000Z",
+          "wordCount": 7285,
+          "title": "2025 Fantasy Football Rankings: Justin Boone&#39;s top tight ends for Week 5",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/B9cyoyfSUcQKbUMYn2kq9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/ea48dde0-9d6f-11f0-bffb-8452ef834bd8"
+        },
+        {
+          "id": "1bae45af-7f44-4501-abe7-4c783335cba9",
+          "author": "Justin Boone",
+          "description": "Justin Boone shares his fantasy football wide receiver rankings for Week 5 of the 2025 NFL season.",
+          "link": "https://sports.yahoo.com/fantasy/article/2025-fantasy-football-rankings-justin-boones-top-wide-receivers-for-week-5-173608807.html",
+          "publishedOn": "2025-09-30T17:36:08.000Z",
+          "wordCount": 7437,
+          "title": "2025 Fantasy Football Rankings: Justin Boone&#39;s top wide receivers for Week 5",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/3IxuSL0hxUZlhFdOmUZSlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/736cb480-9d6f-11f0-9c7d-3ced65318da9"
+        },
+        {
+          "id": "34bf5e84-1751-4e7e-a813-955187fef438",
+          "author": "Justin Boone",
+          "description": "Justin Boone shares his fantasy football running back rankings for Week 5 of the 2025 NFL season.",
+          "link": "https://sports.yahoo.com/fantasy/article/2025-fantasy-football-rankings-justin-boones-top-running-backs-for-week-5-173301517.html",
+          "publishedOn": "2025-09-30T17:33:01.000Z",
+          "wordCount": 7415,
+          "title": "2025 Fantasy Football Rankings: Justin Boone&#39;s top running backs for Week 5",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/66iaKyOBgkRCap2cheBpfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/31a17180-9d6f-11f0-bf7b-880605254613"
+        },
+        {
+          "id": "277dad70-6120-451d-8dd8-b6dde097462c",
+          "author": "Justin Boone",
+          "description": "Justin Boone shares his fantasy football quarterback rankings for Week 5 of the 2025 NFL season.",
+          "link": "https://sports.yahoo.com/fantasy/article/2025-fantasy-football-rankings-justin-boones-top-quarterbacks-for-week-5-172848455.html",
+          "publishedOn": "2025-09-30T17:28:48.000Z",
+          "wordCount": 7236,
+          "title": "2025 Fantasy Football Rankings: Justin Boone&#39;s top quarterbacks for Week 5",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/QM6nJ42bFJKwYrMr.oiQ8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/ed71d8b0-9d6e-11f0-bebf-d8b48df1c5b1"
+        },
+        {
+          "id": "3ea91408-4154-4a76-8d9d-bfc79af1d79c",
+          "author": "Ben Zweiman",
+          "description": "We're tracking all the latest NFL injury news for Week 5 with updates and fantasy football analysis.",
+          "link": "https://sports.yahoo.com/fantasy/article/nfl-injury-report-tracking-latest-news-updates-for-fantasy-football-in-week-5-152825655.html",
+          "publishedOn": "2025-09-29T15:28:25.000Z",
+          "wordCount": 9610,
+          "title": "NFL injury report: Tracking latest news updates for fantasy football in Week 5",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/AiWfGTYlO5nhAA0uuEAu6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/cb17b650-9cc3-11f0-b555-9af2dd631885"
+        }
+      ]
+    },
+    {
+      "title": "www.espn.com - NFL",
+      "feedUrl": "https://www.espn.com/espn/rss/nfl/news",
+      "siteUrl": "https://www.espn.com",
+      "articles": [
+        {
+          "id": "US-EN-46454955",
+          "author": "Josh Weinfuss",
+          "description": "After Trey Benson (knee) went on short-term IR, it will be up to Emari Demercado, Michael Carter and Bam Knight to step up.",
+          "link": "https://www.espn.com/nfl/story/_/id/46454955/nfl-arizona-cardinals-trey-benson-emari-demercado-michael-carter-bam-knight",
+          "publishedOn": "2025-10-02T02:01:32.000Z",
+          "wordCount": 3184,
+          "title": "Emari Demercado among group of Cardinals RBs needed to fill void created by injuries",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1002%2Fr1554195_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46428774",
+          "author": "Marcel Louis-Jacques and Stephania Bell",
+          "description": "What is the Dolphins WR's outlook for a dislocated knee, the on-field impact of his absence and his future in Miami.",
+          "link": "https://www.espn.com/nfl/story/_/id/46428774/miami-dolphins-tyreek-hill-injury-dislocated-knee-nfl-faq-recovery-table-future-contract-steps-offense",
+          "publishedOn": "2025-10-02T02:01:32.000Z",
+          "wordCount": 3868,
+          "title": "Tyreek Hill injury FAQ: Recovery timetable, his NFL future and how Dolphins will adapt",
+          "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0930%2Fr1553267_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46453516",
+          "author": "Jenna Laine",
+          "description": "It's not the first time the now-Tampa Bay Buccaneers signal caller has taken a shot at Carolina, where he spent a brief stint in 2022.",
+          "link": "https://www.espn.com/nfl/story/_/id/46453516/baker-mayfield-brushes-carolina-panthers-sam-darnold",
+          "publishedOn": "2025-10-02T00:54:28.000Z",
+          "wordCount": 3124,
+          "title": "'No, we don't': Ex-Panthers Mayfield, Darnold won't reminisce on Carolina days",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0908%2Fr1059248_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46436964",
+          "author": "Alaina Getzenberg",
+          "description": "The team will be handing out white rally towels and white out décor around the stadium.",
+          "link": "https://www.espn.com/nfl/story/_/id/46436964/buffalo-bills-white-rivalries-uniforms-sunday-night-football",
+          "publishedOn": "2025-10-02T00:54:28.000Z",
+          "wordCount": 2514,
+          "title": "Bills encourage white out to match 'rivalries' uniforms in 'Sunday Night Football' game",
+          "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0930%2Fr1553497_960x540_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46451880",
+          "author": "Nick Wagoner",
+          "description": "Brock Purdy, Ricky Pearsall and Jauan Jennings are out for the Niners on Thursday against the Rams.",
+          "link": "https://www.espn.com/nfl/story/_/id/46451880/niners-say-purdy-pearsall-jennings-all-rams",
+          "publishedOn": "2025-10-02T00:23:07.000Z",
+          "wordCount": 3180,
+          "title": "Niners rule out Purdy, Pearsall, Jennings for TNF",
+          "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0816%2Fr1532632_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46452919",
+          "author": "Tim McManus",
+          "description": "Eagles receiver A.J. Brown took responsibility Wednesday for letting his \"frustrations boil over\" Sunday and stated that his post on social media wasn't directed at anyone inside the building, including quarterback Jalen Hurts.",
+          "link": "https://www.espn.com/nfl/story/_/id/46452919/eagles-aj-brown-says-post-not-directed-eagles-jalen-hurts",
+          "publishedOn": "2025-10-02T00:23:07.000Z",
+          "wordCount": 3088,
+          "title": "A.J. Brown says post wasn't about Eagles, Hurts",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0929%2Fr1553130_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46452317",
+          "author": "Jamison Hensley",
+          "description": "The Ravens remain tight-lipped about whether injured quarterback Lamar Jackson has a chance to play in Sunday's pivotal game against the Texans.",
+          "link": "https://www.espn.com/nfl/story/_/id/46452317/ravens-remain-mum-injured-lamar-jackson-status-vs-texans",
+          "publishedOn": "2025-10-02T00:23:07.000Z",
+          "wordCount": 2925,
+          "title": "Ravens remain mum on injured Lamar's status",
+          "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1001%2Fr1554068_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46452533",
+          "author": "Jordan Raanan",
+          "description": "Jaxson Dart says there is \"always a chip on your shoulder\" when a situation unfolds like this year's NFL draft.",
+          "link": "https://www.espn.com/nfl/story/_/id/46452533/jaxson-dart-saints-draft-snub-always-chip-your-shoulder",
+          "publishedOn": "2025-10-02T00:23:07.000Z",
+          "wordCount": 3377,
+          "title": "Dart: Chip on my shoulder over Saints draft snub",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0928%2Fr1552592_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46449608",
+          "author": "John Keim",
+          "description": "Commanders quarterback Jayden Daniels has been medically cleared and will be a full participant in Wednesday's practice, coach Dan Quinn said.",
+          "link": "https://www.espn.com/nfl/story/_/id/46449608/commanders-say-qb-jayden-daniels-medically-cleared-doctors",
+          "publishedOn": "2025-10-02T00:23:07.000Z",
+          "wordCount": 3063,
+          "title": "Commanders' Daniels plans to play vs. Chargers",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0915%2Fr1546043_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46450557",
+          "author": null,
+          "description": "Shedeur Sanders pantomimed answers to questions about the Browns' latest QB switch.",
+          "link": "https://www.espn.com/nfl/story/_/id/46450557/shedeur-sanders-pantomimes-answers-browns-qb-questions",
+          "publishedOn": "2025-10-02T00:23:07.000Z",
+          "wordCount": 2896,
+          "title": "Facing QB questions, Shedeur goes full mime",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0926%2Fr1551222_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46447694",
+          "author": "Daniel Oyefusi",
+          "description": "The Browns are benching Joe Flacco and turning to rookie Dillon Gabriel as their starting QB for Sunday's game against the Vikings.",
+          "link": "https://www.espn.com/nfl/story/_/id/46447694/browns-bench-joe-flacco-turn-dillon-gabriel-starting-qb",
+          "publishedOn": "2025-10-02T00:23:07.000Z",
+          "wordCount": 3102,
+          "title": "Browns bench Flacco, turn to Gabriel as starter",
+          "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1001%2Fr1553742_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46453982",
+          "author": "Stephen Holder",
+          "description": "Veteran cornerback Xavien Howard, 32, informed the Colts of his decision to retire just days after his much-criticized performance against the Rams.",
+          "link": "https://www.espn.com/nfl/story/_/id/46453982/colts-xavien-howard-retires-heels-struggles-vs-rams",
+          "publishedOn": "2025-10-02T00:23:06.000Z",
+          "wordCount": 3149,
+          "title": "Colts' Howard abruptly retires, says 'family first'",
+          "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0930%2Fr1553599_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46423263",
+          "author": "NFL Nation",
+          "description": "We stacked every NFL team ahead of Week 5. Who jumped up our 1-32 list? Plus, let's pick out the biggest offensive concerns for each roster.",
+          "link": "https://www.espn.com/nfl/story/_/id/46423263/nfl-week-5-power-rankings-poll-32-teams-2025-biggest-issues-offense",
+          "publishedOn": "2025-10-02T00:23:06.000Z",
+          "wordCount": 6671,
+          "title": "📈 Power Rankings: Two teams jump into top 10",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0929%2Fnfl_power4_cr_16x9.jpg"
+        },
+        {
+          "id": "US-EN-40159558",
+          "author": "ESPN",
+          "description": "Amid speculation around Lamar Jackson's hamstring injury, the Ravens have swung from favorite to underdogs on Sunday.",
+          "link": "https://www.espn.com/espn/betting/story/_/id/40159558/betting-buzz-latest-sports-betting-odds-updates-changes-line-moves-industry-intel",
+          "publishedOn": "2025-10-01T22:50:10.000Z",
+          "wordCount": 4834,
+          "title": "Betting buzz: Ravens swing from favorite to underdog amid Jackson injury rumors",
+          "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1001%2Fr1554068_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46441297",
+          "author": "Liz Loza",
+          "description": "Setting realistic expectations for Drake Maye, Chris Olave and others in Week 5, and the TE stream of the week.",
+          "link": "https://www.espn.com/fantasy/football/story/_/id/46441297/fantasy-football-start-sit-add-drop-week-5",
+          "publishedOn": "2025-10-01T20:14:37.000Z",
+          "wordCount": 4545,
+          "title": "Facts vs. Feelings: Reasons to start Olave, bench Brown, and other Week 5 decisions",
+          "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1001%2Fr1553844_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46438383",
+          "author": "Tristan H. Cockcroft",
+          "description": "Here are the most and least favorable matchups at quarterback, running back, wide receiver and tight end.",
+          "link": "https://www.espn.com/fantasy/football/story/_/id/46438383/fantasy-football-rankings-tips-nfl-week-5-matchups-qb-rb-wr-te",
+          "publishedOn": "2025-10-01T20:14:37.000Z",
+          "wordCount": 3835,
+          "title": "Matchup rankings: Upgrade Trey Benson, downgrade Jordan Mason in Week 5",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1001%2Fr1553978_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46423621",
+          "author": "Jeremy Fowler and Dan Graziano",
+          "description": "Here's the latest intel on the Ravens' disappointing start, options for 0-4 Tennessee, precocious rookies and possible QB trades.",
+          "link": "https://www.espn.com/nfl/story/_/id/46423621/nfl-week-5-buzz-news-updates-fantasy-intel-questions-predictions",
+          "publishedOn": "2025-10-01T19:16:01.000Z",
+          "wordCount": 8250,
+          "title": "The latest NFL buzz: More on the Ravens’ struggles, Titans trauma, and potential QB trades",
+          "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0930%2Fr1553652_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46423661",
+          "author": "Jamison Hensley",
+          "description": "At 1-3, the Ravens aren't panicking just yet, as they have a more favorable schedule the rest of the way.",
+          "link": "https://www.espn.com/nfl/story/_/id/46423661/how-baltimore-ravens-got-1-3-where-go-here-week-5",
+          "publishedOn": "2025-10-01T19:16:01.000Z",
+          "wordCount": 4340,
+          "title": "From Super Bowl favorite to disappointment: Where the Ravens go from here",
+          "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0929%2Fr1553037_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-45531306",
+          "author": "Mel Kiper Jr., Matt Miller and Jordan Reid",
+          "description": "What is Drew Allar's current draft stock? Which Ohio State prospect stood out the most Saturday? We have updates on NFL prospects through CFB Week 5.",
+          "link": "https://www.espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
+          "publishedOn": "2025-10-01T14:52:39.000Z",
+          "wordCount": 10066,
+          "title": "NFL draft risers, questions and notes: What scouts are saying about Drew Allar",
+          "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0928%2Fr1552361_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46437332",
+          "author": "Todd Archer",
+          "description": "The concerns some had about Pickens before he was traded from Pittsburgh haven't arisen in Dallas.",
+          "link": "https://www.espn.com/nfl/story/_/id/46437332/nfl-dallas-cowboys-george-pickens-ceedee-lamb",
+          "publishedOn": "2025-10-01T13:17:00.000Z",
+          "wordCount": 3461,
+          "title": "'Fired up to be a Dallas Cowboy': George Pickens' success is no surprise to his teammates, coaches",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0930%2Fr1553494_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46438941",
+          "author": "Mike Reiss",
+          "description": "The veteran receiver returns to Western New York for the first time Sunday when New England plays at Buffalo.",
+          "link": "https://www.espn.com/nfl/story/_/id/46438941/nfl-new-england-patriots-stefon-diggs-acl-recovery-return-buffalo",
+          "publishedOn": "2025-10-01T11:00:11.000Z",
+          "wordCount": 4770,
+          "title": "'Leave no crumbs': Stefon Diggs rebounded from injury and found a fit with Patriots",
+          "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0930%2Fr1553693_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46139564",
+          "author": "ESPN staff",
+          "description": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX.",
+          "link": "https://www.espn.com/nfl/story/_/id/46139564/2025-nfl-playoff-picture-afc-nfc-seed-predictions-odds-super-bowl",
+          "publishedOn": "2025-10-01T00:10:02.000Z",
+          "wordCount": 2648,
+          "title": "NFL playoff picture projections: Updated chances to make the postseason, win divisions",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0208%2Fr1449332_1296x729_16%2D9.png"
+        },
+        {
+          "id": "US-EN-46146676",
+          "author": "ESPN staff",
+          "description": "ESPN's Football Power Index projects the 2026 NFL draft order for Round 1.",
+          "link": "https://www.espn.com/nfl/draft2026/story/_/id/46146676/2026-nfl-draft-order-projections-32-first-round-picks",
+          "publishedOn": "2025-10-01T00:10:02.000Z",
+          "wordCount": 3472,
+          "title": "Projecting the draft order: Titans at the top, Jets in top three",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0928%2Fr1552623_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46413496",
+          "author": "ESPN Staff",
+          "description": "Week 4 in the NFL offered some blunt quotes and forthright speakers. Put your knowledge to the test with our quote quiz.",
+          "link": "https://www.espn.com/nfl/story/_/id/46413496/packers-cowboys-eagles-buccaneers-texans-titans-week-4-2025-quotes-quiz",
+          "publishedOn": "2025-09-30T14:26:26.000Z",
+          "wordCount": 2430,
+          "title": "'They're not bums': Who said it? Week 4 quote quiz",
+          "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0929%2Fr1553070_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46388099",
+          "author": "Josh Weinfuss",
+          "description": "Aaron Rodgers is 'humorous.' Patrick Mahomes wants to be informed. Here's what QBs and refs say about their conversations.",
+          "link": "https://www.espn.com/nfl/story/_/id/46388099/nfl-quarterbacks-referees-aaron-rodgers-baker-mayfield-patrick-mahomes-joe-burrow",
+          "publishedOn": "2025-09-30T11:27:29.000Z",
+          "wordCount": 4469,
+          "title": "'There is a personal side of it all:' How NFL QBs and refs approach their in-game chats",
+          "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0929%2Fnfl%2Drefs%2Dqbs%2Dbanter_16x9.jpg"
+        },
+        {
+          "id": "US-EN-46201721",
+          "author": "Seth Walder",
+          "description": "We're grading NFL deals leading into the Nov. 4 NFL trade deadline, including the Browns picking up Robinson from Houston.",
+          "link": "https://www.espn.com/nfl/story/_/id/46201721/2025-nfl-trade-grades-deadline-latest-best-worst-deals",
+          "publishedOn": "2025-09-29T20:09:50.000Z",
+          "wordCount": 3819,
+          "title": "Our NFL trade grades: Did the Texans make the wrong move in giving up Cam Robinson?",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0826%2Fr1537008_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46306378",
+          "author": "ESPN staff",
+          "description": "We're following every move before the 2025 NFL trade deadline, which passes at 4 p.m. ET on Nov. 4.",
+          "link": "https://www.espn.com/nfl/story/_/id/46306378/2025-nfl-trade-deadline-updates-latest-news-deals",
+          "publishedOn": "2025-09-29T20:09:50.000Z",
+          "wordCount": 2683,
+          "title": "Tracking every NFL trade before the deadline: Robinson to Browns, Brownlee to Jets",
+          "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0929%2Fr1552978_1296x729_16%2D9.jpg"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}
