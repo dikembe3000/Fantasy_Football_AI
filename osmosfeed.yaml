@@ -2,7 +2,7 @@
 # Full reference
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
-
+siteTitle: "FF Aggregator"
 cacheUrl: https://dikembe3000.github.io/Fantasy_Football_AI/cache.json
 sources:
   - href: https://www.rotowire.com/rss/news.php?sport=NFL
