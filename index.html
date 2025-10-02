@@ -3654,8 +3654,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/dikembe3000/Fantasy_Football_AI/actions/runs/18185329667">
-        <time id="build-timestamp" datetime="2025-10-02T06:32:49.675Z">2025-10-02T06:32:49.675Z</time>
+      <a class="footer-link" href="https://github.com/dikembe3000/Fantasy_Football_AI/actions/runs/18185394541">
+        <time id="build-timestamp" datetime="2025-10-02T06:36:26.972Z">2025-10-02T06:36:26.972Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
@@ -3714,18 +3714,25 @@
 </style>
 
 <style>
-  /* Overrides */
-  .ff-topbar { 
-    justify-content: flex-start;   /* left-justify the button */
-  }
+  /* Color + size/position overrides */
+  .ff-topbar { justify-content: flex-start; }      /* left-justify */
   .ff-topbar .ff-cta {
-    font-size: 2rem;               /* ~2x larger text */
-    padding: 18px 22px;            /* a bit more padding for balance */
+    font-size: 2rem;                               /* ~2x bigger text */
+    padding: 18px 22px;
+    background: #88E788;                           /* light green */
+    border-color: #52C552;                         /* slightly darker green border */
+    color: #0b3d0b;                                /* dark text for contrast */
   }
-  .ff-topbar .ff-cta .ff-icon {
-    font-size: 2.2rem;             /* scale the icon up too */
+  .ff-topbar .ff-cta:hover {
+    box-shadow: 0 10px 22px rgba(0,0,0,0.12);
   }
+  .ff-topbar .ff-cta:focus-visible {
+    outline: 3px solid #2e7d32;                    /* accessible focus ring */
+    outline-offset: 2px;
+  }
+  .ff-topbar .ff-cta .ff-icon { font-size: 2.2rem; }
 </style>
+
 
 
 <!-- top bar gets inserted at the very beginning of <body> -->
