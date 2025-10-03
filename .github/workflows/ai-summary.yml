@@ -1,0 +1,105 @@
+name: Build AI Top 10 Summary
+
+on:
+  schedule:
+    - cron: "5 * * * *"   # hourly at :05 UTC (adjust as you like)
+  workflow_dispatch:       # allow manual runs from the Actions tab
+
+permissions:
+  contents: write          # needed to push to gh-pages
+
+concurrency:
+  group: ai-summary
+  cancel-in-progress: true
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    env:
+      PAGES_BASE: https://dikembe3000.github.io/Fantasy_Football_AI
+    steps:
+      - name: Checkout gh-pages
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          fetch-depth: 0
+
+      - name: Ensure cache.json exists (download latest from Pages)
+        run: |
+          set -e
+          curl -fL --retry 3 --retry-all-errors "$PAGES_BASE/cache.json" -o cache.json
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate AI summary (top 10)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          node - <<'NODE'
+          import fs from 'node:fs/promises';
+
+          // Load cache.json built by osmosfeed
+          const raw = await fs.readFile('cache.json', 'utf8').catch(()=> '[]');
+          let d; try { d = JSON.parse(raw); } catch { d = []; }
+
+          const items = (d.items || d.entries || d || [])
+            .map(it => ({
+              title: it.title ?? 'Untitled',
+              link: it.link || it.url || '',
+              source: it.feedTitle || it.source || '',
+              date: it.published || it.publishedAt || it.date || it.isoDate || it.createdAt || it.updated || null
+            }))
+            .sort((a,b) => new Date(b.date||0) - new Date(a.date||0))
+            .slice(0, 10);
+
+          const prompt = [
+            "Summarize the fantasy football impact of these recent articles.",
+            "Group bullets by themes: Injuries, Transactions, Depth/Usage, Waivers, Start/Sit.",
+            "Be concise and actionable. End with 3 takeaways.",
+            "Articles:",
+            ...items.map((it, i) => `(${i+1}) ${it.title} — ${it.link}`)
+          ].join("\n");
+
+          const resp = await fetch("https://api.openai.com/v1/responses", {
+            method: "POST",
+            headers: {
+              "content-type": "application/json",
+              "authorization": `Bearer ${process.env.OPENAI_API_KEY}`
+            },
+            body: JSON.stringify({
+              model: "gpt-4.1-mini",
+              input: prompt,
+              temperature: 0.4
+            })
+          });
+
+          if (!resp.ok) {
+            const err = await resp.text();
+            throw new Error("OpenAI error: " + err);
+          }
+
+          const data = await resp.json();
+          const text = (data.output_text || "No summary returned.").trim();
+          const generatedAt = new Date().toISOString();
+
+          await fs.writeFile('top10.txt', text + `\n\nUpdated: ${generatedAt}\n`, 'utf8');
+          await fs.writeFile('top10.json', JSON.stringify({ generatedAt, items, summary: text }, null, 2), 'utf8');
+
+          console.log("Wrote top10.txt and top10.json");
+          NODE
+
+      - name: Commit & push to gh-pages
+        run: |
+          set -e
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add top10.txt top10.json || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update AI Top 10 summary [skip ci]"
+            git push origin gh-pages
+          fi
