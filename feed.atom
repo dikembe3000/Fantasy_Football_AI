@@ -2,10 +2,546 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dikembe3000.github.io/Fantasy_Football_AI/index.html</id>
     <title>FF Aggregator</title>
-    <updated>2025-10-02T06:36:27.002Z</updated>
+    <updated>2025-10-03T01:17:18.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dikembe3000.github.io/Fantasy_Football_AI/index.html"/>
     <link rel="self" href="https://dikembe3000.github.io/Fantasy_Football_AI/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Follow live: Jones, McCaffrey connect to extend 49ers' lead]]></title>
+        <id>US-EN-46465419</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46465419/los-angeles-rams-san-fransico-49ers-nfl-week-5-highlights-touchdowns-plays"/>
+        <updated>2025-10-03T01:56:48.000Z</updated>
+        <summary type="html"><![CDATA[null]]></summary>
+        <author>
+            <name>Sarah Barshop and Nick Wagoner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the 49ers are using the Rams' blueprint to rebuild around Brock Purdy]]></title>
+        <id>US-EN-46424325</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46424325/san-francisco-49ers-la-rams-blueprint-rebuild-brock-purdy"/>
+        <updated>2025-10-03T01:42:45.000Z</updated>
+        <summary type="html"><![CDATA[The 49ers started to plan Brock Purdy's extension in 2022 -- and their division rivals helped them.]]></summary>
+        <author>
+            <name>Nick Wagoner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are the odds? Top 25 predicted anytime NFL TD scorers for Week 5]]></title>
+        <id>US-EN-46467597</id>
+        <link href="https://www.espn.com/espn/betting/story/_/id/46467597/nfl-week-5-schedule-odds-touchdown-score-predictions"/>
+        <updated>2025-10-03T01:38:20.000Z</updated>
+        <summary type="html"><![CDATA[Mike Clay's reveals his top 25 predicted touchdown scorers for Week 5, comparing implied odds with ESPN BET's.]]></summary>
+        <author>
+            <name>Mike Clay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lions WR Amon-Ra St. Brown breaks down viral 4 a.m. NBA 2K26 moment]]></title>
+        <id>US-EN-46468967</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46468967/detroit-lions-amon-ra-st-brown-nba-2k26-myplayer-viral"/>
+        <updated>2025-10-03T01:38:16.000Z</updated>
+        <summary type="html"><![CDATA[The Detroit Lions wide receiver went viral for allegedly appearing on NBA 2K26 at 4 a.m.]]></summary>
+        <author>
+            <name>Eric Woodyard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best of NFL Week 5's arrivals, featuring Mac Jones' red and black suit]]></title>
+        <id>US-EN-46469140</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46469140/week-5-nfl-fashionable-arrivals-2025"/>
+        <updated>2025-10-03T01:38:16.000Z</updated>
+        <summary type="html"><![CDATA[The stars are back in the pregame tunnels, arriving in looks that match their personal style.]]></summary>
+        <author>
+            <name>ESPN Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hamilton joins Lamar as Ravens to miss practice]]></title>
+        <id>US-EN-46467674</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46467674/kyle-hamilton-joins-lamar-jackson-ravens-miss-practice"/>
+        <updated>2025-10-03T01:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Lamar Jackson didn't practice for a second straight day for the Ravens, whose injury concerns continue to grow. Pro Bowl safety Kyle Hamilton also did not practice on Thursday after injuring his groin the day before.]]></summary>
+        <author>
+            <name>Jamison Hensley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nev. court rejects NFL plea for Gruden rehearing]]></title>
+        <id>US-EN-46470860</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46470860/nevada-court-rejects-nfl-petition-jon-gruden-rehearing"/>
+        <updated>2025-10-03T01:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Thursday's unanimous ruling by the Nevada Supreme Court means the last option for the NFL is to appeal to the U.S. Supreme Court, which sources told ESPN is likely.]]></summary>
+        <author>
+            <name>Don Van Natta Jr.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jags' Walker has wrist surgery, could play vs. K.C.]]></title>
+        <id>US-EN-46465395</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46465395/jaguars-travon-walker-wrist-surgery-play-vs-chiefs"/>
+        <updated>2025-10-03T01:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Jaguars defensive end Travon Walker underwent left wrist surgery on Monday but there's a chance he could play against Kansas City on Monday night.]]></summary>
+        <author>
+            <name>Michael Dirocco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commanders WR McLaurin ruled out vs. Chargers]]></title>
+        <id>US-EN-46469001</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46469001/commanders-receiver-terry-mclaurin-ruled-vs-chargers"/>
+        <updated>2025-10-03T01:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Commanders receiver Terry McLaurin was ruled out of Sunday's game at the Chargers because of a lingering right quad injury.]]></summary>
+        <author>
+            <name>John Keim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New lease keeps Saints in New Orleans thru '35]]></title>
+        <id>US-EN-46468660</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46468660/saints-announce-new-lease-stay-new-orleans-2035"/>
+        <updated>2025-10-03T01:08:29.000Z</updated>
+        <summary type="html"><![CDATA[The Saints announced a new 10-year lease with the state of Louisiana that will keep the team in New Orleans through at least 2035.]]></summary>
+        <author>
+            <name>Katherine Terrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RB Craig, QB Anderson advance in HOF process]]></title>
+        <id>US-EN-46465226</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46465226/roger-craig-ken-anderson-advance-hof-senior-nominees"/>
+        <updated>2025-10-03T01:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Versatile running back Roger Craig, former MVP Ken Anderson and special teams standout Steve Tasker are among the 52 players who advanced to the next stage for the Pro Football Hall of Fame's Class of 2026 in the seniors category.]]></summary>
+        <author>
+            <name>www.espn.com - NFL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac Jones-to-Christian McCaffrey gives 49ers 14-0 lead]]></title>
+        <id>3e133db7-219d-3e4b-a008-85e08aef8c88</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mac-jones-to-christian-mccaffrey-gives-49ers-14-0"/>
+        <updated>2025-10-03T00:54:46.000Z</updated>
+        <summary type="html"><![CDATA[The 49ers, with all their injuries, are dominating the Rams thus far.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baker Mayfield fully participates in Buccaneers practice]]></title>
+        <id>fea52821-f0b8-33b2-b0eb-97dc308d5305</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-fully-participates-in-buccaneers-practice"/>
+        <updated>2025-10-03T00:20:20.000Z</updated>
+        <summary type="html"><![CDATA[Buccaneers quarterback Baker Mayfield appears to be good to go for Sunday's game against the Seahawks.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sources: Jets signing returner Avery Williams to practice squad]]></title>
+        <id>3a5ec3bb-6702-36ac-a6e3-b99aa757ca9b</id>
+        <link href="https://sny.tv/articles/jets-signing-avery-williams-practice-squad"/>
+        <updated>2025-10-03T00:14:36.000Z</updated>
+        <summary type="html"><![CDATA[The Jets are adding veteran returning Avery Williams to their practice squad to be a potential option on special teams.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report: Brock Purdy could miss next week&#39;s game, too]]></title>
+        <id>1d2512d8-b9a0-352f-b3f9-d09374490a57</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-brock-purdy-would-miss-next-weeks-game-too"/>
+        <updated>2025-10-03T00:13:07.000Z</updated>
+        <summary type="html"><![CDATA[The 49ers quarterback tonight will miss his third game since injuring a toe in the season opener.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[George Kittle: May return in Week 6]]></title>
+        <id>nfl608812</id>
+        <link href="https://www.rotowire.com//football/player/george-kittle-11892"/>
+        <updated>2025-10-02T23:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Kittle has had no setbacks while on injured reserve due to a hamstring injury and has a chance to return Week 6 at Tampa Bay, Ian Rapoport of NFL Network reports.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maxx Crosby added to injury report; Brock Bowers missed Thursday&#39;s work]]></title>
+        <id>b338c12e-cee1-347d-b984-acffbe0c571c</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/maxx-crosby-added-to-injury-report-brock-bowers-misses-thursdays-work"/>
+        <updated>2025-10-02T23:46:48.000Z</updated>
+        <summary type="html"><![CDATA[The Raiders' practice report brought concerning news on Thursday.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jon Gruden&#39;s lawsuit vs. NFL will be public trial after Nevada Supreme Court rejects league appeal]]></title>
+        <id>8e639a90-f7dc-4c75-a672-fd6f73c048ee</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/jon-grudens-lawsuit-vs-nfl-will-be-public-trial-after-nevada-supreme-court-rejects-league-appeal-232636357.html"/>
+        <updated>2025-10-02T23:26:36.000Z</updated>
+        <summary type="html"><![CDATA[In a 7-0 decision, the Court rejected the NFL's petition to rehear a decision, which sent Gruden's case to public discovery.]]></summary>
+        <author>
+            <name>Kari Anderson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dallas Goedert returned to practice; Jalen Carter, Lane Johnson were full participants]]></title>
+        <id>00ae2bc0-1eb1-3f4a-9513-7f74098a0704</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dallas-goedert-returned-to-practice-jalen-carter-lane-johnson-were-full-participants"/>
+        <updated>2025-10-02T23:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Eagles tight end Dallas Goedert (knee) returned to practice on Thursday, with a limited session.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nevada Supreme Court denies NFL&#39;s request for rehearing in Jon Gruden case]]></title>
+        <id>eb57cf23-331a-38aa-9ed4-d1bb0677445c</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nevada-supreme-court-denies-nfls-request-for-rehearing-in-jon-gruden-case"/>
+        <updated>2025-10-02T23:10:09.000Z</updated>
+        <summary type="html"><![CDATA[Next stop, the U.S. Supreme Court.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thursday Night Football: TE Tyler Higbee, RT Rob Havenstein are inactive vs. 49ers]]></title>
+        <id>9d86c8e6-bfd6-30ed-b05d-ee5f2a529823</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-te-tyler-higbee-rt-rob-havenstein-are-inactive-vs-49ers"/>
+        <updated>2025-10-02T23:02:31.000Z</updated>
+        <summary type="html"><![CDATA[The Rams listed tight end Tyler Higbee (hip) and right tackle Rob Havenstein (ankle) as doubtful for Thursday Night Football.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cowboys add DE Marshawn Kneeland to their injury report]]></title>
+        <id>916fa587-72f1-3a2b-8494-e8ee1429980c</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-add-de-marshawn-kneeland-to-their-injury-report"/>
+        <updated>2025-10-02T22:47:22.000Z</updated>
+        <summary type="html"><![CDATA[The Cowboys had 11 players either out of practice or limited on Wednesday.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Derek Stingley returns to limited work; Nico Collins a full participant]]></title>
+        <id>a6a9e725-565e-3123-8b68-1b9e2f0c5f72</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derek-stingley-returns-to-limited-work-nico-collins-a-full-participant"/>
+        <updated>2025-10-02T21:55:45.000Z</updated>
+        <summary type="html"><![CDATA[The Texans' practice report delivered some promising injury news.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dallas Goedert: Limited in return to practice]]></title>
+        <id>nfl608772</id>
+        <link href="https://www.rotowire.com//football/player/dallas-goedert-12860"/>
+        <updated>2025-10-02T21:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Goedert (knee) practiced on a limited basis Thursday.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CeeDee Lamb: Remains DNP at practice]]></title>
+        <id>nfl608767</id>
+        <link href="https://www.rotowire.com//football/player/ceedee-lamb-14411"/>
+        <updated>2025-10-02T21:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Lamb (ankle) was a non-participant at practice Thursday, Calvin Watkins of The Dallas Morning News reports.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football: Jaxson Dart, Malik Washington among top sleepers off the waiver wire in Week 5]]></title>
+        <id>bde05976-211b-4d25-abc0-0d8d4c00e689</id>
+        <link href="https://sports.yahoo.com/fantasy/article/fantasy-football-jaxson-dart-malik-washington-among-top-sleepers-off-the-waiver-wire-in-week-5-212926457.html"/>
+        <updated>2025-10-02T21:29:26.000Z</updated>
+        <summary type="html"><![CDATA[Scott Pianowski shares his top sleepers off the fantasy football waiver wire for Week 5.]]></summary>
+        <author>
+            <name>Scott Pianowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFL kickoffs: Rules change results in most returns in history through Week 4]]></title>
+        <id>US-EN-46447959</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46447959/nfl-kickoff-rules-return-landing-zone"/>
+        <updated>2025-10-02T21:22:04.000Z</updated>
+        <summary type="html"><![CDATA[Here's a look at how the latest tweak to kickoffs resulted in yet another big jump in special teams action.]]></summary>
+        <author>
+            <name>Kevin Seifert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['The ball is flying five yards further': Are the new kicking ball rules changing the game?]]></title>
+        <id>US-EN-46452926</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46452926/nfl-kicking-balls-2025-rule-changes-field-goal-records-competition-committee"/>
+        <updated>2025-10-02T21:22:04.000Z</updated>
+        <summary type="html"><![CDATA[Eagles' DC Vic Fangio says new kicking balls are changing the game. Does the data agree?]]></summary>
+        <author>
+            <name>Kalyn Kahler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mock redraft: What does the first round look like in a league started this week?]]></title>
+        <id>US-EN-46449243</id>
+        <link href="https://www.espn.com/fantasy/football/story/_/id/46449243/fantasy-football-mock-draft-redraft"/>
+        <updated>2025-10-02T21:21:50.000Z</updated>
+        <summary type="html"><![CDATA[With knowledge of who has been good, bad and injured so far, see how the early rounds played out.]]></summary>
+        <author>
+            <name>ESPN Fantasy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trade DK? Go get Skattebo? Three players you should trade, three to acquire]]></title>
+        <id>US-EN-46449288</id>
+        <link href="https://www.espn.com/fantasy/football/story/_/id/46449288/fantasy-football-week-5-pickups-trade-candidates"/>
+        <updated>2025-10-02T21:21:49.000Z</updated>
+        <summary type="html"><![CDATA[Three players you should target in a trade and three you can ship away while their value is up, including DK Metcalf.]]></summary>
+        <author>
+            <name>Matt Bowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vikings WR Justin Jefferson confident in offense even with uncertainty at QB position]]></title>
+        <id>05097c58-e586-4586-aee1-242120a0014a</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/vikings-wr-justin-jefferson-confident-in-offense-even-with-uncertainty-at-qb-position-210058490.html"/>
+        <updated>2025-10-02T21:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Minnesota Vikings wide receiver Justin Jefferson is considered by many to be the best pass catcher in the NFL.]]></summary>
+        <author>
+            <name>Criss Partee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patrick Mahomes listed as full participant with groin issue on Thursday]]></title>
+        <id>3322f497-1f50-36c1-96d4-6ec799df4cf0</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-listed-as-full-participant-with-groin-issue-on-thursday"/>
+        <updated>2025-10-02T20:57:16.000Z</updated>
+        <summary type="html"><![CDATA[The Chiefs' injury report still includes quarterback Patrick Mahomes, but now for a different issue.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another loss would make Aaron Glenn first Jets coach to go 0-5 in Year 1]]></title>
+        <id>US-EN-46449240</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46449240/new-york-jets-0-4-coach-aaron-glenn-first-year"/>
+        <updated>2025-10-02T20:56:13.000Z</updated>
+        <summary type="html"><![CDATA[Two coaches for New York have started 0-4, but no coach has gone 0-5 in franchise history.]]></summary>
+        <author>
+            <name>Rich Cimini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alim McNeill's return to practice has coaches, teammates singing praises]]></title>
+        <id>US-EN-46467560</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46467560/detroit-lions-nfl-dt-alim-mcneill-back-practicing-december-acl-injury"/>
+        <updated>2025-10-02T20:56:12.000Z</updated>
+        <summary type="html"><![CDATA[The Lions' standout defensive tackle is back practicing after a December ACL injury.]]></summary>
+        <author>
+            <name>Eric Woodyard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calvin Ridley misses practice again for Titans]]></title>
+        <id>32f687fe-3cc2-3942-b3bf-d0eeead06e2e</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/calvin-ridley-misses-practice-again-for-titans"/>
+        <updated>2025-10-02T20:47:08.000Z</updated>
+        <summary type="html"><![CDATA[The Titans are looking for their first win of the season and their chances of getting it will be better with wide receiver Calvin Ridley in the lineup.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milton Williams out of Patriots practice Thursday, Carlton Davis limited]]></title>
+        <id>4d23ec44-390a-3465-b0ba-68975df14fb6</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/milton-williams-out-of-patriots-practice-thursday-carlton-davis-limited"/>
+        <updated>2025-10-02T20:32:16.000Z</updated>
+        <summary type="html"><![CDATA[The Patriots had a few defensive players take steps in the wrong direction on Thursday's injury report.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFL Week 5 preview & bold predictions: Baker vs. Seahawks, can Chargers bounce back? Dillon Gabriel hail mary]]></title>
+        <id>65cb3215-67ab-44d5-bcdc-4b04ef54346d</id>
+        <link href="https://sports.yahoo.com/nfl/article/nfl-week-5-preview--bold-predictions-baker-vs-seahawks-can-chargers-bounce-back-dillon-gabriel-hail-mary-201845228.html"/>
+        <updated>2025-10-02T20:18:45.000Z</updated>
+        <summary type="html"><![CDATA[Nate Tice & Charles McDonald dive into the Week 5 NFL slate with bold predictions, matchups to watch and more.]]></summary>
+        <author>
+            <name>Nate Tice,Charles McDonald</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football Week 5 Toolkit: Rankings, sleepers, start/sit advice and more]]></title>
+        <id>88aafc7f-fc3c-444e-b487-a2afa1adae04</id>
+        <link href="https://sports.yahoo.com/fantasy/article/fantasy-football-week-5-toolkit-rankings-sleepers-startsit-advice-and-more-201807337.html"/>
+        <updated>2025-10-02T20:18:07.000Z</updated>
+        <summary type="html"><![CDATA[We've got everything you need to prep your fantasy football lineups for Week 5, including rankings, sleepers, start/sit advice and more!]]></summary>
+        <author>
+            <name>Yahoo Sports Fantasy Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Michael Pittman added to injury report with hamstring issue]]></title>
+        <id>64c194af-4777-3b5d-8a27-594469ec9552</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-pittman-added-to-injury-report-with-hamstring-issue"/>
+        <updated>2025-10-02T20:17:06.000Z</updated>
+        <summary type="html"><![CDATA[The Colts have a new injury concern with one of their key offensive players.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[49ers sign QB Adrian Martinez to active roster]]></title>
+        <id>7a68653b-5e4e-346d-b614-cf17165bd95d</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-qb-adrian-martinez-to-active-roster"/>
+        <updated>2025-10-02T20:11:37.000Z</updated>
+        <summary type="html"><![CDATA[The 49ers elevated quarterback Adrian Martinez from the practice squad on a temporary basis when Brock Purdy missed a couple of games earlier this year, but they made a different move ahead of Thursday night's game against the Rams.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chuba Hubbard did not practice again Thursday]]></title>
+        <id>060f981b-fab4-3043-b8e1-13b478c1946c</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chuba-hubbard-did-not-practice-again-thursday"/>
+        <updated>2025-10-02T20:06:19.000Z</updated>
+        <summary type="html"><![CDATA[Running back Chuba Hubbard (calf) remained out of practice Thursday.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kerby Joseph, Taylor Decker out of Lions practice Thursday]]></title>
+        <id>b346b2c9-65de-3cc0-bcf5-9e384a3578e8</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kerby-joseph-taylor-decker-out-of-lions-practice-thursday"/>
+        <updated>2025-10-02T19:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Lions safety Kerby Joseph missed some of last Sunday's win over the Browns with a knee injury and it has impacted his availability at practice this week as well.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFL will play in Mexico in 2026, Asia soon after]]></title>
+        <id>6c638a2f-df93-35c1-9e4a-9f0c9b20b89c</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-will-play-in-mexico-in-2026-asia-soon-after"/>
+        <updated>2025-10-02T19:53:38.000Z</updated>
+        <summary type="html"><![CDATA[The NFL will be returning to Mexico next year, and playing its first regular-season game in Asia soon.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dexter Lawrence misses second straight practice]]></title>
+        <id>81ac9aa0-7d63-3040-b354-c8f35d1f1032</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dexter-lawrence-misses-second-straight-practice"/>
+        <updated>2025-10-02T19:42:56.000Z</updated>
+        <summary type="html"><![CDATA[The Giants remained without a major part of their defensive line at practice on Thursday.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top-12 NFL running games: Which teams are helping our RBs score fantasy football points this season?]]></title>
+        <id>44b67a91-4d4c-44f4-bf8a-e5a721fd437b</id>
+        <link href="https://sports.yahoo.com/fantasy/article/top-12-nfl-running-games-which-teams-are-helping-our-rbs-score-fantasy-football-points-this-season-185738257.html"/>
+        <updated>2025-10-02T18:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Fantasy football analyst Matt Harmon breaks down how some key rushing ecosystems are making it work this season.]]></summary>
+        <author>
+            <name>Matt Harmon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puka Nacua needs eight catches tonight to make history]]></title>
+        <id>76ee0762-9632-3222-a42c-1d8ed957b1e0</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacua-needs-eight-catches-tonight-to-make-history"/>
+        <updated>2025-10-02T18:45:30.000Z</updated>
+        <summary type="html"><![CDATA[Rams receiver Puka Nacua is on a record pace.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lamar Jackson remains out of practice Thursday, Kyle Hamilton also sidelined]]></title>
+        <id>7e3a2c25-0115-33a8-95c3-f97a2e239e5a</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-remains-out-of-practice-thursday-kyle-hamilton-also-sidelined"/>
+        <updated>2025-10-02T17:51:38.000Z</updated>
+        <summary type="html"><![CDATA[Hamilton was listed as limited with a groin injury on Wednesday, but was not on the field on Thursday.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian McCaffrey is the third NFL player with 60 rushes, 30 catches through four games]]></title>
+        <id>9d3346e3-6500-35e9-805c-938550dfe775</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffrey-is-the-third-nfl-player-with-60-rushes-30-catches-through-four-games"/>
+        <updated>2025-10-02T17:30:13.000Z</updated>
+        <summary type="html"><![CDATA[49ers running back Christian McCaffrey is healthy again.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xavier Watts named defensive rookie of the month for September]]></title>
+        <id>45563dba-03bb-36b4-900b-1814f1281287</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/xavier-watts-named-defensive-rookie-of-the-month-for-september"/>
+        <updated>2025-10-02T16:47:29.000Z</updated>
+        <summary type="html"><![CDATA[Bijan Robinson wasn't the only Falcon to earn a player of the month award for September.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Travon Walker Might Play Just Days After Wrist Surgery?]]></title>
+        <id>https://www.draftsharks.com/shark-bites/79416/travon-walker-might-play-just-days-after-wrist-surgery</id>
+        <link href="https://www.draftsharks.com/shark-bites/79416/travon-walker-might-play-just-days-after-wrist-surgery"/>
+        <updated>2025-10-02T15:56:30.000Z</updated>
+        <summary type="html"><![CDATA[Jaguars Edge Travon Walker had surgery this week for a wrist injury that knocked him out of Sunday's win over the 49ers. But HC Liam Coen calls Walker d]]></summary>
+        <author>
+            <name>Kevin English</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tottenham takeover: Top scenes from Vikings-Browns in London]]></title>
+        <id>US-EN-46456194</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46456194/nfl-london-scenes-minnesota-vikings-cleveland-browns-week-5"/>
+        <updated>2025-10-02T14:54:00.000Z</updated>
+        <summary type="html"><![CDATA[The NFL went international in Week 5. Here's how Minnesota and Cleveland made the trip worth remembering in London.]]></summary>
+        <author>
+            <name>ESPN Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barnwell's NFL quarter-season awards: The top candidates to win MVP, Rookie of the Year, more]]></title>
+        <id>US-EN-46443618</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46443618/2025-nfl-quarter-season-awards-ranking-mvp-rookies-coaches-candidates"/>
+        <updated>2025-10-02T13:02:08.000Z</updated>
+        <summary type="html"><![CDATA[Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks.]]></summary>
+        <author>
+            <name>Bill Barnwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thursday Night Football: How to watch the San Francisco 49ers vs. L.A. Rams NFL game tonight]]></title>
+        <id>a2ad3bc7-2f4b-4ae6-bc90-e916d584d6f1</id>
+        <link href="https://sports.yahoo.com/nfl/article/thursday-night-football-how-to-watch-the-san-francisco-49ers-vs-la-rams-nfl-game-tonight-103045936.html"/>
+        <updated>2025-10-02T10:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Tonight on Thursday Night Football, the San Francisco 49ers face the L.A. Rams. Here's how to watch all the action on the field.]]></summary>
+        <author>
+            <name>Liz Kocan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Are Bills and Eagles destined to meet in Super Bowl?]]></title>
         <id>db44b38b-9a9b-33cd-a409-74a0d3c2db87</id>
@@ -667,6 +1203,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Survivor group picks, predictions, advice, strategy: Best Week 5 NFL selections]]></title>
+        <id>ac32c868-91ca-41c3-90f7-dabfa2cd911d</id>
+        <link href="https://sports.yahoo.com/nfl/betting/article/survivor-group-picks-predictions-advice-strategy-best-week-5-nfl-selections-150440102.html"/>
+        <updated>2025-10-01T15:04:40.000Z</updated>
+        <summary type="html"><![CDATA[Matt Russell runs through NFL survivor group Week 5 strategy and a few games to target.]]></summary>
+        <author>
+            <name>Matt Russell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NFL draft risers, questions and notes: What scouts are saying about Drew Allar]]></title>
         <id>US-EN-45531306</id>
         <link href="https://www.espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects"/>
@@ -747,6 +1293,86 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fantasy Football Week 5 Kicker Rankings]]></title>
+        <id>6be428e0-a283-4803-a0ef-e4516c904526</id>
+        <link href="https://sports.yahoo.com/fantasy/article/week-5-fantasy-football-rankings-kicker-182415359.html"/>
+        <updated>2025-09-30T18:24:15.000Z</updated>
+        <summary type="html"><![CDATA[Here are our fantasy football kicker rankings for Week 5 of the 2025 NFL season.]]></summary>
+        <author>
+            <name>Yahoo Sports Fantasy Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football Week 5 D/ST Rankings]]></title>
+        <id>d88250b9-2542-43ba-a980-a04212546ee4</id>
+        <link href="https://sports.yahoo.com/fantasy/article/week-5-fantasy-football-rankings-defense-182322530.html"/>
+        <updated>2025-09-30T18:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Here are our fantasy football D/ST rankings for Week 5 of the 2025 NFL season.]]></summary>
+        <author>
+            <name>Yahoo Sports Fantasy Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football Week 5 FLEX Rankings]]></title>
+        <id>2fe6c17f-7cb3-48d2-b377-293837e0d6e1</id>
+        <link href="https://sports.yahoo.com/fantasy/article/week-5-fantasy-football-rankings-flex-181957641.html"/>
+        <updated>2025-09-30T18:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Here are our fantasy football FLEX rankings for Week 5 of the 2025 NFL season.]]></summary>
+        <author>
+            <name>Yahoo Sports Fantasy Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football Week 5 Tight End Rankings]]></title>
+        <id>d4a36820-0765-4119-a40d-9fc94a6b0b20</id>
+        <link href="https://sports.yahoo.com/fantasy/article/week-5-fantasy-football-rankings-tight-end-181719068.html"/>
+        <updated>2025-09-30T18:17:19.000Z</updated>
+        <summary type="html"><![CDATA[Here are our fantasy football tight end rankings for Week 5 of the 2025 NFL season.]]></summary>
+        <author>
+            <name>Yahoo Sports Fantasy Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football Week 5 Wide Receiver Rankings]]></title>
+        <id>55b165e3-df58-438c-a4a1-bc3d6f3f0087</id>
+        <link href="https://sports.yahoo.com/fantasy/article/week-5-fantasy-football-rankings-wide-receiver-181456732.html"/>
+        <updated>2025-09-30T18:14:56.000Z</updated>
+        <summary type="html"><![CDATA[Here are our fantasy football wide receiver rankings for Week 5 of the 2025 NFL season.]]></summary>
+        <author>
+            <name>Yahoo Sports Fantasy Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football Week 5 Running Back Rankings]]></title>
+        <id>e1547660-fa8d-4ac4-9a6e-af9362874268</id>
+        <link href="https://sports.yahoo.com/fantasy/article/week-5-fantasy-football-rankings-running-back-181251760.html"/>
+        <updated>2025-09-30T18:12:51.000Z</updated>
+        <summary type="html"><![CDATA[Here are our fantasy football running back rankings for Week 5 of the 2025 NFL season.]]></summary>
+        <author>
+            <name>Yahoo Sports Fantasy Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football Week 5 Quarterback Rankings]]></title>
+        <id>14eb9cfd-d5c1-45a0-a355-975e138f4674</id>
+        <link href="https://sports.yahoo.com/fantasy/article/week-5-fantasy-football-rankings-quarterback-181120030.html"/>
+        <updated>2025-09-30T18:11:20.000Z</updated>
+        <summary type="html"><![CDATA[Here are our fantasy football quarterback rankings for Week 5 of the 2025 NFL season.]]></summary>
+        <author>
+            <name>Yahoo Sports Fantasy Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football Week 5 Half-PPR Rankings]]></title>
+        <id>4d16d389-e976-4e29-b408-86f750a7210a</id>
+        <link href="https://sports.yahoo.com/fantasy/article/week-5-fantasy-football-rankings-half-ppr-180829244.html"/>
+        <updated>2025-09-30T18:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Here are our fantasy football rankings for each position for Week 4 of the 2025 NFL season.]]></summary>
+        <author>
+            <name>Yahoo Sports Fantasy Staff</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fantasy Football Week 5 Half-PPR Rankings]]></title>
         <id>4d16d389-e976-4e29-b408-86f750a7210a</id>
         <link href="https://sports.yahoo.com/fantasy/article/fantasy-football-week-5-half-ppr-rankings-180829648.html"/>
@@ -789,6 +1415,16 @@
     <entry>
         <title type="html"><![CDATA[2025 Fantasy Football Rankings: Justin Boone&#39;s top tight ends for Week 5]]></title>
         <id>0bdad0dd-895e-4077-be0e-9c9b3f90043e</id>
+        <link href="https://sports.yahoo.com/fantasy/article/2025-fantasy-football-rankings-tight-end-week-5-justin-boone-zach-ertz-darren-waller-173735658.html"/>
+        <updated>2025-09-30T17:37:35.000Z</updated>
+        <summary type="html"><![CDATA[Justin Boone shares his fantasy football tight end rankings for Week 5 of the 2025 NFL season.]]></summary>
+        <author>
+            <name>Justin Boone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 Fantasy Football Rankings: Justin Boone&#39;s top tight ends for Week 5]]></title>
+        <id>0bdad0dd-895e-4077-be0e-9c9b3f90043e</id>
         <link href="https://sports.yahoo.com/fantasy/article/2025-fantasy-football-rankings-justin-boones-top-tight-ends-for-week-5-173735328.html"/>
         <updated>2025-09-30T17:37:35.000Z</updated>
         <summary type="html"><![CDATA[Justin Boone shares his fantasy football tight end rankings for Week 5 of the 2025 NFL season.]]></summary>
@@ -799,9 +1435,29 @@
     <entry>
         <title type="html"><![CDATA[2025 Fantasy Football Rankings: Justin Boone&#39;s top wide receivers for Week 5]]></title>
         <id>1bae45af-7f44-4501-abe7-4c783335cba9</id>
+        <link href="https://sports.yahoo.com/fantasy/article/2025-fantasy-football-rankings-wide-receiver-week-5-justin-boone-malik-nabers-injury-173608309.html"/>
+        <updated>2025-09-30T17:36:08.000Z</updated>
+        <summary type="html"><![CDATA[Justin Boone shares his fantasy football wide receiver rankings for Week 5 of the 2025 NFL season.]]></summary>
+        <author>
+            <name>Justin Boone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 Fantasy Football Rankings: Justin Boone&#39;s top wide receivers for Week 5]]></title>
+        <id>1bae45af-7f44-4501-abe7-4c783335cba9</id>
         <link href="https://sports.yahoo.com/fantasy/article/2025-fantasy-football-rankings-justin-boones-top-wide-receivers-for-week-5-173608807.html"/>
         <updated>2025-09-30T17:36:08.000Z</updated>
         <summary type="html"><![CDATA[Justin Boone shares his fantasy football wide receiver rankings for Week 5 of the 2025 NFL season.]]></summary>
+        <author>
+            <name>Justin Boone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 Fantasy Football Rankings: Justin Boone&#39;s top running backs for Week 5]]></title>
+        <id>34bf5e84-1751-4e7e-a813-955187fef438</id>
+        <link href="https://sports.yahoo.com/fantasy/article/2025-fantasy-football-rankings-week-5-justin-boone-running-backs-bucky-irving-injury-173301622.html"/>
+        <updated>2025-09-30T17:33:01.000Z</updated>
+        <summary type="html"><![CDATA[Justin Boone shares his fantasy football running back rankings for Week 5 of the 2025 NFL season.]]></summary>
         <author>
             <name>Justin Boone</name>
         </author>
@@ -1117,6 +1773,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fantasy Football Week 5 Rankings Hub: Advice to help with your start-sit questions]]></title>
+        <id>726f77f8-5e11-4cfd-aba9-ac62ec3b217f</id>
+        <link href="https://sports.yahoo.com/fantasy/article/week-5-fantasy-football-rankings-expert-start-sit-lineup-advice-212700459.html"/>
+        <updated>2025-09-18T21:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Here you can find all of our fantasy football rankings for Week 5.]]></summary>
+        <author>
+            <name>Yahoo Sports Fantasy Staff</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tucker Kraft Hurts Left Knee In Practice]]></title>
         <id>https://www.draftsharks.com/shark-bites/79088/tucker-kraft-hurts-left-knee-in-practice</id>
         <link href="https://www.draftsharks.com/shark-bites/79088/tucker-kraft-hurts-left-knee-in-practice"/>
@@ -1124,6 +1790,46 @@
         <summary type="html"><![CDATA[Packers TE Tucker Kraft injured his left knee in Thursday's practice, according to multiple reports. NFL Network's Ian Rapoport says, "the belief is it']]></summary>
         <author>
             <name>Kevin English</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joel Smyth&#39;s Fantasy Football Rankings for Week 5]]></title>
+        <id>f17c7edf-01fd-4dde-a269-e75c08b54ed4</id>
+        <link href="https://sports.yahoo.com/fantasy/article/joel-smyths-fantasy-football-rankings-200022616.html"/>
+        <updated>2025-09-18T20:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Here are Joel Smyth's half-PPR fantasy football rankings for Week 5 of the 2025 NFL season.]]></summary>
+        <author>
+            <name>Joel Smyth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scott Pianowski&#39;s Fantasy Football Rankings for Week 5]]></title>
+        <id>869a7164-02aa-4aab-b966-50831e983d32</id>
+        <link href="https://sports.yahoo.com/fantasy/article/scott-pianowskis-fantasy-football-rankings-194309138.html"/>
+        <updated>2025-09-18T19:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Here are Scott Pianowski's half-PPR fantasy football rankings for Week 5 of the 2025 NFL season.]]></summary>
+        <author>
+            <name>Scott Pianowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Justin Boone&#39;s Fantasy Football Rankings for Week 5]]></title>
+        <id>2fd4ffea-8188-4899-a3ac-21964b3e3d9d</id>
+        <link href="https://sports.yahoo.com/fantasy/article/justin-boones-fantasy-football-rankings-192406625.html"/>
+        <updated>2025-09-18T19:24:06.000Z</updated>
+        <summary type="html"><![CDATA[Here are Justin Boone's half-PPR rankings for Week 5 of the 2025 NFL season.]]></summary>
+        <author>
+            <name>Justin Boone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matt Harmon&#39;s Fantasy Football Rankings for Week 5]]></title>
+        <id>0c2a1e35-dd62-4287-8383-effba91ae04c</id>
+        <link href="https://sports.yahoo.com/fantasy/article/matt-harmons-fantasy-football-rankings-190825258.html"/>
+        <updated>2025-09-18T19:08:25.000Z</updated>
+        <summary type="html"><![CDATA[Here are Matt Harmon's half-PPR fantasy football rankings for Week 5 of the 2025 NFL season.]]></summary>
+        <author>
+            <name>Matt Harmon</name>
         </author>
     </entry>
     <entry>
@@ -1412,16 +2118,6 @@
         <link href="https://www.draftsharks.com/shark-bites/78797/christian-kirk-likely-to-miss-week-1-with-strained-hamstring"/>
         <updated>2025-09-04T21:30:58.000Z</updated>
         <summary type="html"><![CDATA[Texans WR Christian Kirk has a strained hamstring that likely keeps him out of the opener against the Rams for Week 1. He could be out for additional ti]]></summary>
-        <author>
-            <name>Kevin English</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Isaiah Likely Expected to Miss Week 1 but Not Much More]]></title>
-        <id>https://www.draftsharks.com/shark-bites/78778/isaiah-likely-expected-to-miss-week-1-but-not-much-more</id>
-        <link href="https://www.draftsharks.com/shark-bites/78778/isaiah-likely-expected-to-miss-week-1-but-not-much-more"/>
-        <updated>2025-09-03T12:41:42.000Z</updated>
-        <summary type="html"><![CDATA[The Ravens expect TE Isaiah Likely to miss Sunday's game against the Bills, but NFL Network's Ian Rapoport reports that Likely "should be ready early in]]></summary>
         <author>
             <name>Kevin English</name>
         </author>
