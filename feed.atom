@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dikembe3000.github.io/Fantasy_Football_AI/index.html</id>
     <title>FF Aggregator</title>
-    <updated>2025-10-04T04:33:50.950Z</updated>
+    <updated>2025-10-04T05:53:07.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dikembe3000.github.io/Fantasy_Football_AI/index.html"/>
     <link rel="self" href="https://dikembe3000.github.io/Fantasy_Football_AI/feed.atom"/>
@@ -238,6 +238,16 @@
         Visit RotoWire.com for more analysis on this update.]]></summary>
         <author>
             <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[49ers&#39; gritty win serves as revenge for Kyren Williams&#39; ‘big brother&#39; comments]]></title>
+        <id>6d36ab92-2975-3472-82df-99a7792ee2a5</id>
+        <link href="https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/kyren-williams-rams-revenge/1879262/?partner=yahoo"/>
+        <updated>2025-10-03T21:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Revenge is a dish best served cold, and the 49ers waited nearly a year to exact theirs on Los Angeles Rams running back Kyren Williams.  After San Francisco was swept by Los Angeles last season, Williams claimed the Rams were the “big brothers now” after years of the 49ers’ one-sided dominance in the interstate rivalry.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
         </author>
     </entry>
     <entry>
