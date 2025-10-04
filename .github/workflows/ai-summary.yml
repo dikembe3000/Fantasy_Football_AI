@@ -2,8 +2,8 @@ name: Build AI Top 10 Summary
 
 on:
   schedule:
-    - cron: "5 * * * *"     # hourly at :05 UTC (adjust if you like)
-  workflow_dispatch:         # allow manual run
+    - cron: "5 * * * *"     # hourly at :05 UTC
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,99 +17,98 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Work directly on the published site branch
       - name: Checkout gh-pages
         uses: actions/checkout@v4
         with:
           ref: gh-pages
           fetch-depth: 0
 
-      - name: Verify cache.json exists
+      - name: Verify cache.json exists (+ peek)
         run: |
-          test -f cache.json || { echo "::error ::cache.json not found on gh-pages"; exit 1; }
+          if [ ! -f cache.json ]; then
+            echo "::error ::cache.json not found on gh-pages"
+            exit 1
+          fi
+          echo "First 400 chars of cache.json:"
+          head -c 400 cache.json || true
+          echo
+          echo "Size (bytes): $(wc -c < cache.json)"
 
       - name: Setup Node 20
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      - name: Generate AI summary (Top 10) — robust shape handling
+      - name: Generate AI summary (Top 10) — deep scan cache.json
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           node - <<'NODE'
           import fs from 'node:fs/promises';
 
-          // ---- Read & inspect cache.json ----
           const raw = await fs.readFile('cache.json', 'utf8').catch(()=>null);
-          if (!raw) { throw new Error('cache.json not readable'); }
+          if (!raw) throw new Error('cache.json not readable');
 
-          let d;
-          try { d = JSON.parse(raw); }
-          catch (e) { throw new Error('cache.json JSON parse failed: ' + e.message); }
+          let d; try { d = JSON.parse(raw); } catch (e) { throw new Error('JSON parse failed: '+e.message); }
 
-          const isArr = Array.isArray(d);
-          const keys = !isArr && d && typeof d === 'object' ? Object.keys(d).slice(0,20) : [];
-          console.log('[ai-summary] cache.json type:', isArr ? 'array' : typeof d, 'keys:', keys);
-
-          // ---- Normalize to an array of entries ----
-          function toArray(x) {
-            if (Array.isArray(x)) return x;
-
-            if (x && typeof x === 'object') {
-              if (Array.isArray(x.items))   return x.items;
-              if (Array.isArray(x.entries)) return x.entries;
-              if (Array.isArray(x.data))    return x.data;
-              if (x.feed && Array.isArray(x.feed.items)) return x.feed.items;
-              if (x.items && typeof x.items === 'object') return Object.values(x.items);
-
-              // Fallback: object values that look like feed entries
-              return Object.values(x).filter(v =>
-                v && typeof v === 'object' && (
-                  'title' in v || 'link' in v || 'url' in v || 'published' in v || 'date' in v
-                )
-              );
+          // ---- Recursively collect arrays of "entry-like" objects ----
+          function collectEntries(x, depth=0, out=[]) {
+            if (depth > 5 || x == null) return out;
+            if (Array.isArray(x)) {
+              // Is this an array of likely entries? (has title/link/date-ish)
+              const looksLikeEntries = x.some(v => v && typeof v === 'object' && (
+                'title' in v || 'link' in v || 'url' in v || 'published' in v || 'date' in v || 'isoDate' in v
+              ));
+              if (looksLikeEntries) out.push(...x);
+              // Still scan inside (some arrays contain nested arrays/objects)
+              for (const v of x) collectEntries(v, depth+1, out);
+            } else if (typeof x === 'object') {
+              for (const k of Object.keys(x)) collectEntries(x[k], depth+1, out);
             }
-            return [];
+            return out;
           }
 
-          const arr = toArray(d);
-          console.log('[ai-summary] normalized entries:', arr.length);
+          const entries = collectEntries(d);
+          console.log('[ai-summary] discovered entries:', entries.length);
 
-          if (!arr.length) {
-            const msg = '**Summary of Fantasy Impact (Top 10)**\\n\\nNo recent items found in cache.json.\\n';
+          if (!entries.length) {
+            const msg = '**Summary of Fantasy Impact (Top 10)**\n\nNo recent items found in cache.json.\n';
             const generatedAt = new Date().toISOString();
-            await fs.writeFile('top10.txt', msg + `\\nUpdated: ${generatedAt}\\n`, 'utf8');
+            await fs.writeFile('top10.txt', msg + `\nUpdated: ${generatedAt}\n`, 'utf8');
             await fs.writeFile('top10.json', JSON.stringify({ generatedAt, items: [], summary: msg.trim() }, null, 2), 'utf8');
-            console.log('[ai-summary] Wrote placeholders because no items were found.');
+            console.log('[ai-summary] Wrote placeholder files (no entries).');
             process.exit(0);
           }
 
-          // ---- Map to the fields we need ----
-          const items = arr.map(it => ({
-            title: it.title ?? 'Untitled',
-            link: it.link || it.url || '',
-            source: it.feedTitle || it.source || '',
-            date: it.published || it.publishedAt || it.date || it.isoDate || it.createdAt || it.updated || null
+          const items = entries.map(it => ({
+            title: it?.title ?? 'Untitled',
+            link: it?.link || it?.url || '',
+            source: it?.feedTitle || it?.source || '',
+            date: it?.published || it?.publishedAt || it?.date || it?.isoDate || it?.createdAt || it?.updated || null
           }))
+          // Filter out junk/no-title rows
+          .filter(it => it.title || it.link)
+          // Deduplicate identical titles+links
+          .reduce((acc, cur) => {
+            const key = (cur.title||'') + '|' + (cur.link||'');
+            if (!acc._seen.has(key)) { acc._seen.add(key); acc.list.push(cur); }
+            return acc;
+          }, {_seen:new Set(), list:[]}).list
+          // Sort newest first and take top 10
           .sort((a,b) => new Date(b.date||0) - new Date(a.date||0))
           .slice(0, 10);
 
-          console.log('[ai-summary] first titles:', items.slice(0,3).map(i => i.title));
+          console.log('[ai-summary] first titles:', items.slice(0,3).map(i=>i.title));
 
-          // ---- Build prompt ----
           const prompt = [
             "Summarize the fantasy football impact of these recent articles.",
             "Group bullets by themes: Injuries, Transactions, Depth/Usage, Waivers, Start/Sit.",
             "Be concise and actionable. End with 3 takeaways.",
             "Articles:",
             ...items.map((it, i) => `(${i+1}) ${it.title} — ${it.link}`)
-          ].join("\\n");
+          ].join("\n");
 
-          // ---- Call OpenAI (clear errors if any) ----
-          if (!process.env.OPENAI_API_KEY) {
-            throw new Error('Missing OPENAI_API_KEY secret.');
-          }
+          if (!process.env.OPENAI_API_KEY) throw new Error('Missing OPENAI_API_KEY secret.');
 
           const resp = await fetch("https://api.openai.com/v1/responses", {
             method: "POST",
@@ -126,22 +125,18 @@ jobs:
 
           const bodyText = await resp.text();
           if (!resp.ok) {
-            console.error('[ai-summary] OpenAI error status:', resp.status, resp.statusText);
-            console.error('[ai-summary] OpenAI body:', bodyText.slice(0, 1000));
+            console.error('[ai-summary] OpenAI error', resp.status, resp.statusText);
+            console.error(bodyText.slice(0, 1000));
             throw new Error('OpenAI request failed');
           }
 
-          let data;
-          try { data = JSON.parse(bodyText); }
-          catch (e) { throw new Error('Failed to parse OpenAI JSON: ' + e.message); }
-
+          let data; try { data = JSON.parse(bodyText); } catch (e) { throw new Error('OpenAI JSON parse failed'); }
           const text = (data.output_text || "No summary returned.").trim();
           const generatedAt = new Date().toISOString();
 
-          await fs.writeFile('top10.txt', text + `\\n\\nUpdated: ${generatedAt}\\n`, 'utf8');
+          await fs.writeFile('top10.txt', text + `\n\nUpdated: ${generatedAt}\n`, 'utf8');
           await fs.writeFile('top10.json', JSON.stringify({ generatedAt, items, summary: text }, null, 2), 'utf8');
-
-          console.log("[ai-summary] Wrote top10.txt and top10.json");
+          console.log('[ai-summary] Wrote top10.txt and top10.json');
           NODE
 
       - name: Commit & push
