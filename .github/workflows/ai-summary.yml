@@ -33,32 +33,83 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Generate AI summary (Top 10)
+      - name: Generate AI summary (Top 10) — robust shape handling
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           node - <<'NODE'
           import fs from 'node:fs/promises';
-          const raw = await fs.readFile('cache.json', 'utf8');
-          let d; try { d = JSON.parse(raw) } catch { d = [] }
 
-          const items = (d.items || d.entries || d || [])
-            .map(it => ({
-              title: it.title ?? 'Untitled',
-              link: it.link || it.url || '',
-              source: it.feedTitle || it.source || '',
-              date: it.published || it.publishedAt || it.date || it.isoDate || it.createdAt || it.updated || null
-            }))
-            .sort((a,b) => new Date(b.date||0) - new Date(a.date||0))
-            .slice(0, 10);
+          // ---- Read & inspect cache.json ----
+          const raw = await fs.readFile('cache.json', 'utf8').catch(()=>null);
+          if (!raw) { throw new Error('cache.json not readable'); }
 
+          let d;
+          try { d = JSON.parse(raw); }
+          catch (e) { throw new Error('cache.json JSON parse failed: ' + e.message); }
+
+          const isArr = Array.isArray(d);
+          const keys = !isArr && d && typeof d === 'object' ? Object.keys(d).slice(0,20) : [];
+          console.log('[ai-summary] cache.json type:', isArr ? 'array' : typeof d, 'keys:', keys);
+
+          // ---- Normalize to an array of entries ----
+          function toArray(x) {
+            if (Array.isArray(x)) return x;
+
+            if (x && typeof x === 'object') {
+              if (Array.isArray(x.items))   return x.items;
+              if (Array.isArray(x.entries)) return x.entries;
+              if (Array.isArray(x.data))    return x.data;
+              if (x.feed && Array.isArray(x.feed.items)) return x.feed.items;
+              if (x.items && typeof x.items === 'object') return Object.values(x.items);
+
+              // Fallback: object values that look like feed entries
+              return Object.values(x).filter(v =>
+                v && typeof v === 'object' && (
+                  'title' in v || 'link' in v || 'url' in v || 'published' in v || 'date' in v
+                )
+              );
+            }
+            return [];
+          }
+
+          const arr = toArray(d);
+          console.log('[ai-summary] normalized entries:', arr.length);
+
+          if (!arr.length) {
+            const msg = '**Summary of Fantasy Impact (Top 10)**\\n\\nNo recent items found in cache.json.\\n';
+            const generatedAt = new Date().toISOString();
+            await fs.writeFile('top10.txt', msg + `\\nUpdated: ${generatedAt}\\n`, 'utf8');
+            await fs.writeFile('top10.json', JSON.stringify({ generatedAt, items: [], summary: msg.trim() }, null, 2), 'utf8');
+            console.log('[ai-summary] Wrote placeholders because no items were found.');
+            process.exit(0);
+          }
+
+          // ---- Map to the fields we need ----
+          const items = arr.map(it => ({
+            title: it.title ?? 'Untitled',
+            link: it.link || it.url || '',
+            source: it.feedTitle || it.source || '',
+            date: it.published || it.publishedAt || it.date || it.isoDate || it.createdAt || it.updated || null
+          }))
+          .sort((a,b) => new Date(b.date||0) - new Date(a.date||0))
+          .slice(0, 10);
+
+          console.log('[ai-summary] first titles:', items.slice(0,3).map(i => i.title));
+
+          // ---- Build prompt ----
           const prompt = [
             "Summarize the fantasy football impact of these recent articles.",
             "Group bullets by themes: Injuries, Transactions, Depth/Usage, Waivers, Start/Sit.",
             "Be concise and actionable. End with 3 takeaways.",
             "Articles:",
             ...items.map((it, i) => `(${i+1}) ${it.title} — ${it.link}`)
-          ].join("\n");
+          ].join("\\n");
+
+          // ---- Call OpenAI (clear errors if any) ----
+          if (!process.env.OPENAI_API_KEY) {
+            throw new Error('Missing OPENAI_API_KEY secret.');
+          }
 
           const resp = await fetch("https://api.openai.com/v1/responses", {
             method: "POST",
@@ -72,15 +123,25 @@ jobs:
               temperature: 0.4
             })
           });
-          if (!resp.ok) throw new Error(await resp.text());
 
-          const data = await resp.json();
+          const bodyText = await resp.text();
+          if (!resp.ok) {
+            console.error('[ai-summary] OpenAI error status:', resp.status, resp.statusText);
+            console.error('[ai-summary] OpenAI body:', bodyText.slice(0, 1000));
+            throw new Error('OpenAI request failed');
+          }
+
+          let data;
+          try { data = JSON.parse(bodyText); }
+          catch (e) { throw new Error('Failed to parse OpenAI JSON: ' + e.message); }
+
           const text = (data.output_text || "No summary returned.").trim();
           const generatedAt = new Date().toISOString();
 
-          await fs.writeFile('top10.txt', text + `\n\nUpdated: ${generatedAt}\n`, 'utf8');
+          await fs.writeFile('top10.txt', text + `\\n\\nUpdated: ${generatedAt}\\n`, 'utf8');
           await fs.writeFile('top10.json', JSON.stringify({ generatedAt, items, summary: text }, null, 2), 'utf8');
-          console.log("Wrote top10.txt and top10.json");
+
+          console.log("[ai-summary] Wrote top10.txt and top10.json");
           NODE
 
       - name: Commit & push
