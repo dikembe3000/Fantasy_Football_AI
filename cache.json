@@ -780,6 +780,26 @@
       "siteUrl": "https://sports.yahoo.com/nfl/",
       "articles": [
         {
+          "id": "08b2cee2-7319-3499-83ae-6fb6faba8c09",
+          "author": null,
+          "description": "Pete Carroll has coached 295 regular-season games.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pete-carroll-faces-a-rare-four-game-losing-streak",
+          "publishedOn": "2025-10-04T03:52:02.000Z",
+          "wordCount": 2154,
+          "title": "Pete Carroll faces a rare four-game losing streak",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/5321f0c/2147483647/strip/true/crop/2609x1468+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3c%2F3f%2F7307f0264ed0a0c32d954fac0c92%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27140920"
+        },
+        {
+          "id": "c39e54f6-afdb-3990-9703-f4674ad944b7",
+          "author": null,
+          "description": "Browns quarterback Dillon Gabriel wears No. 8.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dillon-gabriel-will-be-41st-starting-quarterback-since-browns-returned-in-1999",
+          "publishedOn": "2025-10-04T03:41:01.000Z",
+          "wordCount": 2230,
+          "title": "Dillon Gabriel will be 41st starting quarterback since Browns returned in 1999",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/17a7ac4/2147483647/strip/true/crop/7869x4426+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F2e%2Fd367364541de977f2c25b4513051%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2219831400"
+        },
+        {
           "id": "https://sports.yahoo.com/video/jon-grudens-lawsuit-vs-nfl-171302064.html",
           "author": null,
           "description": "After a series of appeals, Jon Gruden's lawsuit against the NFL appears set for a public trial. On Thursday, the Nevada Supreme Court rejected the NFL's petition to rehear a recent decision on the case with a 7-0 vote, via ESPN's Don Van Natta Jr. It's the latest legal win for the former head coach as he tries to keep the proceedings from happening behind closed doors. In August, the court sided with Gruden in an appeal that blocked the NFL from sending the case into closed-door arbitration.",
@@ -1068,6 +1088,16 @@
           "wordCount": 2187,
           "title": "Giants list Tyrone Tracy as doubtful for Week 5",
           "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/bbe36a7/2147483647/strip/true/crop/4000x2250+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2F97%2F262a8a3448e5b957e4ca99724157%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2236474679"
+        },
+        {
+          "id": "9b21b8b8-6f40-3041-a230-d6ed4f693e54",
+          "author": null,
+          "description": "The San Francisco 49ers' Week 5 PFF grades demonstrate how they pulled out a gritty win over the Los Angeles Rams on \"Thursday Night Football.\"",
+          "link": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/mac-jones-pff-grades/1879219/?partner=yahoo",
+          "publishedOn": "2025-10-03T18:35:37.000Z",
+          "wordCount": 2900,
+          "title": "How PFF graded Mac Jones, 49ers in win thrilling overtime victory over Rams",
+          "imageUrl": "https://media.nbcsportsbayarea.com/2025/10/Mac-Jones-49ers.jpg?quality=85&strip=all&resize=1200%2C675"
         },
         {
           "id": "ad4277fa-6031-3d05-a69a-db2eafc907b0",

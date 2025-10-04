@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dikembe3000.github.io/Fantasy_Football_AI/index.html</id>
     <title>FF Aggregator</title>
-    <updated>2025-10-04T01:15:04.305Z</updated>
+    <updated>2025-10-04T04:20:44.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dikembe3000.github.io/Fantasy_Football_AI/index.html"/>
     <link rel="self" href="https://dikembe3000.github.io/Fantasy_Football_AI/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pete Carroll faces a rare four-game losing streak]]></title>
+        <id>08b2cee2-7319-3499-83ae-6fb6faba8c09</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pete-carroll-faces-a-rare-four-game-losing-streak"/>
+        <updated>2025-10-04T03:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Pete Carroll has coached 295 regular-season games.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dillon Gabriel will be 41st starting quarterback since Browns returned in 1999]]></title>
+        <id>c39e54f6-afdb-3990-9703-f4674ad944b7</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dillon-gabriel-will-be-41st-starting-quarterback-since-browns-returned-in-1999"/>
+        <updated>2025-10-04T03:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Browns quarterback Dillon Gabriel wears No. 8.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ex-Ravens, Syracuse DL Arthur Jones dies at 39]]></title>
         <id>US-EN-46479713</id>
@@ -490,6 +510,16 @@
         <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-list-tyrone-tracy-as-doubtful-for-week-5"/>
         <updated>2025-10-03T18:45:01.000Z</updated>
         <summary type="html"><![CDATA[The Giants got running back Tyrone Tracy back on the practice field on Friday, but they don't expect to have him in the lineup against the Saints on Sunday.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How PFF graded Mac Jones, 49ers in win thrilling overtime victory over Rams]]></title>
+        <id>9b21b8b8-6f40-3041-a230-d6ed4f693e54</id>
+        <link href="https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/mac-jones-pff-grades/1879219/?partner=yahoo"/>
+        <updated>2025-10-03T18:35:37.000Z</updated>
+        <summary type="html"><![CDATA[The San Francisco 49ers' Week 5 PFF grades demonstrate how they pulled out a gritty win over the Los Angeles Rams on "Thursday Night Football."]]></summary>
         <author>
             <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
         </author>
