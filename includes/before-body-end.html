@@ -160,7 +160,12 @@
 
     // 0) Try precomputed AI summary from GitHub Actions
     const pre = await maybePrecomputedSummary();
-    if (pre) { out.textContent = pre; return; }
+const isPlaceholder = pre && /No recent items found in cache\.json/i.test(pre);
+if (pre && !isPlaceholder) {
+  out.textContent = pre; 
+  return;        // use AI precompute
+}
+// else: keep going to serverless or heuristic fallback
 
     // 1) Load cache.json (osmosfeed output)
     const cacheUrl = cacheUrlFromLocation();
