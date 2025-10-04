@@ -7012,8 +7012,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/dikembe3000/Fantasy_Football_AI/actions/runs/18240424584">
-        <time id="build-timestamp" datetime="2025-10-04T05:53:07.350Z">2025-10-04T05:53:07.350Z</time>
+      <a class="footer-link" href="https://github.com/dikembe3000/Fantasy_Football_AI/actions/runs/18240439536">
+        <time id="build-timestamp" datetime="2025-10-04T05:54:58.616Z">2025-10-04T05:54:58.616Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
@@ -7180,7 +7180,12 @@
 
     // 0) Try precomputed AI summary from GitHub Actions
     const pre = await maybePrecomputedSummary();
-    if (pre) { out.textContent = pre; return; }
+const isPlaceholder = pre && /No recent items found in cache\.json/i.test(pre);
+if (pre && !isPlaceholder) {
+  out.textContent = pre; 
+  return;        // use AI precompute
+}
+// else: keep going to serverless or heuristic fallback
 
     // 1) Load cache.json (osmosfeed output)
     const cacheUrl = cacheUrlFromLocation();
