@@ -2,10 +2,738 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dikembe3000.github.io/Fantasy_Football_AI/index.html</id>
     <title>FF Aggregator</title>
-    <updated>2025-10-05T01:25:29.173Z</updated>
+    <updated>2025-10-06T01:19:42.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dikembe3000.github.io/Fantasy_Football_AI/index.html"/>
     <link rel="self" href="https://dikembe3000.github.io/Fantasy_Football_AI/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Follow live:  Bills, Patriots face off on "Sunday Night Football"]]></title>
+        <id>US-EN-46,487,940</id>
+        <link href="https://www.espn.com/nfl/game/_/gameId/401772922/patriots-bills"/>
+        <updated>2025-10-06T02:17:53.000Z</updated>
+        <summary type="html"><![CDATA[null]]></summary>
+        <author>
+            <name>www.espn.com - NFL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harbaugh sticking with DC Orr after latest defeat]]></title>
+        <id>US-EN-46502552</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46502552/john-harbaugh-says-spiraling-ravens-stick-together"/>
+        <updated>2025-10-06T01:21:30.000Z</updated>
+        <summary type="html"><![CDATA[Ravens coach John Harbaugh said he's sticking with defensive coordinator Zach Orr following Sunday's 44-10 loss to the Texans, the latest defensive meltdown in a season that continues to spiral for Baltimore.]]></summary>
+        <author>
+            <name>Jamison Hensley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panthers' Dowdle eyes Dallas after career game]]></title>
+        <id>US-EN-46502346</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46502346/panthers-dowdle-rushes-206-yards-win-eyes-cowboys-next"/>
+        <updated>2025-10-06T01:21:30.000Z</updated>
+        <summary type="html"><![CDATA[After he rushed for 206 yards in the Panthers' comeback win, Rico Dowdle had a message for the Cowboys, Carolina's next opponent and his former team: "They got to buckle up."]]></summary>
+        <author>
+            <name>David Newton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eagles pass game not on 'same page' in 1st loss]]></title>
+        <id>US-EN-46502665</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46502665/devonta-smith-eagles-pass-game-not-same-page-1st-loss"/>
+        <updated>2025-10-06T01:21:30.000Z</updated>
+        <summary type="html"><![CDATA[Eagles receiver DeVonta Smith said members of the passing game weren't "on the same page" at times during Sunday's 21-17 loss to the Broncos.]]></summary>
+        <author>
+            <name>Tim McManus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pete Carroll processing Raiders' 1-4 start 'poorly']]></title>
+        <id>US-EN-46502955</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46502955/pete-carroll-says-processing-raiders-1-4-start-poorly"/>
+        <updated>2025-10-06T01:21:30.000Z</updated>
+        <summary type="html"><![CDATA[Pete Carroll expected to win right away with the Raiders, but instead Las Vegas is 1-4, and the coach said he's processing that fact "poorly."]]></summary>
+        <author>
+            <name>Ryan McFadden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saints stop eight-game skid, give Moore 1st win]]></title>
+        <id>US-EN-46502661</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46502661/new-orleans-saints-end-skid-top-new-york-giants-1st-win"/>
+        <updated>2025-10-06T01:21:30.000Z</updated>
+        <summary type="html"><![CDATA[Safety Jordan Howden and the New Orleans Saints snapped an eight-game losing streak on Sunday afternoon, posting a 26-14 win over the New York Giants, the franchise's first victory since Dec. 8, 2024, and the first win of coach Kellen Moore's career.]]></summary>
+        <author>
+            <name>Katherine Terrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dart takes the blame as turnovers derail Giants]]></title>
+        <id>US-EN-46502555</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46502555/jaxson-dart-takes-blame-turnovers-derail-giants-vs-saints"/>
+        <updated>2025-10-06T01:21:30.000Z</updated>
+        <summary type="html"><![CDATA[After he turned the ball over three times Sunday, Giants quarterback Jaxson Dart said he told his teammates New York's loss was "on me."]]></summary>
+        <author>
+            <name>Jordan Raanan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jets left searching after Glenn era starts 0-5]]></title>
+        <id>US-EN-46502827</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46502827/aaron-glenn-first-jets-coach-start-0-5-fix-it"/>
+        <updated>2025-10-06T01:21:30.000Z</updated>
+        <summary type="html"><![CDATA[After becoming the first Jets coach to begin his coaching tenure 0-5, Aaron Glenn took the blame for his team's struggles and vowed to improve.]]></summary>
+        <author>
+            <name>Rich Cimini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prescott unfazed by MVP chants after latest gem]]></title>
+        <id>US-EN-46502314</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46502314/prescott-leads-cowboys-jets-hears-mvp-calls-afterward"/>
+        <updated>2025-10-06T01:21:30.000Z</updated>
+        <summary type="html"><![CDATA[Dak Prescott heard "MVP" chants from some fans Sunday, deserved praise after another strong start -- 28-of-29 passing for 237 yards with four TDs and no interceptions -- in a rout of the Jets.]]></summary>
+        <author>
+            <name>Todd Archer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jake Ferguson: Hauls in two TDs in win]]></title>
+        <id>nfl609278</id>
+        <link href="https://www.rotowire.com//football/player/jake-ferguson-15947"/>
+        <updated>2025-10-06T01:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Ferguson caught seven of nine targets for 49 yards and two touchdowns in Sunday's 37-22 win over the Jets.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ja'Marr Chase: Breaks out with Browning]]></title>
+        <id>nfl609277</id>
+        <link href="https://www.rotowire.com//football/player/jamarr-chase-15183"/>
+        <updated>2025-10-06T01:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Chase recorded six receptions on 10 targets for 110 yards and two touchdowns in Sunday's 37-24 loss to the Lions.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[George Pickens: Finds end zone again]]></title>
+        <id>nfl609276</id>
+        <link href="https://www.rotowire.com//football/player/george-pickens-15853"/>
+        <updated>2025-10-06T01:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Pickens caught two of four targets for 57 yards and a touchdown in Sunday's 37-22 win over the Jets.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Harbaugh not considering changes to Ravens defensive staff]]></title>
+        <id>70b643d4-7a77-3d4f-b67e-a18eafdddb61</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-not-considering-changes-to-his-defensive-staff"/>
+        <updated>2025-10-06T01:07:33.000Z</updated>
+        <summary type="html"><![CDATA[The Ravens allowed the Texans to score 44 points on Sunday, the most allowed by the team in a home game in John Harbaugh's 18 seasons as coach.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jacory Croskey-Merritt: Goes off for two scores Sunday]]></title>
+        <id>nfl609274</id>
+        <link href="https://www.rotowire.com//football/player/jacory-croskey-merritt-18811"/>
+        <updated>2025-10-06T01:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Croskey-Merritt rushed 14 times for 111 yards, two touchdowns and a fumble lost while catching both of his targets for 39 yards in Sunday's 27-10 win over the Chargers.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patriots take 3-0 lead after Bills&#39; second fumble of first quarter]]></title>
+        <id>7e0fd4ed-52de-377b-b7dc-ce93dfc4482d</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-take-3-0-lead-after-bills-second-fumble-of-first-quarter"/>
+        <updated>2025-10-06T01:05:38.000Z</updated>
+        <summary type="html"><![CDATA[Though Buffalo has gotten off to a sloppy start against New England on Sunday night, the Patriots have not been able to take much advantage of it.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFL didn&#39;t have clear view of Vikings&#39; field goal striking camera cable]]></title>
+        <id>07c0e414-b803-3c70-b592-d2ffaf0b72c3</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-didnt-have-clear-view-of-vikings-field-goal-striking-camera-cable"/>
+        <updated>2025-10-06T01:01:16.000Z</updated>
+        <summary type="html"><![CDATA[Sunday's game included not one but two incidents involving footballs striking the apparatus that captures overhead video.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questions, takeaways off every NFL Week 5 game: Bucs and Titans win thrillers; is QB Browning done in Cincinnati?]]></title>
+        <id>US-EN-46435996</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46435996/nfl-week-5-2025-season-questions-takeaways-lessons-stats-recap-every-game"/>
+        <updated>2025-10-06T00:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 5.]]></summary>
+        <author>
+            <name>NFL Nation</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judging three overreactions to Week 5 games: Graziano on the Eagles, 49ers and Broncos]]></title>
+        <id>US-EN-46498768</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46498768/nfl-week-5-overreactions-surprises-takeaways-aj-brown-49ers-nik-bonitto"/>
+        <updated>2025-10-06T00:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Will A.J. Brown try to force a move? We sized up Week 5 overreactions, with bonus fantasy content.]]></summary>
+        <author>
+            <name>Dan Graziano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panthers RB Rico Dowdle on facing Cowboys after leaving team in free agency: &#39;They gotta buckle up&#39;]]></title>
+        <id>15c279b4-b737-436a-b154-a66099aa6beb</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/panthers-rb-rico-dowdle-on-facing-cowboys-after-leaving-team-in-free-agency-they-gotta-buckle-up-005203610.html"/>
+        <updated>2025-10-06T00:52:03.000Z</updated>
+        <summary type="html"><![CDATA[Dowdle had 234 total yards and a touchdown in a career-best outing during Carolina's win over the Dolphins on Sunday.]]></summary>
+        <author>
+            <name>Chris Cwik,Kari Anderson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tua on Fins' 1-4 start: 'Got to figure this out now']]></title>
+        <id>US-EN-46503073</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46503073/tua-tagovailoa-says-miami-dolphins-1-4-start-got-figure-now"/>
+        <updated>2025-10-06T00:48:44.000Z</updated>
+        <summary type="html"><![CDATA["We've got to figure this out now," Dolphins quarterback Tua Tagovailoa said after a 27-24 loss to the Panthers dropped Miami to 1-4. "This feeling sucks."]]></summary>
+        <author>
+            <name>Marcel Louis-Jacques</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeVonta Smith: We have to be on the same page in passing game]]></title>
+        <id>843c0b56-db14-393b-8151-e531f52e64f3</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devonta-smith-we-have-to-be-on-the-same-page-in-passing-game"/>
+        <updated>2025-10-06T00:39:45.000Z</updated>
+        <summary type="html"><![CDATA[Jalen Hurts threw for a season-high 280 yards on Sunday, but the Eagles passing game was still a topic of conversation on Sunday.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mark Sanchez is released from hospital, taken to jail]]></title>
+        <id>3abef41f-066c-36bc-9a0a-88dce1af1771</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mark-sanchez-is-released-from-hospital-taken-to-jail"/>
+        <updated>2025-10-06T00:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Former NFL quarterback Mark Sanchez was released from an Indianapolis hospital on Sunday.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giants lament costly turnovers following loss: &#39;None of us did a good enough job&#39;]]></title>
+        <id>b8282976-4423-3cc6-8399-6e3e5804716a</id>
+        <link href="https://sny.tv/articles/giants-turnovers-loss-none-of-us-did-a-good-enough-job"/>
+        <updated>2025-10-06T00:24:57.000Z</updated>
+        <summary type="html"><![CDATA[For a moment, it looked like the Giants were on their way to another win under the Jaxson Dart era. Unfortunately, things changed quickly.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[London NFL fans say ticket app glitched, leading to long delays entering stadium]]></title>
+        <id>eb6b0abe-8f71-3d65-b1a3-0aeef583fcf3</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/london-nfl-fans-say-ticket-app-glitched-leading-to-long-delays-entering-stadium"/>
+        <updated>2025-10-06T00:11:38.000Z</updated>
+        <summary type="html"><![CDATA[Fans in London for today's Vikings-Browns game complained of long queues to get into the stadium and ticketing apps that weren't working.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chiefs downgrade WR Xavier Worthy to questionable for Monday Night Football]]></title>
+        <id>069b266c-662a-38d3-aad7-1b12549c70d1</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-downgrade-wr-xavier-worthy-to-questionable-for-monday-night-football"/>
+        <updated>2025-10-05T23:52:10.000Z</updated>
+        <summary type="html"><![CDATA[The Chiefs downgraded wide receiver Xavier Worthy (shoulder/ankle) to questionable for Monday Night Football.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why QB Justin Fields could run into Jets, NFL history books]]></title>
+        <id>US-EN-46479684</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46479684/new-york-jets-justin-fields-rushing-records-history"/>
+        <updated>2025-10-05T23:34:18.000Z</updated>
+        <summary type="html"><![CDATA[New York's quarterback is on pace to shatter the franchise's rushing record for the position.]]></summary>
+        <author>
+            <name>Rich Cimini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ranking Week 5 fantasy football winners and losers and injury impacts from Sunday]]></title>
+        <id>US-EN-FFSundayHighLows-46498933</id>
+        <link href="https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-46498933/nfl-week-5-fantasy-football-winners-losers-injuries-rankings-more"/>
+        <updated>2025-10-05T23:34:12.000Z</updated>
+        <summary type="html"><![CDATA[A summary of Week 5's best and worst fantasy performances, biggest storylines and historical perspective.]]></summary>
+        <author>
+            <name>Matt Bowen and Tristan H. Cockcroft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Buzz: Jones, Colts roll on; Waller's comeback tour continues]]></title>
+        <id>US-EN-40699880</id>
+        <link href="https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"/>
+        <updated>2025-10-05T23:34:12.000Z</updated>
+        <summary type="html"><![CDATA[Early takeaways from Sunday's games, including another solid day from Daniel Jones and another TD for Darren Waller.]]></summary>
+        <author>
+            <name>ESPN Fantasy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jets continue to sink deeper as results stay the same]]></title>
+        <id>c067933f-d542-3859-ac78-67e023dd86e8</id>
+        <link href="https://sny.tv/articles/jets-sink-deeper-results-stay-same"/>
+        <updated>2025-10-05T23:34:10.000Z</updated>
+        <summary type="html"><![CDATA[After another disastrous loss to the Dallas Cowboys, the Jets' performance makes you wonder if this team is already tuning its head coach out.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Titans pull off wild comeback for their first win of the season]]></title>
+        <id>e9563c00-7ac2-3977-8253-e7243196cdc5</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-pull-off-wild-comeback-for-their-first-win-of-the-season"/>
+        <updated>2025-10-05T23:33:21.000Z</updated>
+        <summary type="html"><![CDATA[The Cardinals did their best to give this 22-21 loss away.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Justin Herbert&#39;s goal-line interception dooms Chargers in loss to Commanders]]></title>
+        <id>42e9c748-9b27-3aca-8890-ba4bed737bf0</id>
+        <link href="https://sports.yahoo.com/article/justin-herbert-goal-line-interception-233301218.html"/>
+        <updated>2025-10-05T23:33:01.000Z</updated>
+        <summary type="html"><![CDATA[Justin Herbert throws a costly interception at the goal line, thwarting the Chargers' comeback hopes in a 27-10 loss to the Washington Commanders.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jayden Daniels returns to lead Commanders to 27-10 win]]></title>
+        <id>a77ce8e2-385b-322c-af24-8f06d06b8102</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-returns-to-lead-commanders-to-27-10-win"/>
+        <updated>2025-10-05T23:29:30.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back, Jayden Daniels.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bucs get another walk-off win, defeat Seahawks 38-35]]></title>
+        <id>665d2aec-942c-3783-82cf-407cad639afa</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-get-another-walk-off-win-defeat-seahawks-38-35"/>
+        <updated>2025-10-05T23:26:09.000Z</updated>
+        <summary type="html"><![CDATA[A late Sam Darnold interception helped Baker Mayfield and Tampa Bay outlast Seattle on Sunday afternoon.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunday Night Football: Ed Oliver inactive, Matt Milano active for Bills-Patriots]]></title>
+        <id>7202fa6b-1f49-3acb-b09b-e249444c624e</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-ed-oliver-inactive-matt-milano-active-for"/>
+        <updated>2025-10-05T23:05:07.000Z</updated>
+        <summary type="html"><![CDATA[The Bills will have one of two key defensive contributors back on the field for Sunday night's matchup against the Patriots.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Titans&#39; unbelievable rally past Cardinals buoyed by Emari Demercado&#39;s goal-line drop, wild fumble recovery TD after INT]]></title>
+        <id>2c1408e5-802b-4b45-ac03-d9bbfac44dec</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/titans-unbelievable-rally-past-cardinals-buoyed-by-emari-demercados-goal-line-drop-wild-fumble-recovery-td-after-int-230434231.html"/>
+        <updated>2025-10-05T23:04:34.000Z</updated>
+        <summary type="html"><![CDATA[It was a wacky fourth quarter in Arizona.]]></summary>
+        <author>
+            <name>Kari Anderson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baker Mayfield outduels Sam Darnold to lead Bucs past Seahawks in battle of former 1st-round QB castoffs]]></title>
+        <id>333d545d-17f0-45ad-9717-584fd86886cb</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/baker-mayfield-outduels-sam-darnold-to-lead-bucs-past-seahawks-in-battle-of-former-1st-round-qb-castoffs-230421515.html"/>
+        <updated>2025-10-05T23:04:21.000Z</updated>
+        <summary type="html"><![CDATA[Browns and Jets teams that drafted these quarterbacks would certainly trade back for this kind of quarterback play.]]></summary>
+        <author>
+            <name>Jason Owens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mike McDaniel: We thought we were prepared for this, clearly we weren&#39;t]]></title>
+        <id>6049a48d-d052-30ff-90e1-64dccb19733c</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mcdaniel-we-thought-we-were-prepared-for-this-clearly-we-werent"/>
+        <updated>2025-10-05T22:53:34.000Z</updated>
+        <summary type="html"><![CDATA[The Dolphins were sitting pretty when they were up 17-0 in the second quarter of Sunday's game against the Panthers, but there were no smiles when the game ended.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Titans cut Cardinals lead to 21-12 after Emari Demercado blunder]]></title>
+        <id>a6ee69a9-4e5b-3250-aa08-439107753dec</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-cut-cardinals-lead-to-21-12-after-emari-demercado-blunder"/>
+        <updated>2025-10-05T22:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Cardinals running back Emari Demercado didn't learn any lessons from Colts wideout Adonai Mitchell.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Montgomery, Jahmyr Gibbs score TDs in same game for NFL-record tying 14th time]]></title>
+        <id>dcb6c4b2-7a57-36ed-a254-0d639fa3361a</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/david-montgomery-jahmyr-gibbs-score-tds-in-same-game-for-nfl-record-tying-14th-time"/>
+        <updated>2025-10-05T22:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Lions running backs David Montgomery and Jahmyr Gibbs both scored touchdowns today, putting them in some elite company for NFL running back duos.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Darted to the W': Saints' petty jab at Jaxson Dart leads NFL Week 5 trolls]]></title>
+        <id>US-EN-46501465</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46501465/nfl-week-5-trolls"/>
+        <updated>2025-10-05T22:31:06.000Z</updated>
+        <summary type="html"><![CDATA[The trolls were in full force during Week 5 of the NFL season, led by the New Orleans Saints poking fun at New York Giants rookie Jaxson Dart.]]></summary>
+        <author>
+            <name>Anthony Gharib</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kyler Murray goes to locker room with Cardinals up 21-6 in third quarter]]></title>
+        <id>864df039-239f-3bd2-82c5-90dfb51e962d</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyler-murray-goes-to-locker-room-with-cardinals-up-21-6-in-third-quarter"/>
+        <updated>2025-10-05T22:23:57.000Z</updated>
+        <summary type="html"><![CDATA[The Cardinals remain firmly in control of Sunday's game against the Titans, but they have some reason for concern about quarterback Kyler Murray.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emeka Egbuka 57-yard catch sets up TD, Bucs lead 28-21]]></title>
+        <id>95daa75a-553e-3545-b053-72447841da26</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/emeka-egbuka-57-yard-catch-sets-up-td-bucs-lead-28-21"/>
+        <updated>2025-10-05T22:16:36.000Z</updated>
+        <summary type="html"><![CDATA[Two former Ohio State receivers are going at it in Seattle on Sunday.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaron Glenn &#39;highly disappointed&#39; by Jets&#39; performance vs. Cowboys: &#39;I got to do a better job of getting all the guys mentally tough&#39;]]></title>
+        <id>200127af-dcdc-35d8-9f6a-f954f67df8f2</id>
+        <link href="https://sny.tv/articles/aaron-glenn-jets-highly-disappointed-cowboys-mentally-tough"/>
+        <updated>2025-10-05T22:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Jets head coach Aaron Glenn took the brunt of it after Sunday's loss to the Cowboys, saying he needs to get the team mentally tougher so they can respond to adversity better.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week 5 Booms and Busts: The Ravens&#39; fantasy football juggernaut bottoms out — is there reason for hope?]]></title>
+        <id>76806132-8761-49b2-985f-3ace7a373047</id>
+        <link href="https://sports.yahoo.com/fantasy/article/week-5-booms-and-busts-the-ravens-fantasy-football-juggernaut-bottoms-out--is-there-reason-for-hope-221452989.html"/>
+        <updated>2025-10-05T22:14:52.000Z</updated>
+        <summary type="html"><![CDATA[Scott Pianowski breaks down the fantasy winners and losers from Week 5.]]></summary>
+        <author>
+            <name>Scott Pianowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Missed Vikings FG appeared to bounce off Skycam cable vs. Browns, and officials didn&#39;t notice]]></title>
+        <id>bf86c5f8-81b2-4b3c-8d59-8f2eb62196a9</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/missed-vikings-fg-appeared-to-bounce-off-skycam-cable-vs-browns-and-officials-didnt-notice-220137573.html"/>
+        <updated>2025-10-05T22:01:37.000Z</updated>
+        <summary type="html"><![CDATA[The incident wasn't the only Sunday in which a live ball bounced off of Skycam equipment.]]></summary>
+        <author>
+            <name>Jason Owens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myles Garrett: Dillon Gabriel gave us a chance to win]]></title>
+        <id>b5074e03-e49b-3a59-94e3-18154b3349c6</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-dillon-gabriel-gave-us-a-chance-to-win"/>
+        <updated>2025-10-05T22:01:11.000Z</updated>
+        <summary type="html"><![CDATA[The Browns didn't win in Dillon Gabriel's debut as their starting quarterback, but defensive end Myles Garrett isn't putting that on the rookie.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spencer Shrader Injured; No Backup on Roster]]></title>
+        <id>https://www.draftsharks.com/shark-bites/79486/spencer-shrader-injured-no-backup-on-roster</id>
+        <link href="https://www.draftsharks.com/shark-bites/79486/spencer-shrader-injured-no-backup-on-roster"/>
+        <updated>2025-10-05T22:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Colts K Spencer Shrader left in the second quarter of Sunday's win over the Raiders with a right leg injury. He was ruled out for the game before the en]]></summary>
+        <author>
+            <name>Kevin English</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chargers end half tied with Commanders 10-10 after two huge mistakes]]></title>
+        <id>e2c7aed8-b1ce-3bdb-aed3-f1033e9a8582</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-end-half-tied-with-commanders-10-10-after-self-inflicted-errors"/>
+        <updated>2025-10-05T21:52:56.000Z</updated>
+        <summary type="html"><![CDATA[The Chargers should be leading big at halftime.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardinals lead Titans 21-6 at halftime]]></title>
+        <id>26cb5bac-a34c-31c5-86e5-06fe2b161e77</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-lead-titans-21-6-at-halftime"/>
+        <updated>2025-10-05T21:51:27.000Z</updated>
+        <summary type="html"><![CDATA[The Cardinals are missing their top two running backs, but that hasn't hurt them through 30 minutes of play against the Titans.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zach Charbonnet 5-yard TD gives Seahawks 14-13 lead]]></title>
+        <id>f20972eb-ff3b-369b-93a3-423de6e20924</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zach-charbonnet-5-yard-td-gives-seahawks-14-13-lead"/>
+        <updated>2025-10-05T21:44:30.000Z</updated>
+        <summary type="html"><![CDATA[The Seahawks have successfully doubled up to take a one-point lead over the Buccaneers.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buccaneers lead Seahawks 13-7 at halftime]]></title>
+        <id>61db7f42-b987-3c82-9a5c-393118d6e0d2</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-lead-seahawks-13-7-at-halftime"/>
+        <updated>2025-10-05T21:23:30.000Z</updated>
+        <summary type="html"><![CDATA[A missed field goal and a giveaway had kept the Seahawks off the scoreboard in the first half of Sunday’s matchup against the Buccaneers.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indianapolis Fox, CBS affiliates publish photos of victim in Mark Sanchez incident]]></title>
+        <id>54fe316a-7476-33b5-b77d-61ec06c52afc</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/indianapolis-fox-cbs-affiliates-publish-photos-of-victim-in-mark-sanchez-incident"/>
+        <updated>2025-10-05T21:18:35.000Z</updated>
+        <summary type="html"><![CDATA[More and more details are emerging regarding the incident that resulted in the stabbing and arrest of former NFL quarterback Mark Sanchez in Indianapolis.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaxson Dart, Cam Skattebo fumble away a Giant opportunity vs. Saints]]></title>
+        <id>dfeaa6cd-e67a-4fdb-87df-bf9d729d2c46</id>
+        <link href="https://sports.yahoo.com/nfl/article/jaxson-dart-cam-skattebo-fumble-away-a-giant-opportunity-vs-saints-211145483.html"/>
+        <updated>2025-10-05T21:11:45.000Z</updated>
+        <summary type="html"><![CDATA[The Giants looked like they were building toward their second straight victory keyed by their young talent. Until they weren't.]]></summary>
+        <author>
+            <name>Jay Busbee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Harbaugh: It&#39;s just a complete disappointment]]></title>
+        <id>9a416735-2af4-3282-bd2e-71641687bf64</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-its-just-a-complete-disappointment"/>
+        <updated>2025-10-05T21:09:53.000Z</updated>
+        <summary type="html"><![CDATA[A bad start to the Ravens season got even worse on Sunday when the Texans humiliated them 44-10 at home.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eagles grades by position after crushing loss to Broncos]]></title>
+        <id>fe7b9a6f-51c5-3e2b-a439-ec3afef70994</id>
+        <link href="https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/eagles-grades-by-position-after-crushing-loss-to-broncos/688117/?partner=yahoo"/>
+        <updated>2025-10-05T21:07:47.000Z</updated>
+        <summary type="html"><![CDATA[Here's the position report card after the Eagles' 21-17 loss to the Broncos in Week 5.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football: Recapping running back touches for key backfield splits in Week 5]]></title>
+        <id>6e9aad10-d679-422b-9bf4-0e68816f866d</id>
+        <link href="https://sports.yahoo.com/fantasy/article/fantasy-football-recapping-running-back-touches-for-key-backfield-splits-in-week-5-205124546.html"/>
+        <updated>2025-10-05T20:51:24.000Z</updated>
+        <summary type="html"><![CDATA[We break down RB touches for key backfield splits for fantasy football in Week 5.]]></summary>
+        <author>
+            <name>Ben Zweiman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kyler Murray puts Cardinals up 14-3 at end of first quarter]]></title>
+        <id>397b31ba-0fa5-3b77-b5a4-14c858f3f877</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyler-murray-puts-cardinals-up-14-3-at-end-of-first-quarter"/>
+        <updated>2025-10-05T20:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Cardinals quarterback Kyler Murray used his arm to set up the team's first touchdown of the day and he used his feet to score the second.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broncos storm back from down 14 in fourth quarter to beat Eagles, 21-17]]></title>
+        <id>b2c090c2-5403-305c-822f-2da92aff25f3</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-storm-back-from-down-14-in-fourth-quarter-to-beat-eagles-21-17"/>
+        <updated>2025-10-05T20:33:22.000Z</updated>
+        <summary type="html"><![CDATA[HC Sean Payton's gutsy coaching decisions helped Denver score 18 unanswered points to hand Philadelphia its first loss of 2025.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football Waiver Wire: Early pickups to consider going into Week 6]]></title>
+        <id>548ae79d-1f44-49b2-b0eb-8743e612266c</id>
+        <link href="https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-early-pickups-to-consider-going-into-week-6-203313937.html"/>
+        <updated>2025-10-05T20:33:13.000Z</updated>
+        <summary type="html"><![CDATA[Ben Zweiman shares some early players to target off the waiver wire for fantasy football going into Week 6.]]></summary>
+        <author>
+            <name>Ben Zweiman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jets give up 30 unanswered points in 37-22 loss to Cowboys, fall to 0-5]]></title>
+        <id>f0956051-e23a-3ef6-a8f8-04e3f7f22c01</id>
+        <link href="https://sny.tv/articles/jets-cowboys-takeaways-10-5-25"/>
+        <updated>2025-10-05T20:30:03.000Z</updated>
+        <summary type="html"><![CDATA[After five weeks of the Aaron Glenn era, there don’t seem to be many signs that things are about to start going the Jets' way.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was this roughing the passer in Saints-Giants, or aggressive 2-hand touch?]]></title>
+        <id>0097c3f2-3dfa-42e5-8670-713697fabcdd</id>
+        <link href="https://sports.yahoo.com/nfl/article/was-this-roughing-the-passer-in-saints-giants-or-aggressive-2-hand-touch-202523347.html"/>
+        <updated>2025-10-05T20:25:23.000Z</updated>
+        <summary type="html"><![CDATA[We have another entrant in the annals of dubious NFL officiating.]]></summary>
+        <author>
+            <name>Jay Busbee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panthers come back from 17 down, beat Dolphins 27-24]]></title>
+        <id>68041f29-c793-3387-acec-0b53956c2c42</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-come-back-from-17-down-beat-dolphins-27-24"/>
+        <updated>2025-10-05T20:25:10.000Z</updated>
+        <summary type="html"><![CDATA[Rico Dowdle had a monster day in the home win.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFL Winners and Losers: Ravens might be cooked after embarrassing loss to Texans]]></title>
+        <id>77e5cbe7-a2bf-4c82-a7f5-0da2920dc3d4</id>
+        <link href="https://sports.yahoo.com/nfl/article/nfl-winners-and-losers-ravens-might-be-cooked-after-embarrassing-loss-to-texans-202250994.html"/>
+        <updated>2025-10-05T20:22:50.000Z</updated>
+        <summary type="html"><![CDATA[The Ravens fell to 1-4 after suffering a blowout loss at home. Their season could still be salvaged — there are still 13 weeks to go, after all — but it's getting harder to see a path back to respectability.]]></summary>
+        <author>
+            <name>Frank Schwab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eagles let 14-point fourth-quarter lead slip, drop first game of season to upstart Broncos]]></title>
+        <id>5b982538-77a5-4c3f-99bf-44cfb68ab1f8</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/eagles-let-14-point-fourth-quarter-lead-slip-drop-first-game-of-season-to-upstart-broncos-202236960.html"/>
+        <updated>2025-10-05T20:22:36.000Z</updated>
+        <summary type="html"><![CDATA[In a blink, the Broncos erased a 14-point fourth-quarter lead. Then they held on for a 21-17 win over the reigning Super Bowl champion Eagles, who came in undefeated and winners of 20 of their last 21 games.]]></summary>
+        <author>
+            <name>Andy Backstrom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could UNC buy out Belichick&#39;s contract after one season? Breer weighs in]]></title>
+        <id>63996322-874c-3f34-9736-19f759b821b1</id>
+        <link href="https://www.nbcsportsboston.com/nfl/new-england-patriots/bill-belichick-buyout-north-carolina-disaster/736366/?partner=yahoo"/>
+        <updated>2025-10-05T20:17:17.000Z</updated>
+        <summary type="html"><![CDATA[Could the North Carolina Tar Heels consider buying out Bill Belichick's contract after one underwhelming season? Albert Breer weighs in.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vikings snatch late win over Browns in London]]></title>
+        <id>3caa58d0-47e9-3dcf-9474-4282c3b5773c</id>
+        <link href="https://www.bbc.com/sport/american-football/articles/czjvlx79djpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"/>
+        <updated>2025-10-05T20:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Minnesota Vikings head coach Kevin O'Connell says his "brain hurts" after he and Carson Wentz mastermind a late win over the Cleveland Browns at Tottenham.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dak Prescott throws four TDs, Cowboys thump Jets 37-22]]></title>
+        <id>bc47f5b7-0217-3cf4-903b-fcc08846746e</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-throws-four-tds-cowboys-thump-jets-37-22"/>
+        <updated>2025-10-05T20:15:10.000Z</updated>
+        <summary type="html"><![CDATA[The Cowboys had their best overall performance of the season at MetLife Stadium.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cowboys cook Jets on offense, tee off on Justin Fields to drop New York to 0-5 under Aaron Glenn]]></title>
+        <id>8ebfd24a-8da0-4997-bee0-c91f8ef4c0e0</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/cowboys-cook-jets-on-offense-tee-off-on-justin-fields-to-drop-new-york-to-0-5-under-aaron-glenn-201337881.html"/>
+        <updated>2025-10-05T20:13:37.000Z</updated>
+        <summary type="html"><![CDATA[The Aaron Glenn-Justin Fields era in New York is off to a miserable start.]]></summary>
+        <author>
+            <name>Jason Owens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giants commit five turnovers in ugly 26-14 loss to Saints]]></title>
+        <id>341f9599-020c-3a54-be47-d5e756ea1ba2</id>
+        <link href="https://sny.tv/articles/giants-saints-recap-turnovers-100525"/>
+        <updated>2025-10-05T20:09:28.000Z</updated>
+        <summary type="html"><![CDATA[The Giants turned the ball over five times in an ugly 26-14 loss to the New Orleans Saints.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spencer Rattler and the Saints beat the Giants for their first win]]></title>
+        <id>71b16d89-2c9f-3246-ac19-b48eda82aad7</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/spencer-rattler-and-the-saints-beat-the-giants-for-their-first-win"/>
+        <updated>2025-10-05T20:07:27.000Z</updated>
+        <summary type="html"><![CDATA[The Saints have their first win of the season.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaxon Smith-Njigba avoids fine for hot-mic moment]]></title>
+        <id>01d89498-ae42-3d08-8835-2325b9f909a2</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxon-smith-njigba-avoids-fine-for-hot-mic-moment"/>
+        <updated>2025-10-05T20:06:04.000Z</updated>
+        <summary type="html"><![CDATA[After a holding penalty that wiped out a late touchdown in the Week 4 Thursday night game between the Seahawks and Cardinals, Seattle receiver Jaxon Smith-Njigba said to referee Alex Kemp, "That's some bullshit."]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archaeologist Daniel Jones? Colts QB embracing 'Indiana Jones' nickname]]></title>
+        <id>US-EN-46452451</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46452451/daniel-jones-indiana-jones-nickname-colts-strong-start"/>
+        <updated>2025-10-05T17:57:02.000Z</updated>
+        <summary type="html"><![CDATA[The Indianapolis Colts quarterback's nickname has received acclaim during his strong start to the season.]]></summary>
+        <author>
+            <name>Anthony Gharib</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trent Brown will not play for Texans vs. Ravens]]></title>
         <id>83fe9a1e-8eac-372b-928d-66a88bd289a5</id>
@@ -3564,46 +4292,6 @@
         <link href="https://www.draftsharks.com/shark-bites/78846/tj-edwards-expected-to-miss-week-1-maybe-more"/>
         <updated>2025-09-07T12:36:54.000Z</updated>
         <summary type="html"><![CDATA[Bears LB T.J. Edwards is doubtful for Monday night's game against the Vikings because of a hamstring injury that has cost him "nearly a week and a half"]]></summary>
-        <author>
-            <name>Kevin English</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xavier Worthy Hurts Right Shoulder]]></title>
-        <id>https://www.draftsharks.com/shark-bites/78831/xavier-worthy-hurts-right-shoulder</id>
-        <link href="https://www.draftsharks.com/shark-bites/78831/xavier-worthy-hurts-right-shoulder"/>
-        <updated>2025-09-06T00:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Chiefs WR Xavier Worthy suffered an apparent right shoulder injury when he collided with TE Travis Kelce on the team's third offensive play of Friday ni]]></summary>
-        <author>
-            <name>Kevin English</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dre Greenlaw's Quad Remains a Problem]]></title>
-        <id>https://www.draftsharks.com/shark-bites/78832/dre-greenlaws-quad-remains-a-problem</id>
-        <link href="https://www.draftsharks.com/shark-bites/78832/dre-greenlaws-quad-remains-a-problem"/>
-        <updated>2025-09-05T22:40:29.000Z</updated>
-        <summary type="html"><![CDATA[The Broncos have ruled LB Dre Greenlaw out for Sunday's game against the Titans. That's not a surprise after Greenlaw missed practice all week. It appea]]></summary>
-        <author>
-            <name>Kevin English</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chase Young to Miss Opener with Calf Injury]]></title>
-        <id>https://www.draftsharks.com/shark-bites/78826/chase-young-to-miss-opener-with-calf-injury</id>
-        <link href="https://www.draftsharks.com/shark-bites/78826/chase-young-to-miss-opener-with-calf-injury"/>
-        <updated>2025-09-05T20:46:40.000Z</updated>
-        <summary type="html"><![CDATA[The Saints have ruled Edge Chase Young out for Sunday's game against the Cardinals because of a calf injury. HC Kellen Moore called it a "week-to-week"]]></summary>
-        <author>
-            <name>Kevin English</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Micah Parsons Questionable with Back Injury]]></title>
-        <id>https://www.draftsharks.com/shark-bites/78823/micah-parsons-questionable-with-back-injury</id>
-        <link href="https://www.draftsharks.com/shark-bites/78823/micah-parsons-questionable-with-back-injury"/>
-        <updated>2025-09-05T20:44:25.000Z</updated>
-        <summary type="html"><![CDATA[The Packers are listing Edge Micah Parsons as questionable for Sunday's game against the Lions with the back injury that has limited his practice work s]]></summary>
         <author>
             <name>Kevin English</name>
         </author>
