@@ -2,10 +2,726 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dikembe3000.github.io/Fantasy_Football_AI/index.html</id>
     <title>FF Aggregator</title>
-    <updated>2025-10-07T01:18:01.937Z</updated>
+    <updated>2025-10-08T01:18:13.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dikembe3000.github.io/Fantasy_Football_AI/index.html"/>
     <link rel="self" href="https://dikembe3000.github.io/Fantasy_Football_AI/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://sports.yahoo.com/video/why-patriots-top-12-offense-205816725.html</id>
+        <link href="https://sports.yahoo.com/video/why-patriots-top-12-offense-205816725.html"/>
+        <updated>2025-10-08T01:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Yahoo Sports' Nate Tice and Matt Harmon look at the surging offense output in New England led by second-year quarterback Drake Maye and veteran receiver Stefon Diggs.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bengals trade for Joe Flacco?! + Puka Nacua joins the show!]]></title>
+        <id>4288bc79-a4ce-450f-9d86-d7993e9bd1b0</id>
+        <link href="https://sports.yahoo.com/nfl/article/bengals-trade-for-joe-flacco--puka-nacua-joins-the-show-010207029.html"/>
+        <updated>2025-10-08T01:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Andrew Siciliano and Frank Schwab break down all angles of the Joe Flacco trade. Plus, Puka Nacua joins the show to discuss his mind-blowing season, learning from Davante Adams and more!]]></summary>
+        <author>
+            <name>Andrew Siciliano,Frank Schwab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Bill Belichick assistant coach at North Carolina has been suspended]]></title>
+        <id>60c53516-7515-355d-a827-d0e02628ab78</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-bill-belichick-assistant-coach-at-north-carolina-has-been-suspended"/>
+        <updated>2025-10-08T00:48:07.000Z</updated>
+        <summary type="html"><![CDATA[It's going from worse to clusterfudge in Chapel Hill.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raiders sign LB Jon Rhattigan off Steelers&#39; practice squad]]></title>
+        <id>00b9719b-3e30-3ec7-b132-7df71f3a8c86</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-sign-lb-jon-rhattigan-off-steelers-practice-squad"/>
+        <updated>2025-10-08T00:14:42.000Z</updated>
+        <summary type="html"><![CDATA[The Raiders are signing linebacker Jon Rhattigan off the Steelers' practice squad, Rhattigan's representation, JL Sports, announced on social media.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sources: Cards fining Gannon $100K for RB spat]]></title>
+        <id>US-EN-46524414</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46524414/sources-cardinals-fining-jonathan-gannon-sideline-spat"/>
+        <updated>2025-10-08T00:14:24.000Z</updated>
+        <summary type="html"><![CDATA[The Cardinals are fining coach Jonathan Gannon $100,000 for his sideline altercation Sunday with running back Emari Demercado, sources told ESPN's Adam Schefter.]]></summary>
+        <author>
+            <name>Josh Weinfuss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QB-needy Bengals land Flacco in Browns trade]]></title>
+        <id>US-EN-46521189</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46521189/browns-trade-joe-flacco-qb-needy-bengals-sources-say"/>
+        <updated>2025-10-08T00:14:24.000Z</updated>
+        <summary type="html"><![CDATA[The Bengals turned to their division rivals for a much-needed solution at quarterback, acquiring Joe Flacco in a trade with the Browns.]]></summary>
+        <author>
+            <name>www.espn.com - NFL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OBJ accepts 6-game PED suspension from NFL]]></title>
+        <id>US-EN-46522525</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46522525/odell-beckham-jr-says-accepts-6-game-ped-suspension"/>
+        <updated>2025-10-08T00:14:24.000Z</updated>
+        <summary type="html"><![CDATA[Odell Beckham Jr. has accepted a six-game suspension for violating the NFL's policy on performance-enhancing drugs.]]></summary>
+        <author>
+            <name>www.espn.com - NFL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jets file countersuit vs. ex-exec, allege conspiracy]]></title>
+        <id>US-EN-46523087</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46523087/jets-file-countersuit-vs-ex-exec-allege-unlawful-conspiracy"/>
+        <updated>2025-10-08T00:14:24.000Z</updated>
+        <summary type="html"><![CDATA[The Jets filed a countersuit Tuesday alleging a former vice president participated in an "unlawful conspiracy" to falsely accuse president Hymie Elhai of sexual harassment "solely for the purpose of destroying his impeccable reputation and career."]]></summary>
+        <author>
+            <name>Rich Cimini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Titans waive former 1st-round pick Burks from IR]]></title>
+        <id>US-EN-46523095</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46523095/titans-waive-treylon-burks-former-1st-round-pick-ir"/>
+        <updated>2025-10-08T00:14:24.000Z</updated>
+        <summary type="html"><![CDATA[The Titans have waived wide receiver Treylon Burks from IR, ending the former first-round draft pick's time in Tennessee.]]></summary>
+        <author>
+            <name>Turron Davenport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dart good to go for TNF despite early limited tag]]></title>
+        <id>US-EN-46523319</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46523319/giants-jaxson-dart-never-doubt-face-eagles-tnf"/>
+        <updated>2025-10-08T00:14:24.000Z</updated>
+        <summary type="html"><![CDATA[Giants rookie QB Jaxson Dart said there was "never a doubt" he would play Thursday night against the rival Eagles even though he was projected as a limited participant in practice Monday.]]></summary>
+        <author>
+            <name>Jordan Raanan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ravens shake up D, trade Oweh for Bolts' Gilman]]></title>
+        <id>US-EN-46523419</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46523419/ravens-trade-odafe-oweh-chargers-alohi-gilman-sources-say"/>
+        <updated>2025-10-08T00:14:23.000Z</updated>
+        <summary type="html"><![CDATA[The Ravens traded slumping pass rusher Odafe Oweh and a 2027 seventh-round pick to the Chargers on Tuesday in exchange for safety Alohi Gilman and a fifth-round pick in 2026, sources told ESPN's Adam Schefter.]]></summary>
+        <author>
+            <name>Jamison Hensley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cowboys' Jones fined $250K by NFL for gesture]]></title>
+        <id>US-EN-46521884</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46521884/source-nfl-fining-cowboys-jerry-jones-250k-gesture"/>
+        <updated>2025-10-08T00:14:23.000Z</updated>
+        <summary type="html"><![CDATA[Cowboys owner Jerry Jones has been fined $250,000 by the NFL for his "inadvertent" obscene gesture toward fans at MetLife Stadium on Sunday.]]></summary>
+        <author>
+            <name>Todd Archer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is it better to have an early or late bye week? The answer may surprise you]]></title>
+        <id>US-EN-46509162</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46509162/nfl-bye-weeks-2025-advantage-question-steelers-packers-falcons-bears-vikings-texans"/>
+        <updated>2025-10-08T00:14:19.000Z</updated>
+        <summary type="html"><![CDATA[The Eagles and Chargers revamped their offenses during a Week 5 bye last year. Will this year's early bye group (Steelers, Packers, Bears, Falcons) be as aggressive?]]></summary>
+        <author>
+            <name>Jeremy Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report: North Carolina assistant coach suspended for allegedly giving a player&#39;s family extra sideline passes]]></title>
+        <id>449ac433-7d9c-42fa-9a1d-f5a382025524</id>
+        <link href="https://sports.yahoo.com/college-football/breaking-news/article/report-north-carolina-assistant-coach-suspended-for-allegedly-giving-a-players-family-extra-sideline-passes-235830721.html"/>
+        <updated>2025-10-07T23:58:30.000Z</updated>
+        <summary type="html"><![CDATA[Armond Hawkins is in his first year at North Carolina after coaching with Steve Belichick at Washington in 2024.]]></summary>
+        <author>
+            <name>Nick Bromberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Flacco stop Bengals' slide? How does trade impact Dillon Gabriel, Shedeur Sanders?]]></title>
+        <id>US-EN-46521428</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46521428/joe-flacco-trade-quarterback-bengals-browns-fantasy-shedeur-sanders-dillon-gabriel"/>
+        <updated>2025-10-07T23:14:14.000Z</updated>
+        <summary type="html"><![CDATA[What Cincinnati's move for a 40-year-old QB means for its playoff hopes; how does Cleveland's QB chart change?]]></summary>
+        <author>
+            <name>ESPN Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardinals fine coach Jonathan Gannon $100,000 for sideline interaction with Emari Demercado]]></title>
+        <id>6426264b-400c-373f-a8b0-63f843224660</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-fine-coach-jonathan-gannon-100-000-for-sideline-interaction-with-emari-demercado"/>
+        <updated>2025-10-07T23:05:50.000Z</updated>
+        <summary type="html"><![CDATA[NFL will take no separate action against Cardinals coach.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saquon Barkley returns to limited participation on practice report]]></title>
+        <id>30ff9724-7574-3af8-ad61-f1c50c987708</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-returns-to-limited-participation-on-practice-report"/>
+        <updated>2025-10-07T23:05:41.000Z</updated>
+        <summary type="html"><![CDATA[Eagles running back Saquon Barkley (knee) returned to limited participation in the team's walkthrough.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chargers acquire Ravens linebacker Odafe Oweh in exchange for safety Alohi Gilman]]></title>
+        <id>cf5562e1-7a09-3fb1-886a-df152c2320ad</id>
+        <link href="https://sports.yahoo.com/article/chargers-acquire-ravens-linebacker-odafe-225217041.html"/>
+        <updated>2025-10-07T22:52:17.000Z</updated>
+        <summary type="html"><![CDATA[The Chargers have bolstered their defense Tuesday, acquiring Baltimore Ravens outside linebacker Odafe Oweh in exchange for safety Alohi Gilman.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFL fines Cardinals head coach Jonathan Gannon $100K for sideline altercation with Emari Demercado]]></title>
+        <id>32a2cbcd-7c56-4a24-8fed-cc5287dfc171</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/nfl-fines-cardinals-head-coach-jonathan-gannon-100k-for-sideline-altercation-with-emari-demercado-225027375.html"/>
+        <updated>2025-10-07T22:50:27.000Z</updated>
+        <summary type="html"><![CDATA[Jonathan Gannon lit up Emari Demercado on Sunday after the running back fumbled the ball before crossing the goal line in their loss to the Titans.]]></summary>
+        <author>
+            <name>Ryan Young</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cowboys owner Jones fined $250K for obscene gesture]]></title>
+        <id>f295427a-d7e2-3950-a663-35701b4878b2</id>
+        <link href="https://www.bbc.com/sport/american-football/articles/cly0lgkzvqwo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"/>
+        <updated>2025-10-07T22:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Dallas Cowboys owner Jerry Jones is fined $250,000 (£186,000) for making an obscene gesture towards fans on Sunday.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saquon Barkley, A.J. Brown, Jalen Hurts met to try to fix offense]]></title>
+        <id>3c143860-7392-3c2f-9dc9-b6436a879d3e</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-a-j-brown-jalen-hurts-met-to-try-to-fix-offense"/>
+        <updated>2025-10-07T22:15:40.000Z</updated>
+        <summary type="html"><![CDATA[Barkley and Hurts confirmed the Monday meeting that lasted multiple hours.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colts put CB Mike Hilton on practice squad injured reserve]]></title>
+        <id>5d98b887-8ac1-3b6e-92f0-43ac8734460c</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-put-cb-mike-hilton-on-practice-squad-injured-reserve"/>
+        <updated>2025-10-07T22:09:20.000Z</updated>
+        <summary type="html"><![CDATA[Veteran cornerback Mike Hilton started the last two games for the Colts, but he won't be available for the near future.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football: How much does Joe Flacco trade move the needle for Ja&#39;Marr Chase, rest of Bengals offense?]]></title>
+        <id>f42c57de-46d6-416c-a05f-bd972967c3e5</id>
+        <link href="https://sports.yahoo.com/fantasy/article/fantasy-football-how-much-does-joe-flacco-trade-move-the-needle-for-jamarr-chase-rest-of-bengals-offense-215612189.html"/>
+        <updated>2025-10-07T21:56:12.000Z</updated>
+        <summary type="html"><![CDATA[The Yahoo Fantasy Forecast looks at the Joe Flacco trade to the Bengals and how it will affect Ja'Marr Chase, Tee Higgins and Chase Brown.]]></summary>
+        <author>
+            <name>Yahoo Sports Fantasy Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mike Tomlin: We have to prepare for &quot;complete back&quot; Quinshon Judkins]]></title>
+        <id>9ac57803-8915-3bdd-bac5-a24c829de5da</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-tomlin-we-have-to-prepare-for-complete-back-quinshon-judkins"/>
+        <updated>2025-10-07T21:50:33.000Z</updated>
+        <summary type="html"><![CDATA[Browns running back Quinshon Judkins' rookie season got off to a late start, but he's hit the ground running since signing with the team in September and he's got a fan in Steelers head coach Mike Tomlin.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rankings for Week 6]]></title>
+        <id>US-EN-FFWeeklyPlayerRank25main-46028352</id>
+        <link href="https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank25main-46028352/fantasy-football-rankings-2025-nfl-week-qb-rb-wr-te-dst"/>
+        <updated>2025-10-07T21:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Weekly individual and composite rankings for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.]]></summary>
+        <author>
+            <name>ESPN Fantasy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flex and superflex rankings for Week 6]]></title>
+        <id>US-EN-46104825</id>
+        <link href="https://www.espn.com/fantasy/football/story/_/id/46104825/fantasy-football-superflex-rankings-2025-qb-rb-wr-te"/>
+        <updated>2025-10-07T21:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Trying to decide between a couple of closely ranked players this week? Eric Karabell is here to help.]]></summary>
+        <author>
+            <name>Eric Karabell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test your knowledge in the NFL Week 5 quote quiz]]></title>
+        <id>US-EN-46512363</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46512363/giants-saints-buccaneers-seahawks-texans-ravens-2025-quotes-quiz"/>
+        <updated>2025-10-07T21:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Week 5 in the NFL offered upfront quotes and self-reflection. Put your knowledge to the test with our quote quiz.]]></summary>
+        <author>
+            <name>ESPN Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFL Power Rankings: Big jumps for the Colts and 49ers? How far did the Chargers fall?]]></title>
+        <id>US-EN-46511437</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46511437/nfl-week-6-power-rankings-poll-32-teams-2025-fantasy-surprises"/>
+        <updated>2025-10-07T21:43:28.000Z</updated>
+        <summary type="html"><![CDATA[We stacked every team ahead of Week 6. Which teams rose into or fell out of the top 10? Plus, we have fantasy surprises on each roster.]]></summary>
+        <author>
+            <name>NFL Nation</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seatmate to superfan: Hunter's heartfelt pregame reunion]]></title>
+        <id>US-EN-46520221</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46520221/travis-hunter-jacksonville-jaguars-reunite-viral-flight-post"/>
+        <updated>2025-10-07T21:42:56.000Z</updated>
+        <summary type="html"><![CDATA[Sandy Hawkins Combs' post went viral praising Travis Hunter for his polite and humble demeanor on a flight.]]></summary>
+        <author>
+            <name>Kalan Hooks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CBS drew its biggest singleheader audience in 12 years thanks to Broncos-Eagles]]></title>
+        <id>5f5221d6-0404-3047-801d-1121edf60f50</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cbs-drew-its-biggest-singleheader-audience-in-12-years-thanks-to-broncos-eagles"/>
+        <updated>2025-10-07T21:38:27.000Z</updated>
+        <summary type="html"><![CDATA[NFL games are continuing to draw massive TV audiences.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Fantasy Football Takeaways from Week 5: Joe Flacco trade fallout]]></title>
+        <id>0f6e8fb4-7f7e-3a6c-baa0-a01503b3d4d2</id>
+        <link href="https://www.nbcsports.com/fantasy/football/news/10-fantasy-football-takeaways-from-week-5-joe-flacco-trade-fallout"/>
+        <updated>2025-10-07T21:31:43.000Z</updated>
+        <summary type="html"><![CDATA[The Bengals are throwing in the towel on Jake Browning after trading for Joe Flacco. The veteran passer struggled in Cleveland but could still be an upgrade for Ja'Marr Chase and Tee Higgins.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jerry Jones has until Friday to appeal his fine, and it&#39;s expected he will]]></title>
+        <id>d6e7fb39-2739-3e60-b5ad-e9b80dca393c</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-has-until-friday-to-appeal-his-fine-and-its-expected-he-will"/>
+        <updated>2025-10-07T21:29:49.000Z</updated>
+        <summary type="html"><![CDATA[The NFL fined Cowboys owner Jerry Jones $250,000 for giving fans the middle finger during the team's Week 5 road win over the Jets.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Documentary reveals Giants co-owner John Mara denied Saquon Barkley trade request in summer 2023]]></title>
+        <id>00846e8c-7fe5-45d9-9371-2e1645e45450</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/documentary-reveals-giants-co-owner-john-mara-denied-saquon-barkley-trade-request-in-summer-2023-212348823.html"/>
+        <updated>2025-10-07T21:23:48.000Z</updated>
+        <summary type="html"><![CDATA[The doc, set for a Thursday release ahead of Giants-Eagles, shows Barkley asking for a trade on July 17, 2023 during a phone call with Mara, per ESPN.]]></summary>
+        <author>
+            <name>Andy Backstrom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bengals hope to have Joe Flacco ready to play on Sunday at Packers]]></title>
+        <id>eeeb4462-b9a2-300f-81cd-745e786bfb2b</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-hope-to-have-joe-flacco-ready-to-play-on-sunday-at-packers"/>
+        <updated>2025-10-07T21:09:16.000Z</updated>
+        <summary type="html"><![CDATA[In Week 3, quarterback Joe Flacco led the Browns to an upset win over the Packers.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report: Unclear whether NFL will hold Pro Bowl Games this season]]></title>
+        <id>479010c8-9301-3f7a-8942-ed7cb73baed3</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-unclear-whether-nfl-will-hold-pro-bowl-games-this-season"/>
+        <updated>2025-10-07T20:52:57.000Z</updated>
+        <summary type="html"><![CDATA[The NFL does not have the all-star event on its calender.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chargers trade for Odafe Oweh, send Alohi Gilman to Ravens]]></title>
+        <id>d766d5b3-c69d-3917-abca-f96cec5a7692</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-trade-for-odafe-oweh-send-alohi-gilman-to-ravens"/>
+        <updated>2025-10-07T20:45:53.000Z</updated>
+        <summary type="html"><![CDATA[The deal also reportedly includes a late-round pick swap.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chargers reportedly trading for Ravens edge rusher Odafe Oweh in exchange for S Alohi Gilman]]></title>
+        <id>7fd907c6-b229-4edb-a546-be1ff00e87ef</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/chargers-reportedly-trading-for-ravens-edge-rusher-odafe-oweh-in-exchange-for-s-alohi-gilman-203714932.html"/>
+        <updated>2025-10-07T20:37:14.000Z</updated>
+        <summary type="html"><![CDATA[Both Odafe Oweh and Alohi Gilman are in the final year of their respective contracts this fall.]]></summary>
+        <author>
+            <name>Ryan Young</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chargers bring running back Nyheim Hines back to practice squad]]></title>
+        <id>0cfd3016-5539-36d0-90e2-9296c28071d8</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-bring-running-back-nyheim-hines-back-to-practice-squad"/>
+        <updated>2025-10-07T20:33:32.000Z</updated>
+        <summary type="html"><![CDATA[A month ago, the Chargers cut running back Nyheim Hines from their practice squad.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFL fines Cowboys owner Jerry Jones $250,000 for ‘inadvertent’ obscene gesture at fans]]></title>
+        <id>b8e33ce8-102b-3fd5-9e4d-b3ff6d8f54d0</id>
+        <link href="https://sports.yahoo.com/article/nfl-fines-cowboys-owner-jerry-202502201.html"/>
+        <updated>2025-10-07T20:25:02.000Z</updated>
+        <summary type="html"><![CDATA[The NFL has fined Dallas Cowboys owner Jerry Jones $250,000 for what he claims was an “inadvertent” obscene gesture towards fans at the New York Jets’ MetLife Stadium on Sunday.  Viral clips captured Jones appearing to flash his middle finger at Jets fans during the Cowboys’ 37-22 win.  Jones claimed he was actually trying to give Cowboys fans in the stadium the thumbs up as his team rolled towards victory late in the fourth quarter.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brenton Strange: Heads to IR with quad issue]]></title>
+        <id>nfl609597</id>
+        <link href="https://www.rotowire.com//football/player/brenton-strange-17017"/>
+        <updated>2025-10-07T20:04:00.000Z</updated>
+        <summary type="html"><![CDATA[The Jaguars placed Strange on injured reserve Tuesday due to a quadriceps injury, Mike Garafolo of NFL Network reports.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brenton Strange Placed on IR With Hip Injury]]></title>
+        <id>https://www.draftsharks.com/shark-bites/79545/brenton-strange-placed-on-ir-with-hip-injury</id>
+        <link href="https://www.draftsharks.com/shark-bites/79545/brenton-strange-placed-on-ir-with-hip-injury"/>
+        <updated>2025-10-07T20:03:34.000Z</updated>
+        <summary type="html"><![CDATA[Jaguars TE Brenton Strange injured his hip last night in the second quarter and did not return to the game. The Jaguars announced that Strange will be p]]></summary>
+        <author>
+            <name>Kevin English</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saints agree to terms with DB Michael Davis]]></title>
+        <id>fed417af-6fcf-3edd-b02f-e9d9aa421636</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-agree-to-terms-with-db-michael-davis"/>
+        <updated>2025-10-07T19:54:17.000Z</updated>
+        <summary type="html"><![CDATA[The Saints are signing veteran cornerback Michael Davis, Matt Zenitz of CBS Sports reports.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaguars place TE Brenton Strange on IR]]></title>
+        <id>570823e0-8094-32dc-9765-e179ea0b18da</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-place-te-brenton-strange-on-ir"/>
+        <updated>2025-10-07T19:53:57.000Z</updated>
+        <summary type="html"><![CDATA[The Jaguars will not have a key offensive weapon for at least the next four weeks.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaxson Dart upgraded to full participant with hamstring injury on Tuesday]]></title>
+        <id>4fe8f210-087a-38bf-a0c5-998d3171d4ad</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-upgraded-to-full-participant-with-hamstring-injury-on-tuesday"/>
+        <updated>2025-10-07T19:45:37.000Z</updated>
+        <summary type="html"><![CDATA[Giants head coach Brian Daboll told reporters on Tuesday that quarterback Jaxson Dart is on track to start Thursday's game against the Eagles.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 NFL surprises we are SOLD on, Joe Flacco to Bengals & HUGE Jags MNF win]]></title>
+        <id>886921cd-0ef1-4e11-b839-a3501df88604</id>
+        <link href="https://sports.yahoo.com/nfl/article/6-nfl-surprises-we-are-sold-on-joe-flacco-to-bengals--huge-jags-mnf-win-194342983.html"/>
+        <updated>2025-10-07T19:43:42.000Z</updated>
+        <summary type="html"><![CDATA[Nate Tice & Matt Harmon give 6 big surprises this season they are completely sold on.]]></summary>
+        <author>
+            <name>Nate Tice,Matt Harmon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Through five weeks, 79.5 percent of kickoffs have been returned]]></title>
+        <id>241b9138-8124-3e94-b73b-a2b30418e1bf</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/through-five-weeks-79-5-percent-of-kickoffs-have-been-returned"/>
+        <updated>2025-10-07T19:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Kickoff returns are back in the NFL.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Odell Beckham Jr. says he will serve a six-game PED suspension]]></title>
+        <id>afc528cd-0bdc-384c-8f51-dfed4a807d0e</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/odell-beckham-jr-says-he-will-serve-a-six-game-ped-suspension"/>
+        <updated>2025-10-07T19:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Free agent wide receiver Odell Beckham Jr. revealed that he is facing a six-game suspension for violating the NFL's performance-enhancing drug policy.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaxson Dart: In clear for Thursday night game]]></title>
+        <id>nfl609592</id>
+        <link href="https://www.rotowire.com//football/player/jaxson-dart-18574"/>
+        <updated>2025-10-07T19:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Dart (hamstring) was listed as a full participant for Tuesday's walk-through practice, Dan Salomone of the Giants' official site reports.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football Injury Report Week 6: Omarion Hampton headed to IR; updates on Terry McLaurin, Chuba Hubbard]]></title>
+        <id>2282d8d5-2e6c-3447-bb85-6b6e51eb63fd</id>
+        <link href="https://www.nbcsports.com/fantasy/football/news/fantasy-football-injury-report-week-6-omarion-hampton-headed-to-ir-updates-on-terry-mclaurin-chuba-hubbard"/>
+        <updated>2025-10-07T19:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Follow the latest injury news for fantasy football lineups in Week 6.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Odell Beckham Jr. accepts six-game suspension from NFL for failed PED test, still wants to play this season]]></title>
+        <id>380ef137-5c2e-4456-9569-a4a4ab33cbd1</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/odell-beckham-jr-accepts-six-game-suspension-from-nfl-for-failed-ped-test-still-wants-to-play-this-season-191233891.html"/>
+        <updated>2025-10-07T19:12:33.000Z</updated>
+        <summary type="html"><![CDATA[Odell Beckham Jr. won't be able to play until Week 12 if he signs with a team.]]></summary>
+        <author>
+            <name>Chris Cwik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football Rankings: Top 10 backup running backs going into Week 6]]></title>
+        <id>a8c8ea77-d470-4c49-a93b-0a8f67731797</id>
+        <link href="https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-top-10-backup-running-backs-going-into-week-6-191218733.html"/>
+        <updated>2025-10-07T19:12:18.000Z</updated>
+        <summary type="html"><![CDATA[Fantasy Football analyst Justin Boone takes you through his backup RB rankings, plus rookies to stash and more.]]></summary>
+        <author>
+            <name>Justin Boone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report: NFL to fine Jerry Jones $250K for flashing middle finger at fans in Week 5]]></title>
+        <id>e95e261c-d954-39e4-8128-df82f3fb737e</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-nfl-to-fine-jerry-jones-250k-for-flashing-middle-finger-at-fans-in-week-5"/>
+        <updated>2025-10-07T19:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Jones said the gesture was "inadvertent."]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jake Browning: Likely shifting to backup role]]></title>
+        <id>nfl609587</id>
+        <link href="https://www.rotowire.com//football/player/jake-browning-13504"/>
+        <updated>2025-10-07T19:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Browning is expected to move into a backup role at quarterback for Sunday's game against the Packers after the Bengals acquired Joe Flacco from the Browns on Tuesday, Jay Morrison of SI.com reports.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe Flacco trade winners and losers: Plenty of moving pieces, including Shedeur Sanders]]></title>
+        <id>4480cde3-38fe-42e5-8125-830cbde49dbf</id>
+        <link href="https://sports.yahoo.com/nfl/article/joe-flacco-trade-winners-and-losers-plenty-of-moving-pieces-including-shedeur-sanders-185711029.html"/>
+        <updated>2025-10-07T18:57:11.000Z</updated>
+        <summary type="html"><![CDATA[Tuesday's trade between the Bengals and Browns was odd and historic.]]></summary>
+        <author>
+            <name>Frank Schwab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eagles injury report: Saquon Barkley upgraded ahead of Giants game]]></title>
+        <id>0fbe0099-af09-33db-8c1e-c030d19a75c3</id>
+        <link href="https://www.nbcsportsphiladelphia.com/nfl/eagles-injury-report-saquon-barkley-upgraded-limited-landon-dickerson/688534/?partner=yahoo"/>
+        <updated>2025-10-07T18:54:50.000Z</updated>
+        <summary type="html"><![CDATA[Here's the latest Eagles injury report with updates on Saquon Barkley, Landon Dickerson and more.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the John Elway-led Broncos of the mid-2010s grew an NFL general manager tree]]></title>
+        <id>US-EN-46510540</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46510540/denver-broncos-nfl-general-manager-tree-elway-lynch-spytek-peters-mougey"/>
+        <updated>2025-10-07T18:54:39.000Z</updated>
+        <summary type="html"><![CDATA[The Broncos turned into a GM factory under Elway, as four current and two former GMs were in Denver under his Super Bowl-winning regime.]]></summary>
+        <author>
+            <name>Jeff Legwold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[&quot;Arrow is pointing up&quot; for return of Alex Highsmith, Joey Porter Jr., Jaylen Warren]]></title>
+        <id>4c5372cf-fa63-3037-9742-fb536cde7999</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/arrow-is-pointing-up-for-return-of-alex-highsmith-joey-porter-jr-jaylen-warren"/>
+        <updated>2025-10-07T18:53:45.000Z</updated>
+        <summary type="html"><![CDATA[The Steelers could be getting several players back from injuries as they return to action after a Week 5 bye.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFL trade deadline tracker 2025]]></title>
+        <id>616217d4-8435-43cb-9fcc-1f3a43c76330</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/nfl-trade-deadline-tracker-2025-185325676.html"/>
+        <updated>2025-10-07T18:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Some teams see a window of opportunity to contend for the postseason while others might be getting an early jump on the NFL Draft.]]></summary>
+        <author>
+            <name>Yahoo Sports Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colts to sign K Michael Badgley]]></title>
+        <id>7f2f59f4-1dae-3f4e-90c9-e808f5d631b5</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-to-sign-k-michael-badgley"/>
+        <updated>2025-10-07T18:39:53.000Z</updated>
+        <summary type="html"><![CDATA[The Colts have found a veteran replacement for kicker Spencer Shrader.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe Flacco trade: How Browns&#39; deal affects Shedeur Sanders on team&#39;s depth chart]]></title>
+        <id>fb02f5ad-0058-4a42-92be-4f5151d85c38</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/joe-flacco-trade-how-browns-deal-affects-shedeur-sanders-on-teams-depth-chart-181915188.html"/>
+        <updated>2025-10-07T18:19:15.000Z</updated>
+        <summary type="html"><![CDATA[Shedeur Sanders presumably moved closer to a starting role Tuesday.]]></summary>
+        <author>
+            <name>Chris Cwik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 49ers are finding ways to win -- thanks to (receiver?) Christian McCaffrey]]></title>
+        <id>US-EN-46513614</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46513614/san-francisco-49ers-run-game-christian-mccaffrey"/>
+        <updated>2025-10-07T18:18:36.000Z</updated>
+        <summary type="html"><![CDATA[While the 49ers have not been productive on the ground, their running back has been producing through the air.]]></summary>
+        <author>
+            <name>Nick Wagoner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to make of the Browns' offense after Dillon Gabriel's first start]]></title>
+        <id>US-EN-46513664</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46513664/cleveland-browns-nfl-offense-dillon-gabriel-first-start-week-5-2025"/>
+        <updated>2025-10-07T18:18:36.000Z</updated>
+        <summary type="html"><![CDATA[Cleveland's offense avoided turnovers under its rookie QB, but still couldn't muster much on the scoreboard.]]></summary>
+        <author>
+            <name>Daniel Oyefusi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFL Panic Meter: Is Joe Flacco really going to save the Bengals?]]></title>
+        <id>630526a5-88fc-4ee3-829e-6bbabaaae83e</id>
+        <link href="https://sports.yahoo.com/nfl/article/nfl-panic-meter-is-joe-flacco-really-going-to-save-the-bengals-181141916.html"/>
+        <updated>2025-10-07T18:11:41.000Z</updated>
+        <summary type="html"><![CDATA[The Bengals were desperate after a three-game losing streak.]]></summary>
+        <author>
+            <name>Frank Schwab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bengals did not call Giants about Russell Wilson or Jameis Winston before trading for Joe Flacco]]></title>
+        <id>b3cc5a6a-b72d-3ea4-80d4-3fbe672a4cb8</id>
+        <link href="https://sny.tv/articles/bengals-giants-russell-wilson-jameis-winston-joe-flacco"/>
+        <updated>2025-10-07T18:09:42.000Z</updated>
+        <summary type="html"><![CDATA[Per SNY NFL Insider Connor Hughes, the Bengals did not call the Giants about either Russell Wilson or Jameis Winston, a pair of veteran quarterbacks who are now both behind Jaxson Dart on Big Blue's depth chart.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[49ers hold tryouts for seven defensive linemen amid injuries entering Week 6]]></title>
+        <id>7188a487-f58e-31fe-86ff-b43f7983a337</id>
+        <link href="https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/defensive-line-injuries-tryouts/1879839/?partner=yahoo"/>
+        <updated>2025-10-07T17:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Dealing with multiple injuries, the San Francisco 49ers tried out seven defensive linemen entering Week 6.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could Puka Nacua&#39;s hot start to 2025 lead to record-setting season?]]></title>
+        <id>357df4f0-83c8-4c0b-aa97-ee34b19764f6</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/could-puka-nacuas-hot-start-to-2025-lead-to-record-setting-season-175649277.html"/>
+        <updated>2025-10-07T17:56:49.000Z</updated>
+        <summary type="html"><![CDATA[Los Angeles Rams wide receiver Puka Nacua is on fire to start the season.]]></summary>
+        <author>
+            <name>Criss Partee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football: Surprising top-10 scorers at each position relative to ADP and if their production is sustainable]]></title>
+        <id>042ef9a1-7a7d-43dd-ab38-e6d686dc54bb</id>
+        <link href="https://sports.yahoo.com/fantasy/article/fantasy-football-surprising-top-10-scorers-at-each-position-relative-to-adp-and-if-their-production-is-sustainable-173815901.html"/>
+        <updated>2025-10-07T17:38:15.000Z</updated>
+        <summary type="html"><![CDATA[Matt Harmon examines players in the top 10 at their position in fantasy football scoring relative to their ADP, and if their production is sustainable.]]></summary>
+        <author>
+            <name>Matt Harmon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bengals trade for Browns QB Joe Flacco in wake of Joe Burrow injury]]></title>
+        <id>06523087-b398-45fb-b6d5-e02441b80f47</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/bengals-trade-for-browns-qb-joe-flacco-in-wake-of-joe-burrow-injury-171418275.html"/>
+        <updated>2025-10-07T17:14:18.000Z</updated>
+        <summary type="html"><![CDATA[Can Joe Flacco save Cincinnati's season?]]></summary>
+        <author>
+            <name>Jason Owens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alex Highsmith Trending Toward Week 6 Return]]></title>
+        <id>https://www.draftsharks.com/shark-bites/79542/alex-highsmith-trending-toward-week-6-return</id>
+        <link href="https://www.draftsharks.com/shark-bites/79542/alex-highsmith-trending-toward-week-6-return"/>
+        <updated>2025-10-07T16:41:39.000Z</updated>
+        <summary type="html"><![CDATA[Steelers Edge Alex Highsmith says he hopes to be ready to play Sunday against the Browns. Highsmith has been out with a high ankle sprain since Week 2 b]]></summary>
+        <author>
+            <name>Kevin English</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFL reportedly fining Cowboys owner Jerry Jones $250K after he flipped middle finger from luxury box during Jets game]]></title>
+        <id>1dd5cbe1-aab7-4e81-835d-3d748da1a13e</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/nfl-reportedly-fining-cowboys-owner-jerry-jones-250k-after-he-flipped-middle-finger-from-luxury-box-during-jets-game-135722236.html"/>
+        <updated>2025-10-07T13:57:22.000Z</updated>
+        <summary type="html"><![CDATA[The last team owner caught on video flipping the bird from his luxury box also drew a $250,000 fine from the NFL.]]></summary>
+        <author>
+            <name>Jason Owens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tyrel Dodson in Doubt for Week 6]]></title>
+        <id>https://www.draftsharks.com/shark-bites/79541/tyrel-dodson-in-doubt-for-week-6</id>
+        <link href="https://www.draftsharks.com/shark-bites/79541/tyrel-dodson-in-doubt-for-week-6"/>
+        <updated>2025-10-07T12:25:19.000Z</updated>
+        <summary type="html"><![CDATA[Dolphins LB Tyrel Dodson has entered the league concussion protocol after leaving Sunday's game early with the injury. We'll see about his progress duri]]></summary>
+        <author>
+            <name>Kevin English</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chiefs drive 97 yards after Trevor Lawrence&#39;s fourth-down fumble]]></title>
         <id>ae60765a-d96a-3ad1-90ab-4f95bd274916</id>
@@ -4982,26 +5698,6 @@
         <link href="https://www.draftsharks.com/shark-bites/78914/george-kittle-expected-to-miss-multiple-weeks"/>
         <updated>2025-09-08T22:41:42.000Z</updated>
         <summary type="html"><![CDATA[Several reports have 49ers TE George Kittle missing multiple weeks with the hamstring injury he suffered in Sunday's win over the Seahawks. NFL Network']]></summary>
-        <author>
-            <name>Kevin English</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drake London Injury Not Believed To Be Serious]]></title>
-        <id>https://www.draftsharks.com/shark-bites/78875/drake-london-injury-not-believed-to-be-serious</id>
-        <link href="https://www.draftsharks.com/shark-bites/78875/drake-london-injury-not-believed-to-be-serious"/>
-        <updated>2025-09-08T00:04:49.000Z</updated>
-        <summary type="html"><![CDATA[Falcons WR Drake London has been diagnosed with a shoulder sprain and is considered "day to day," according to NFL Network's Ian Rapoport. London is sch]]></summary>
-        <author>
-            <name>Kevin English</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make Plans to Miss Xavier Worthy for at Least a Bit]]></title>
-        <id>https://www.draftsharks.com/shark-bites/78849/make-plans-to-miss-xavier-worthy-for-at-least-a-bit</id>
-        <link href="https://www.draftsharks.com/shark-bites/78849/make-plans-to-miss-xavier-worthy-for-at-least-a-bit"/>
-        <updated>2025-09-07T13:31:00.000Z</updated>
-        <summary type="html"><![CDATA[NFL Network's Ian Rapoport reports that Chiefs WR Xavier Worthy suffered a dislocated shoulder in Friday night's loss to the Chargers and is still seeki]]></summary>
         <author>
             <name>Kevin English</name>
         </author>
