@@ -403,6 +403,16 @@
       "siteUrl": "https://www.draftsharks.com",
       "articles": [
         {
+          "id": "https://www.draftsharks.com/shark-bites/79605/chase-young-finally-ready-to-play",
+          "author": "Kevin English",
+          "description": "Saints Edge Chase Young is off the injury report for Sunday's game against the Patriots after putting in a full practice Friday. That means Young will m",
+          "link": "https://www.draftsharks.com/shark-bites/79605/chase-young-finally-ready-to-play",
+          "publishedOn": "2025-10-10T20:58:36.000Z",
+          "wordCount": 9414,
+          "title": "Chase Young Finally Ready to Play",
+          "imageUrl": "https://www.draftsharks.com/player-images/a0e00a81-28a8-4716-c71e-ad1298d97800/1200x675.avif"
+        },
+        {
           "id": "https://www.draftsharks.com/shark-bites/79568/good-news-for-giants-jalen-carter-inactive",
           "author": "Kevin English",
           "description": "Eagles DT Jalen Carter is inactive for tonight's game against the Giants. He popped up on the Wednesday injury report with a heel issue and entered Thur",
@@ -921,16 +931,6 @@
           "wordCount": 9588,
           "title": "Chris Godwin Headed Back to the Field",
           "imageUrl": "https://www.draftsharks.com/player-images/5a1d4a3c-a257-4b36-53e1-3beef1245c00/1200x675.avif"
-        },
-        {
-          "id": "https://www.draftsharks.com/shark-bites/78943/brock-purdy-expected-to-miss-at-least-two-games-with-turf-toe",
-          "author": "Kevin English",
-          "description": "49ers QB Brock Purdy is expected to miss two to five games with a turf toe variant, per NFL Network’s Ian Rapoport. He suffered the injury in the seco",
-          "link": "https://www.draftsharks.com/shark-bites/78943/brock-purdy-expected-to-miss-at-least-two-games-with-turf-toe",
-          "publishedOn": "2025-09-11T13:08:24.000Z",
-          "wordCount": 9461,
-          "title": "Brock Purdy Expected To Miss At Least Two Games with Turf Toe",
-          "imageUrl": "https://www.draftsharks.com/player-images/16c8fad7-d9cf-45c3-2586-38fefd9c2300/1200x675.avif"
         }
       ]
     },
@@ -939,6 +939,436 @@
       "feedUrl": "https://sports.yahoo.com/nfl/rss/",
       "siteUrl": "https://sports.yahoo.com/nfl/",
       "articles": [
+        {
+          "id": "d35f5b71-2b79-3d05-b721-ea5794633ece",
+          "author": null,
+          "description": "Jayden Daniels, Christian McCaffrey, Puka Nacua, and Tyler Warren highlight positional rankings for Week 6 of the 2025 NFL season.",
+          "link": "https://www.nbcsports.com/nfl/matthew-berry/news/matthew-berrys-fantasy-football-rankings-for-week-6-of-2025-season",
+          "publishedOn": "2025-10-10T22:30:00.000Z",
+          "wordCount": 3502,
+          "title": "Matthew Berry’s Fantasy Football Rankings for Week 6 of 2025 season",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/b77f3db/2147483647/strip/true/crop/5781x3252+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F79%2F95%2Fa61e2112450988ff985a939329ef%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237010560"
+        },
+        {
+          "id": "00b5fa96-8829-3cab-8e23-060478eab482",
+          "author": null,
+          "description": "The Jets' starting running back knows he's been mentioned in the latest round of league trade rumors, but he wants to stay in New York this season and beyond.",
+          "link": "https://sny.tv/articles/jets-breece-hall-trade-rumors-future-10-10-25",
+          "publishedOn": "2025-10-10T22:14:10.000Z",
+          "wordCount": 1870,
+          "title": "Jets RB Breece Hall addresses latest trade rumors: &#39;I’m here, I want to be here&#39;",
+          "imageUrl": "https://images.contentstack.io/v3/assets/bltf7a82b39b0908da4/blt4466badd349f0b70/68e2b52e758f5b9f81d9d19c/BreeceHallWeek5.jpg?format=jpg&quality=75&fit=bounds&width=1296&height=729"
+        },
+        {
+          "id": "b49975bd-cb7d-3c7a-8f1b-3a3f8f29317e",
+          "author": null,
+          "description": "The 49ers won't have Brock Purdy again this week.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-rule-out-brock-purdy-list-mac-jones-as-questionable",
+          "publishedOn": "2025-10-10T22:08:35.000Z",
+          "wordCount": 2178,
+          "title": "49ers rule out Brock Purdy, list Mac Jones as questionable",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/f33901a/2147483647/strip/true/crop/3798x2136+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F29%2Fa3%2Fe84044c4487285d0e8fb8ccbe17c%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2234197892"
+        },
+        {
+          "id": "aca4616f-b8ea-32be-9c87-8bd9f94679e6",
+          "author": null,
+          "description": "Commanders wide receiver Terry McLaurin (quad) is listed as a non-participant for Friday's practice.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terry-mclaurin-remains-a-non-participant-on-friday",
+          "publishedOn": "2025-10-10T21:30:10.000Z",
+          "wordCount": 2144,
+          "title": "Terry McLaurin remains a non-participant on Friday",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/06c3eab/2147483647/strip/true/crop/1642x924+0+222/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2b%2Fc5%2F3c4029234faaa11d14a325741351%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2238278705"
+        },
+        {
+          "id": "f9745985-a43e-37c4-b017-1aa4cdbacb6b",
+          "author": null,
+          "description": "Cowboys running back Miles Sanders' season is over.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/miles-sanders-headed-to-season-ending-injured-reserve",
+          "publishedOn": "2025-10-10T21:09:54.000Z",
+          "wordCount": 2146,
+          "title": "Miles Sanders headed to season-ending injured reserve",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/2503032/2147483647/strip/true/crop/4863x2735+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F79%2F99%2Fa5ad07594db89eabc8115760ae05%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2238803061"
+        },
+        {
+          "id": "774e20f6-d5f1-33b6-af39-bff04051a43c",
+          "author": null,
+          "description": "Rams starting right tackle Rob Havenstein does not appear ready to return from his ankle injury yet.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-ot-rob-havenstein-is-doubtful-to-play-vs-ravens",
+          "publishedOn": "2025-10-10T21:00:07.000Z",
+          "wordCount": 2291,
+          "title": "Rams OT Rob Havenstein is doubtful to play vs. Ravens",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/55b34d0/2147483647/strip/true/crop/4500x2531+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2F1a%2Fad7c072b4a33b2fea65c0b88584a%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2194333328"
+        },
+        {
+          "id": "25090c9c-49c6-3cf0-9fdf-f25a4e5362da",
+          "author": null,
+          "description": "Jackson will not play for a second consecutive week because of a hamstring injury.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-officially-rule-out-lamar-jackson-for-sunday",
+          "publishedOn": "2025-10-10T20:46:36.000Z",
+          "wordCount": 2102,
+          "title": "Ravens officially rule out Lamar Jackson for Sunday",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/af76c29/2147483647/strip/true/crop/6122x3444+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F51%2Fe3%2F61fc5cb04ad4a9ee29e560629077%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237779873"
+        },
+        {
+          "id": "bfda137c-42b9-3b52-99f7-5d5ca044a97c",
+          "author": null,
+          "description": "The Seahawks are set to be thin in the secondary in Jacksonville on Sunday.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devon-witherspoon-julian-love-and-riq-woolen-doubtful-for-seahawks",
+          "publishedOn": "2025-10-10T20:44:25.000Z",
+          "wordCount": 2105,
+          "title": "Devon Witherspoon, Julian Love and Riq Woolen doubtful for Seahawks",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/3a6bd85/2147483647/strip/true/crop/4702x2645+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5a%2F27%2F624a28bc43a29dcb121b40207d59%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237640898"
+        },
+        {
+          "id": "791fa199-81de-42d3-a7f8-5b09de9c4bec",
+          "author": "Sean Leahy",
+          "description": "Jackson has been hampered by a hamstring injury he suffered in Week 4 against the Chiefs.",
+          "link": "https://sports.yahoo.com/nfl/article/ravens-qb-lamar-jackson-ruled-out-for-week-6-matchup-against-rams-cooper-rush-will-start-again-203842362.html",
+          "publishedOn": "2025-10-10T20:38:42.000Z",
+          "wordCount": 8539,
+          "title": "Ravens QB Lamar Jackson ruled out for Week 6 matchup against Rams; Cooper Rush will start again",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/.3ci2h2CMyBMqgJvEqskkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/91a386e0-a508-11f0-bfdf-e9edd45e2e96"
+        },
+        {
+          "id": "966b6b4b-35fc-3f6e-ac92-1462e648b3cc",
+          "author": null,
+          "description": "The Cowboys ruled out wide receiver CeeDee Lamb and right guard Tyler Booker for a third consecutive game.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-rule-out-five-players-list-seven-others-as-questionable",
+          "publishedOn": "2025-10-10T20:30:08.000Z",
+          "wordCount": 2183,
+          "title": "Cowboys rule out five players, list seven others as questionable",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/3f349d7/2147483647/strip/true/crop/5706x3210+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F37%2F46%2Ff3709c1341d9a65bf85c3a995c1a%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D24952755"
+        },
+        {
+          "id": "6fbf3677-3706-3adf-b3b4-59795bde22b5",
+          "author": null,
+          "description": "Murray was a limited participant in his return to practice on Friday.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyler-murray-questionable-for-sunday-vs-colts",
+          "publishedOn": "2025-10-10T20:26:12.000Z",
+          "wordCount": 2106,
+          "title": "Kyler Murray questionable for Sunday vs. Colts",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/39e2943/2147483647/strip/true/crop/7401x4163+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd6%2Fc0%2F55872ec444b2b666af8fb21293d2%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27254879"
+        },
+        {
+          "id": "26673211-ac0a-3f99-953e-a025b6c79f0b",
+          "author": null,
+          "description": "Hours after Lions head coach Dan Campbell said defensive lineman Alim McNeill could make his 2025 debut on Sunday night against the Chiefs, the Lions' injury report said otherwise.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-rule-out-alim-mcneill-for-sunday-vs-chiefs",
+          "publishedOn": "2025-10-10T20:21:58.000Z",
+          "wordCount": 2150,
+          "title": "Lions rule out Alim McNeill for Sunday vs. Chiefs",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/029a24c/2147483647/strip/true/crop/5326x2996+0+278/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F26%2F83%2F1ad8dfa34d1f9863765b31c35022%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2189658325"
+        },
+        {
+          "id": "af7f6860-9c9a-3d70-bc4b-371c0d731711",
+          "author": null,
+          "description": "Browns defensive end Myles Garrett (ankle) returned to full participation in Friday's practice, and he does not have a designation for Sunday's game against the Steelers.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-returns-to-full-participation-has-no-injury-designation",
+          "publishedOn": "2025-10-10T20:16:32.000Z",
+          "wordCount": 2194,
+          "title": "Myles Garrett returns to full participation, has no injury designation",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/f1ac885/2147483647/strip/true/crop/6951x3910+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa2%2Fcb%2Fc06d4c314850b976164e9d7d436e%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2239226403"
+        },
+        {
+          "id": "cc9d260e-bb66-377d-80ce-87be1af54a47",
+          "author": null,
+          "description": "Tight end Brock Bowers is set to miss his second straight game with a knee injury.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-bowers-likely-out-again-for-raiders",
+          "publishedOn": "2025-10-10T20:10:10.000Z",
+          "wordCount": 2103,
+          "title": "Brock Bowers likely out again for Raiders",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/313f85a/2147483647/strip/true/crop/8350x4697+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffa%2Fa8%2F63a0beaa4c92acaaf851e11eebf9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237111290"
+        },
+        {
+          "id": "cee50fe1-9dce-3af8-9312-cefc0d7ec023",
+          "author": null,
+          "description": "Defensive lineman Grady Jarrett (knee) remained out of the Bears' practice on Friday ahead of a Monday Night Football game against the Commanders.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/grady-jarrett-remains-out-of-bears-practice",
+          "publishedOn": "2025-10-10T20:03:12.000Z",
+          "wordCount": 2138,
+          "title": "Grady Jarrett remains out of Bears&#39; practice",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/45d2c34/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa5%2Fc5%2F34b67e614daf8f10c6b4f35753e6%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2234846443"
+        },
+        {
+          "id": "8032d055-c1d6-336a-b0e3-65add80b7d42",
+          "author": null,
+          "description": "The Packers will not be activating wide receiver Christian Watson for Sunday's game against the Bengals.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-watson-wont-return-this-weekend-brandon-mcmanus-and-rasheed-walker-questionable",
+          "publishedOn": "2025-10-10T19:58:32.000Z",
+          "wordCount": 2162,
+          "title": "Christian Watson won&#39;t return this weekend, Brandon McManus and Rasheed Walker questionable",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/6e8c431/2147483647/strip/true/crop/3553x1999+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F6c%2F7925783248afa937787c9f9b005b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2190885473"
+        },
+        {
+          "id": "df3d72f2-dd9e-3ffa-8958-231e882249e9",
+          "author": null,
+          "description": "As the NFL and NFL Players Association explore the situation that unfolded as doctors evaluated Giants quarterback Jaxson Dart for a concussion, Giants co-owner John Mara has commented on coach Brian Daboll's conduct in connection with the incident.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-mara-appearance-of-going-to-medical-tent-was-inappropriate",
+          "publishedOn": "2025-10-10T19:55:21.000Z",
+          "wordCount": 2234,
+          "title": "John Mara: &quot;Appearance&quot; of going to medical tent was &quot;inappropriate&quot;",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/dcd2a6f/2147483647/strip/true/crop/5069x2851+0+385/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8d%2F46%2Fb5d9a96f46a8a6e433d62d7ee9b4%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1585606696"
+        },
+        {
+          "id": "fdd05527-6439-3d08-a796-9c59431cb1ae",
+          "author": null,
+          "description": "The Steelers will not have a key offensive contributor and may not have one of their best defenders either in Week 6.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/calvin-austin-out-jalen-ramsey-questionable-for-steelers-browns",
+          "publishedOn": "2025-10-10T19:55:21.000Z",
+          "wordCount": 2247,
+          "title": "Calvin Austin out, Jalen Ramsey questionable for Steelers-Browns",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/fac4241/2147483647/strip/true/crop/5985x3367+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2F72%2Fe20e755c4e0eb79ce0b3a794a373%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2236788793"
+        },
+        {
+          "id": "3e56f15c-eac8-3d3b-b884-f965cffe26ef",
+          "author": null,
+          "description": "Bills linebacker Matt Milano (pectoral) remained a non-participant in Friday's practice, a sign that he likely misses another week.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-milano-curtis-samuel-damar-hamlin-did-not-practice-on-friday",
+          "publishedOn": "2025-10-10T19:43:03.000Z",
+          "wordCount": 2141,
+          "title": "Matt Milano, Curtis Samuel, Damar Hamlin did not practice on Friday",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/8c965eb/2147483647/strip/true/crop/4000x2250+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6c%2Ffc%2Feb704f984b098ed7fa5f214c7c0a%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235047925"
+        },
+        {
+          "id": "ae14465b-ffe0-3f33-9384-871652d98e13",
+          "author": null,
+          "description": "Tua Tagovailoa is officially available for Sunday's game against the Chargers.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-off-injury-report-after-two-full-practices-set-to-play-vs-chargers",
+          "publishedOn": "2025-10-10T19:32:49.000Z",
+          "wordCount": 2208,
+          "title": "Tua Tagovailoa off injury report after two full practices, set to play vs. Chargers",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/12d1972/2147483647/strip/true/crop/2484x1397+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd0%2Fcf%2Ff3458535452da4e345a678430d38%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27208725"
+        },
+        {
+          "id": "ffb72212-d261-3767-a971-b8bfc07aaf23",
+          "author": null,
+          "description": "Rico Dowdle will be front and center for the Panthers again this Sunday.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chuba-hubbard-taylor-moton-ruled-out-for-panthers",
+          "publishedOn": "2025-10-10T19:29:52.000Z",
+          "wordCount": 2121,
+          "title": "Chuba Hubbard, Taylor Moton ruled out for Panthers",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/580ea10/2147483647/strip/true/crop/3375x1898+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffe%2F25%2Fe379f49b4e3e9d55316f151a4479%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2238339540"
+        },
+        {
+          "id": "cf0baa19-c1e3-437e-a266-b5e6e673f86f",
+          "author": "Yahoo Sports Fantasy Staff",
+          "description": "Week 6 of the NFL season is here, so lean on Fantasy Football Live to help get your lineup ready on Sunday.",
+          "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-live-watch-sunday-for-last-minute-startsit-advice-and-rankings-updates-for-week-6-192448239.html",
+          "publishedOn": "2025-10-10T19:24:48.000Z",
+          "wordCount": 8363,
+          "title": "Fantasy Football Live! Watch Sunday for last-minute start/sit advice and rankings updates for Week 6",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Op3PmQLSpzDKBlCmVo.wzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/1f5aa2a0-a547-11f0-a3e7-ea4a32f0e61c"
+        },
+        {
+          "id": "7a9b4a9c-0022-3412-ba4d-a2ccc9b4246f",
+          "author": null,
+          "description": "The Chiefs had 11 players on their practice report this week.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-have-no-injury-designations-for-sundays-game",
+          "publishedOn": "2025-10-10T19:19:26.000Z",
+          "wordCount": 2116,
+          "title": "Chiefs have no injury designations for Sunday&#39;s game",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/ceb2fae/2147483647/strip/true/crop/3206x1803+0+564/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff5%2F7c%2F3cbb71224c9baea08a49f16302d7%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240038498"
+        },
+        {
+          "id": "b33f9044-155e-3a69-8fc6-d2a11592cf52",
+          "author": null,
+          "description": "The Patriots may or may not have their top cornerback when they face the Saints on Sunday.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-gonzalez-questionable-for-patriots-saints",
+          "publishedOn": "2025-10-10T19:17:38.000Z",
+          "wordCount": 2249,
+          "title": "Christian Gonzalez questionable for Patriots-Saints",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/b35e175/2147483647/strip/true/crop/8192x4608+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe4%2F08%2F467953734eaa9b1704815b633285%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2239983891"
+        },
+        {
+          "id": "5c2112e6-1b9c-31dd-a0e8-601d06477ce8",
+          "author": null,
+          "description": "The Saints are set to have defensive end Chase Young in the lineup against the Patriots on Sunday, but running back Alvin Kamara's status is less certain.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alvin-kamara-questionable-for-saints-chase-young-set-to-play",
+          "publishedOn": "2025-10-10T19:11:45.000Z",
+          "wordCount": 2135,
+          "title": "Alvin Kamara questionable for Saints, Chase Young set to play",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/6e1c53e/2147483647/strip/true/crop/3000x1688+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F15%2F45%2F47942bb0436589e4573bde9176d6%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2239412560"
+        },
+        {
+          "id": "745c4a97-8301-4546-8d18-5acc13a77df9",
+          "author": "Jori Epstein",
+          "description": "Doyle has been tasked with guiding franchise quarterback Caleb Williams' development. Early returns suggest he's ready for the challenge. Here's how he earned the right to take it on.",
+          "link": "https://sports.yahoo.com/nfl/article/why-is-ben-johnson-trusting-a-29-year-old-first-time-colleague-to-coordinate-bears-offense-develop-caleb-williams-meet-declan-doyle-and-youll-understand-190819357.html",
+          "publishedOn": "2025-10-10T19:08:19.000Z",
+          "wordCount": 12132,
+          "title": "Why is Ben Johnson trusting a 29-year-old first-time colleague to coordinate Bears’ offense, develop Caleb Williams? Meet Declan Doyle, and you’ll understand",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/pfrefTaJVScRCQdclPi6Hg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/655b0190-a5fc-11f0-be7f-14d7bafaafd2"
+        },
+        {
+          "id": "54ee7ff7-a580-3547-b30b-79cfd8489833",
+          "author": null,
+          "description": "The Chargers will still be banged up along their offensive line when they play the Dolphins on Sunday.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-alt-trey-pipkins-ruled-out-for-chargers-dolphins",
+          "publishedOn": "2025-10-10T19:02:05.000Z",
+          "wordCount": 2158,
+          "title": "Joe Alt, Trey Pipkins ruled out for Chargers-Dolphins",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/4dca852/2147483647/strip/true/crop/4562x2566+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F68%2F47%2F10d271dc4fe89cdb0d0b75a43caa%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2191874641"
+        },
+        {
+          "id": "ecc464b7-e347-3984-be0e-737d78306fc4",
+          "author": null,
+          "description": "To Cowboys owner Jerry Jones, $250,000 is not a lot of money.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jerry-jones-will-not-appeal-his-250-000-fine",
+          "publishedOn": "2025-10-10T18:06:16.000Z",
+          "wordCount": 2117,
+          "title": "Report: Jerry Jones will not appeal his $250,000 fine",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/9c2312f/2147483647/strip/true/crop/7980x4489+0+416/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F18%2Ffd%2Fa189e96448a1ab735f87d5991a7b%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27253653"
+        },
+        {
+          "id": "868b06b9-355a-306f-bc5b-09f9718b9e9d",
+          "author": null,
+          "description": "Jordan Love and the Packers are poised to put up points in droves against the Bengals this week. That could finally be what Matthew Golden needs to post his breakout game.",
+          "link": "https://www.nbcsports.com/fantasy/football/news/nfl-2025-week-6-start-em-sit-em-stack-jordan-love-and-matthew-golden",
+          "publishedOn": "2025-10-10T17:47:58.000Z",
+          "wordCount": 3884,
+          "title": "NFL 2025 Week 6 Start &#39;Em Sit &#39;Em: Stack Jordan Love and Matthew Golden",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/a39eac0/2147483647/strip/true/crop/3860x2171+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb1%2Fef%2Fda46dd584e948cda380c6a242750%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27197978"
+        },
+        {
+          "id": "00bbb78d-dac3-348d-83cd-3174fe49b9bb",
+          "author": null,
+          "description": "The Cardinals have punter Blake Gillikin on the injury report this week and they added some insurance against his possible absence to their 53-man roster.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-sign-p-pat-odonnell-to-active-roster",
+          "publishedOn": "2025-10-10T17:46:07.000Z",
+          "wordCount": 2106,
+          "title": "Cardinals sign P Pat O&#39;Donnell to active roster",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/7547ed9/2147483647/strip/true/crop/5666x3187+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F64%2F18%2F9c28e700481883f9086a733a6ea9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2190512060"
+        },
+        {
+          "id": "eb93c7f6-1258-36e9-82f1-0ea0b800ddfc",
+          "author": null,
+          "description": "Kyle Shanahan shared why he has more confidence in 49ers backup QB Adrian Martinez before San Francisco's matchup against The Tampa Bay Buccaneers.",
+          "link": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/kyle-shanahan-adrian-martinez/1880627/?partner=yahoo",
+          "publishedOn": "2025-10-10T17:33:57.000Z",
+          "wordCount": 2537,
+          "title": "Why Kyle Shanahan feels ‘better&#39; about 49ers backup QB Adrian Martinez this week",
+          "imageUrl": "https://media.nbcsportsbayarea.com/2025/10/Adrian-Martinez-49ers.jpg?quality=85&strip=all&resize=1200%2C675"
+        },
+        {
+          "id": "452043ca-d801-4ccf-a4a7-a16d56ce9e47",
+          "author": "Ben Fawkes",
+          "description": "Where is the public betting in Week 6 of the NFL season, and where is the sharp action? We've got you covered.",
+          "link": "https://sports.yahoo.com/nfl/betting/article/everything-to-know-for-betting-nfl-week-6-sharp-action-public-betting-splits-and-big-bets-171330505.html",
+          "publishedOn": "2025-10-10T17:13:30.000Z",
+          "wordCount": 10107,
+          "title": "Everything to know for betting NFL Week 6: Sharp action, public betting splits and big bets",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/1GgwSMph5h0SblKZopzSYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/7bde3270-a5f7-11f0-97f7-efae7e89556f"
+        },
+        {
+          "id": "5396116b-3546-3c52-840f-51fedf5d3c85",
+          "author": null,
+          "description": "It looks like Cooper Rush will make another start for the Ravens this weekend.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-remains-out-of-practice-cooper-rush-in-line-to-start-again",
+          "publishedOn": "2025-10-10T16:36:48.000Z",
+          "wordCount": 2189,
+          "title": "Lamar Jackson remains out of practice, Cooper Rush in line to start again",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/6ad181c/2147483647/strip/true/crop/3838x2159+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff3%2F47%2F7bca4c3f48df93b9055a19d83958%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27258179"
+        },
+        {
+          "id": "9bb11797-f378-443a-a136-adc8847de2c6",
+          "author": "James Koh",
+          "description": "James Koh takes you through matchups to exploit for fantasy football, revealing his top players and deep sleepers for Week 6.",
+          "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-matchups-to-exploit-players-in-great-spots-for-week-6-plus-deep-sleepers-to-consider-160710448.html",
+          "publishedOn": "2025-10-10T16:07:10.000Z",
+          "wordCount": 10588,
+          "title": "Fantasy Football Matchups to Exploit: Players in great spots for Week 6, plus deep sleepers to consider",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/TGS5Dgt74FXalQ87EDqKbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/d959b910-a5f2-11f0-bbcf-e145446923dd"
+        },
+        {
+          "id": "3d636448-3b1e-36ae-8ca2-829b4e5bca26",
+          "author": null,
+          "description": "The NFL said Friday that it has initiated a review of the Giants' application of the concussion protocol to QB Jaxson Dart during Thursday night's win over the Philadelphia Eagles.",
+          "link": "https://sny.tv/articles/nfl-reviewing-concussion-protocol-giants-qb-jaxson-dart-win-eagles",
+          "publishedOn": "2025-10-10T16:00:01.000Z",
+          "wordCount": 1807,
+          "title": "NFL reviewing application of concussion protocol for Giants QB Jaxson Dart during win over Eagles",
+          "imageUrl": "https://images.contentstack.io/v3/assets/bltf7a82b39b0908da4/blte206add52585b116/68e9271cd6613743ceff55f2/Darttent.jpg?format=jpg&quality=75&fit=bounds&width=1296&height=729"
+        },
+        {
+          "id": "3541d969-e365-3a0b-b908-db24492a364c",
+          "author": null,
+          "description": "After last night's game, Eagles receiver A.J.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/on-critical-jalen-hurts-interception-a-j-brown-was-open-for-a-td",
+          "publishedOn": "2025-10-10T15:58:40.000Z",
+          "wordCount": 2285,
+          "title": "On critical Jalen Hurts interception, A.J. Brown was open for a TD",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/bc1dc29/2147483647/strip/true/crop/4988x2806+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffd%2F50%2Fee5e00ac401d8ef79d88906b48b9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240203361"
+        },
+        {
+          "id": "5f05c8ab-265b-4288-8d47-c9c2bbbc9c2d",
+          "author": "Yahoo Sports Fantasy Staff",
+          "description": "The Yahoo Fantasy Football crew reveals their boldest predictions for Week 6.",
+          "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-roundtable-bold-predictions-for-week-6-155250272.html",
+          "publishedOn": "2025-10-10T15:52:50.000Z",
+          "wordCount": 9797,
+          "title": "Fantasy Football Roundtable: Bold predictions for Week 6",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/b8bd2C._dsTiF58Y_.EZAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/1009fef0-a5f0-11f0-bd5f-8e2c7af56418"
+        },
+        {
+          "id": "4a4e85ea-5495-37f1-9b97-f9a666b9fa3b",
+          "author": null,
+          "description": "The Broncos have handed in their final injury report for Sunday's game against the Jets in London.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-list-dt-malcolm-roach-as-questionable",
+          "publishedOn": "2025-10-10T15:52:13.000Z",
+          "wordCount": 2106,
+          "title": "Broncos list DT Malcolm Roach as questionable",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/c4c481f/2147483647/strip/true/crop/6346x3570+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd6%2F0a%2Feda0ae354523a7de4dd74ef311b0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2190489234"
+        },
+        {
+          "id": "7315017e-9d4b-486c-8718-77f8eaf87d9a",
+          "author": "Sean Leahy",
+          "description": "Dart briefly left the game after taking a hit in the third quarter of Thursday night's win over the Eagles",
+          "link": "https://sports.yahoo.com/nfl/article/nfl-nflpa-to-review-concussion-protocol-involving-giants-qb-jaxson-dart-154931945.html",
+          "publishedOn": "2025-10-10T15:49:31.000Z",
+          "wordCount": 9188,
+          "title": "NFL, NFLPA to review concussion protocol involving Giants QB Jaxson Dart",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/P.t8ILnD5siudGGAnFbWXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/14847240-a5ea-11f0-965b-37d421089fe1"
+        },
+        {
+          "id": "638ee896-5c12-4fee-b567-64ad95427fed",
+          "author": "Michael Fiddle,Ed Feng,Matt Jacob",
+          "description": "Our NFL handicappers give their best bets for Week 6 of the season.",
+          "link": "https://sports.yahoo.com/nfl/betting/article/week-6-nfl-odds-picks-predictions-our-nfl-best-bets-including-a-play-in-lions-chiefs-154834735.html",
+          "publishedOn": "2025-10-10T15:48:34.000Z",
+          "wordCount": 11639,
+          "title": "Week 6 NFL odds, picks, predictions: Our NFL best bets, including a play in Lions-Chiefs",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/5gNblYfMPDj0c5vUseN0mA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/b09d2c70-a5f0-11f0-9f9f-c9777ecad62b"
+        },
+        {
+          "id": "690e83df-73b3-40fc-8d22-e6d266d1d6f0",
+          "author": "Derek Carty",
+          "description": "Fantasy football analyst Derek Carty examines some key projections for Week 6.",
+          "link": "https://sports.yahoo.com/fantasy/article/week-6-fantasy-football-6-player-projections-that-dont-make-sense-154315472.html",
+          "publishedOn": "2025-10-10T15:43:15.000Z",
+          "wordCount": 10054,
+          "title": "Week 6 Fantasy Football: 6 player projections that don&#39;t make sense",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/.jGVZ1cvXPIVe2DHp.3_aQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/3d614630-a5ee-11f0-9bff-21629193d655"
+        },
+        {
+          "id": "f291b336-4c11-4692-86ac-ecef543a2cd6",
+          "author": "Scott Pianowski",
+          "description": "Scott Pianowski helps you get your fantasy football lineups in shape with start/sit advice for Week 6.",
+          "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-startsit-advice-what-to-do-with-jaylen-warren-sam-laporta-more-players-in-week-6-152320112.html",
+          "publishedOn": "2025-10-10T15:23:20.000Z",
+          "wordCount": 9518,
+          "title": "Fantasy Football Start/Sit Advice: What to do with Jaylen Warren, Sam LaPorta, more players in Week 6",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Bb8irav.pkM5QAI464Z4jQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/df4370a0-a5e8-11f0-abd0-3e0b79953a3f"
+        },
+        {
+          "id": "7502c0bf-ac50-3a89-af8c-de54687690d0",
+          "author": null,
+          "description": "San Francisco coach Kyle Shanahan sat down with Matt Maiocco for \"49ers Game Plan\" and explained how he approaches facing a high-powered offense.",
+          "link": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/kyle-shanahan-game-plan/1880484/?partner=yahoo",
+          "publishedOn": "2025-10-10T15:22:19.000Z",
+          "wordCount": 2417,
+          "title": "How Kyle Shanahan&#39;s 49ers play-calling is influenced by facing elite offenses",
+          "imageUrl": "https://media.nbcsportsbayarea.com/2025/10/image-1-9-e1760070881409.jpg?quality=85&strip=all&resize=1200%2C675"
+        },
         {
           "id": "e541d442-0ac6-351b-a06f-473ea3414a44",
           "author": null,
@@ -1663,6 +2093,16 @@
           "id": "279d0463-e594-4958-9d8b-849239cb9064",
           "author": "Justin Boone",
           "description": "Fantasy football analyst Justin Boone provides his players to buy or sell for Week 6 of the 2025 NFL season.",
+          "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-trade-analyzer-buy-sell-week-6-173321607.html",
+          "publishedOn": "2025-10-08T17:33:21.000Z",
+          "wordCount": 10471,
+          "title": "Fantasy Football trade candidates: Players to buy and sell now to give your team an edge in Week 6 and beyond",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/JxvGQ3u8Yu9_j8lQgfOobw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/f2ecd260-9952-11f0-b7fb-78932f9b6b1d"
+        },
+        {
+          "id": "279d0463-e594-4958-9d8b-849239cb9064",
+          "author": "Justin Boone",
+          "description": "Fantasy football analyst Justin Boone provides his players to buy or sell for Week 6 of the 2025 NFL season.",
           "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-trade-candidates-players-to-buy-and-sell-now-to-give-your-team-an-edge-in-week-6-and-beyond-173321121.html",
           "publishedOn": "2025-10-08T17:33:21.000Z",
           "wordCount": 10442,
@@ -1823,11 +2263,31 @@
           "id": "d1ff9547-b77c-45e7-8df1-1cbfbda065cc",
           "author": "Justin Boone",
           "description": "Fantasy football analyst Justin Boone provides his rest-of-season trade values for tight ends for Week 6 of the 2025 NFL season.",
+          "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-trade-value-charts-dynasty-tight-end-justin-boone-150439360.html",
+          "publishedOn": "2025-10-08T15:04:39.000Z",
+          "wordCount": 7854,
+          "title": "Trade Value Charts — Justin Boone&#39;s rest-of-season fantasy football tight end breakdown prior to Week 6",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7kAKsoK9nwZ.B62V4YB2IA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/1433df30-a453-11f0-9f97-bf3c4ededca0"
+        },
+        {
+          "id": "d1ff9547-b77c-45e7-8df1-1cbfbda065cc",
+          "author": "Justin Boone",
+          "description": "Fantasy football analyst Justin Boone provides his rest-of-season trade values for tight ends for Week 6 of the 2025 NFL season.",
           "link": "https://sports.yahoo.com/fantasy/article/trade-value-charts--justin-boones-rest-of-season-fantasy-football-tight-end-breakdown-prior-to-week-6-150439741.html",
           "publishedOn": "2025-10-08T15:04:39.000Z",
           "wordCount": 7821,
           "title": "Trade Value Charts — Justin Boone&#39;s rest-of-season fantasy football tight end breakdown prior to Week 6",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7kAKsoK9nwZ.B62V4YB2IA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/1433df30-a453-11f0-9f97-bf3c4ededca0"
+        },
+        {
+          "id": "95d3f93b-ffdb-4e81-a420-6bbb8e8f7d0d",
+          "author": "Justin Boone",
+          "description": "Fantasy football analyst Justin Boone provides his rest-of-season trade values for wide receivers for Week 6 of the 2025 NFL season.",
+          "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-trade-value-charts-dynasty-wide-receiver-justin-boone-150431130.html",
+          "publishedOn": "2025-10-08T15:04:31.000Z",
+          "wordCount": 8309,
+          "title": "Trade Value Charts — Justin Boone&#39;s rest-of-season fantasy football wide receiver breakdown prior to Week 6",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Pefj07l3jSZSYhmPZHbagg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/27a87e40-a453-11f0-968d-88d76636b567"
         },
         {
           "id": "95d3f93b-ffdb-4e81-a420-6bbb8e8f7d0d",
@@ -1843,11 +2303,31 @@
           "id": "d74270e9-dcf9-40aa-9eee-aebb3a127e9c",
           "author": "Justin Boone",
           "description": "Fantasy football analyst Justin Boone provides his rest-of-season trade values for running backs for Week 6 of the 2025 NFL season.",
+          "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-trade-value-charts-dynasty-running-back-justin-boone-150416495.html",
+          "publishedOn": "2025-10-08T15:04:16.000Z",
+          "wordCount": 8064,
+          "title": "Trade Value Charts — Justin Boone&#39;s rest-of-season fantasy football running back breakdown prior to Week 6",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/tNEpOIh7p3KOHL7WLdb1bQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/3b0639f0-a453-11f0-975b-480bbcb9c639"
+        },
+        {
+          "id": "d74270e9-dcf9-40aa-9eee-aebb3a127e9c",
+          "author": "Justin Boone",
+          "description": "Fantasy football analyst Justin Boone provides his rest-of-season trade values for running backs for Week 6 of the 2025 NFL season.",
           "link": "https://sports.yahoo.com/fantasy/article/trade-value-charts--justin-boones-rest-of-season-fantasy-football-running-back-breakdown-prior-to-week-6-150416396.html",
           "publishedOn": "2025-10-08T15:04:16.000Z",
           "wordCount": 8022,
           "title": "Trade Value Charts — Justin Boone&#39;s rest-of-season fantasy football running back breakdown prior to Week 6",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/tNEpOIh7p3KOHL7WLdb1bQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/3b0639f0-a453-11f0-975b-480bbcb9c639"
+        },
+        {
+          "id": "422fa140-752c-4e88-914b-01d04b9e409c",
+          "author": "Justin Boone",
+          "description": "Fantasy football analyst Justin Boone provides his rest-of-season trade values for quarterbacks for Week 6 of the 2025 NFL season.",
+          "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-trade-value-charts-dynasty-quarterback-justin-boone-150344318.html",
+          "publishedOn": "2025-10-08T15:03:44.000Z",
+          "wordCount": 8190,
+          "title": "Trade Value Charts — Justin Boone&#39;s rest-of-season fantasy football quarterback breakdown prior to Week 6",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/LVUV7hL_R.Ds6Wyjlr3WFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/9693a0c0-a2d0-11f0-9bfe-8f4ed7eb6ce6"
         },
         {
           "id": "422fa140-752c-4e88-914b-01d04b9e409c",
@@ -5386,6 +5866,196 @@
       "feedUrl": "https://www.espn.com/espn/rss/nfl/news",
       "siteUrl": "https://www.espn.com",
       "articles": [
+        {
+          "id": "US-EN-46554698",
+          "author": "Jamison Hensley",
+          "description": "The Ravens have ruled quarterback Lamar Jackson out for Sunday's game against the Rams, marking the second straight week he has missed.",
+          "link": "https://www.espn.com/nfl/story/_/id/46554698/ravens-rule-qb-lamar-jackson-second-straight-week",
+          "publishedOn": "2025-10-11T02:00:46.000Z",
+          "wordCount": 3002,
+          "title": "Lamar ruled out; Ravens to roll with Rush again",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0929%2Fr1552767_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46555406",
+          "author": "Nick Wagoner",
+          "description": "Mac Jones is slated to start in place of the injured Brock Purdy on Sunday against the Bucs, while receiver Ricky Pearsall will miss his second straight game.",
+          "link": "https://www.espn.com/nfl/story/_/id/46555406/niners-jones-start-again-purdy-place-pearsall-out",
+          "publishedOn": "2025-10-11T02:00:46.000Z",
+          "wordCount": 3273,
+          "title": "49ers set to start QB Jones again; Pearsall out",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1003%2Fr1554736_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46553513",
+          "author": "Daniel Oyefusi",
+          "description": "Shedeur Sanders will be the backup quarterback to starter Dillon Gabriel on Sunday in the Browns' divisional road game against the Steelers, coach Kevin Stefanski announced Friday.",
+          "link": "https://www.espn.com/nfl/story/_/id/46553513/browns-shedeur-sanders-back-dillon-gabriel-vs-steelers",
+          "publishedOn": "2025-10-11T02:00:46.000Z",
+          "wordCount": 2960,
+          "title": "QB Sanders to back up Gabriel against Steelers",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1009%2Fr1557917_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46554737",
+          "author": "Ryan McFadden",
+          "description": "Raiders tight end Brock Bowers (knee) will miss his second-straight game, as he has been ruled out of Sunday's matchup against the Tennessee Titans.",
+          "link": "https://www.espn.com/nfl/story/_/id/46554737/raiders-tight-end-brock-bowers-miss-second-straight-game",
+          "publishedOn": "2025-10-11T02:00:46.000Z",
+          "wordCount": 2951,
+          "title": "Raiders' Bowers misses 2nd game with knee injury",
+          "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1005%2Fr1555816_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46555152",
+          "author": "Brady Henderson",
+          "description": "The Seattle Seahawks' secondary hasn't been whole since the first drive of the season opener, and it will once again be undermanned when the Seahawks play the Jaguars in Jacksonville on Sunday.",
+          "link": "https://www.espn.com/nfl/story/_/id/46555152/seahawks-devon-witherspoon-riq-woolen-julian-love-likely-vs-jags",
+          "publishedOn": "2025-10-11T02:00:46.000Z",
+          "wordCount": 2833,
+          "title": "Seahawks likely down 3 DBs on Sunday vs. Jags",
+          "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1010%2Fr1558454_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46554321",
+          "author": "Katherine Terrell",
+          "description": "New Orleans Saints' DE Chase Young is set to make his season debut on Sunday versus the New England Patriots after a calf injury, whereas RB Alvin Kamara's ankle status remains questionable with no injury designation.",
+          "link": "https://www.espn.com/nfl/story/_/id/46554321/saints-de-young-set-make-season-debut-rb-kamara-questionable",
+          "publishedOn": "2025-10-11T02:00:46.000Z",
+          "wordCount": 2832,
+          "title": "Saints' Young to debut, Kamara questionable",
+          "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1016%2Fr1401102_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46552852",
+          "author": "Jordan Raanan",
+          "description": "The NFL and NFLPA are reviewing the concussion protocol used in the evaluation of New York Giants rookie quarterback Jaxson Dart during Thursday night's game against the Philadelphia Eagles.",
+          "link": "https://www.espn.com/nfl/story/_/id/46552852/nfl-nflpa-reviewing-giants-concussion-protocol-qb-jaxson-dart",
+          "publishedOn": "2025-10-11T02:00:46.000Z",
+          "wordCount": 3431,
+          "title": "Concussion protocol for Giants' Dart under review",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0926%2Fr1551374_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46554845",
+          "author": "Todd Archer",
+          "description": "Cowboys running back Miles Sanders needs season-ending surgery on his left knee, executive vice president Stephen Jones said on 105.3 The Fan in Dallas on Friday.",
+          "link": "https://www.espn.com/nfl/story/_/id/46554845/cowboys-rb-miles-sanders-season-ending-surgery-knee",
+          "publishedOn": "2025-10-11T02:00:46.000Z",
+          "wordCount": 2690,
+          "title": "Cowboys' Sanders to have season-ending surgery",
+          "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1010%2Fr1558425_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46555700",
+          "author": "Kalan Hooks",
+          "description": "The Denver Broncos quarterback announced the news in a shared Instagram post with his wife, Izzy Nix.",
+          "link": "https://www.espn.com/nfl/story/_/id/46555700/bo-nix-denver-broncos-izzy-nix-first-child-pregnancy-announcement",
+          "publishedOn": "2025-10-11T02:00:46.000Z",
+          "wordCount": 2578,
+          "title": "🍼 Bo Nix and wife Izzy announce pregnancy",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0902%2Fr1540237_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46512801",
+          "author": "Eric Woodyard",
+          "description": "Hutchinson's long journey back from a broken leg found inspiration from children whom he has inspired, too.",
+          "link": "https://www.espn.com/nfl/story/_/id/46512801/detroit-lions-aidan-hutchinson-motivation-injury-hutch-heroes",
+          "publishedOn": "2025-10-11T00:31:09.000Z",
+          "wordCount": 5451,
+          "title": "Pain, rehab and unlikely inspiration: Inside Aidan Hutchinson's return to dominance",
+          "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1007%2Faidan_huth_16x9.jpg"
+        },
+        {
+          "id": "US-EN-46542454",
+          "author": "Sarah Barshop",
+          "description": "This season, Karty has missed five kicks. Four of the kicks have been blocked, the most for any kicker in the league.",
+          "link": "https://www.espn.com/nfl/story/_/id/46542454/los-angeles-rams-joshua-karty-missed-kicks-pressure-on",
+          "publishedOn": "2025-10-10T22:42:10.000Z",
+          "wordCount": 3159,
+          "title": "After several missed kicks, the pressure is on Rams kicking unit",
+          "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1009%2Fr1557880_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46542367",
+          "author": "Turron Davenport",
+          "description": "After Ward's performance, defensive tackle Jeffery Simmons told him that's why they started him No. 1.",
+          "link": "https://www.espn.com/nfl/story/_/id/46542367/tennessee-titans-cam-ward-respect-veterans-jeffery-simmons",
+          "publishedOn": "2025-10-10T22:42:09.000Z",
+          "wordCount": 3313,
+          "title": "After improbable comeback, Cam Ward's 'poise' is why Titans are confident about his future",
+          "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1010%2Fr1558120_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46523058",
+          "author": "NFL Nation, Eric Moody and Seth Walder",
+          "description": "Here's everything you need to know for Week 6 NFL games. Which teams will win, who are the X factors, and which storylines matter most?",
+          "link": "https://www.espn.com/nfl/story/_/id/46523058/nfl-week-6-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+          "publishedOn": "2025-10-10T21:08:27.000Z",
+          "wordCount": 9429,
+          "title": "What you absolutely need to know for every NFL game in Week 6 -- including final score predictions",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1010%2Fr1558043_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46541992",
+          "author": "Jordan Raanan and Tim McManus",
+          "description": "The Giants started fast, fell behind, then dominated the second half to take down their hated division rivals.",
+          "link": "https://www.espn.com/nfl/story/_/id/46541992/new-york-giants-defeat-philadelphia-eagles-week-6-jaxson-dart-cam-skattebo",
+          "publishedOn": "2025-10-10T21:07:53.000Z",
+          "wordCount": 3239,
+          "title": "Giants turn tables on Eagles with complete home victory",
+          "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1010%2Fr1558161_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46438573",
+          "author": "Ben Solak",
+          "description": "Bates is an elite talent in the Falcons' defense, but his real edge on the field might come from two tablets and five years of detailed notes.",
+          "link": "https://www.espn.com/nfl/story/_/id/46438573/nfl-atlanta-falcons-safety-jessie-bates-iii-film-breakdown-notetaking-2025",
+          "publishedOn": "2025-10-10T18:45:32.000Z",
+          "wordCount": 5373,
+          "title": "Watching game tape with Jessie Bates III: How the Falcons' star safety gains an advantage on opponents",
+          "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1009%2Fr1557936_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46532308",
+          "author": "Ben Baby and Brooke Pryor and Jamison Hensley and Daniel Oyefusi",
+          "description": "It's a bizarre time in the division with Aaron Rodgers the only starting QB who began 2025 in that capacity for the same team.",
+          "link": "https://www.espn.com/nfl/story/_/id/46532308/quarterbacks-afc-north-aaron-rodgers-joe-flacco-dillon-gabriel-cooper-rush-lamar-jackson",
+          "publishedOn": "2025-10-10T16:42:14.000Z",
+          "wordCount": 4187,
+          "title": "The AFC North QB landscape is not what it was to start the season: What's going on?",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1009%2F251010_nfl_qb%2Droundtable_16x9.jpg"
+        },
+        {
+          "id": "US-EN-46532548",
+          "author": "Jordan Reid",
+          "description": "Who are the best quarterbacks in the 2026 class? We ranked the top 14 who could get picked -- including a few playing against each other this week.",
+          "link": "https://www.espn.com/nfl/draft2026/story/_/id/46532548/2026-nfl-draft-ranking-top-quarterbacks-hot-board-team-fits-strengths-weaknesses",
+          "publishedOn": "2025-10-10T14:52:21.000Z",
+          "wordCount": 7263,
+          "title": "Reid's debut NFL draft QB Hot Board: Strengths and weaknesses for the top 14 passers",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1008%2Fncf_qb_hot_board_16x9.jpg"
+        },
+        {
+          "id": "US-EN-46465115",
+          "author": "Eric Karabell",
+          "description": "Week 6 storylines include a pair of impressive rookies, and is the Mayfield/Egbuka connection sustainable?",
+          "link": "https://www.espn.com/fantasy/football/story/_/id/46465115/nfl-fantasy-football-rankings-predictions-surprises-week-6",
+          "publishedOn": "2025-10-10T14:34:31.000Z",
+          "wordCount": 4108,
+          "title": "Don't be surprised if... McMillan finds end zone, Judkins finishes top 3 in rushing",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1009%2Fr1557988_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46540856",
+          "author": "Matt Bowen",
+          "description": "If bye weeks or injuries have you seeking lineup help, we have available options for you to consider.",
+          "link": "https://www.espn.com/fantasy/football/story/_/id/46540856/fantasy-football-streaming-last-minute-pickups-week-6-free-agents",
+          "publishedOn": "2025-10-10T14:34:31.000Z",
+          "wordCount": 3723,
+          "title": "Last-minute pickups: Keep an eye on Mac Jones, don't overlook Romeo Doubs",
+          "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1009%2Fr1557894_1296x729_16%2D9.jpg"
+        },
         {
           "id": "US-EN-46541808",
           "author": "Jordan Raanan and Tim McManus",
