@@ -2,10 +2,488 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dikembe3000.github.io/Fantasy_Football_AI/index.html</id>
     <title>FF Aggregator</title>
-    <updated>2025-10-11T01:15:55.992Z</updated>
+    <updated>2025-10-12T01:22:26.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dikembe3000.github.io/Fantasy_Football_AI/index.html"/>
     <link rel="self" href="https://dikembe3000.github.io/Fantasy_Football_AI/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sources eye bevy of NFL trades before deadline]]></title>
+        <id>US-EN-46556471</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46556471/sources-expect-active-nfl-trade-market-ahead-deadline"/>
+        <updated>2025-10-12T01:25:39.000Z</updated>
+        <summary type="html"><![CDATA[Sources expect more trade activity ahead of this year's NFL trade deadline.]]></summary>
+        <author>
+            <name>Adam Schefter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falcons rule WR Mooney out vs. Bills on Monday]]></title>
+        <id>US-EN-46563038</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46563038/falcons-rule-wr-darnell-mooney-hamstring-vs-bills"/>
+        <updated>2025-10-12T01:25:39.000Z</updated>
+        <summary type="html"><![CDATA[Falcons No. 2 wide receiver Darnell Mooney has been ruled out for "Monday Night Football" against the Bills because of a hamstring injury.]]></summary>
+        <author>
+            <name>Marc Raimondi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commanders rule out receivers McLaurin, Brown]]></title>
+        <id>US-EN-46562230</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46562230/commanders-rule-receivers-mclaurin-brown-vs-bears"/>
+        <updated>2025-10-12T01:25:39.000Z</updated>
+        <summary type="html"><![CDATA[Commanders coach Dan Quinn has ruled out wide receivers Terry McLaurin (quad) and Noah Brown (groin/knee) for Monday's game against the Bears, while Deebo Samuel (heel) is uncertain to play.]]></summary>
+        <author>
+            <name>John Keim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bills' Hamlin, Sanders to IR, Milano out for MNF]]></title>
+        <id>US-EN-46562241</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46562241/bills-place-hamlin-sanders-ir-rule-milano-mnf"/>
+        <updated>2025-10-12T01:25:39.000Z</updated>
+        <summary type="html"><![CDATA[The Bills placed S Damar Hamlin and DT T.J. Sanders on injured reserve and ruled LB Matt Milano out for Monday night's matchup against the Falcons, coach Sean McDermott announced Saturday.]]></summary>
+        <author>
+            <name>Alaina Getzenberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bears to start Benedet over Jones at left tackle]]></title>
+        <id>US-EN-46562551</id>
+        <link href="https://www.espn.com/college-football/story/_/id/46562551/bears-start-lt-theo-benedet-braxton-jones-vs-commanders"/>
+        <updated>2025-10-12T01:25:39.000Z</updated>
+        <summary type="html"><![CDATA[The Bears will debut a new left tackle Sunday against the Commanders, starting Theo Benedet in place of Braxton Jones, coach Ben Johnson announced on Saturday.]]></summary>
+        <author>
+            <name>Courtney Cronin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predictions, fantasy sleepers, trends for Week 6: Keep an eye on Sam Darnold?]]></title>
+        <id>US-EN-46521299</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46521299/2025-nfl-week-6-predictions-fantasy-sleepers-upsets-bets-stats-matchups"/>
+        <updated>2025-10-12T00:20:16.000Z</updated>
+        <summary type="html"><![CDATA[Could Darnold be a fantasy sleeper? Can K.C.'s defense stop Detroit's play-action? Here's last-minute intel.]]></summary>
+        <author>
+            <name>Matt Bowen, Pamela Maldonado, Eric Moody and Seth Walder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alvin Kamara is expected to play on Sunday]]></title>
+        <id>13e49869-3f0a-3bd8-8be1-468b8de3bb39</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alvin-kamara-is-expected-to-play-on-sunday"/>
+        <updated>2025-10-11T21:51:01.000Z</updated>
+        <summary type="html"><![CDATA[When Saints running back Alvin Kamara injured his ankle at practice on Wednesday, head coach Kellen Moore said he was not concerned about Kamara's availability but the rest of the week left some uncertainty about his status against the Patriots.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alvin Kamara: In line to play Sunday]]></title>
+        <id>nfl610310</id>
+        <link href="https://www.rotowire.com//football/player/alvin-kamara-11732"/>
+        <updated>2025-10-11T21:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Kamara (ankle), who is listed as questionable for Sunday's game against the Patriots, is expected to play, Adam Schefter of ESPN reports.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leonard Williams fined $46,371 for head butting Cade Otton]]></title>
+        <id>9b54d356-e7e2-3874-935c-4be3158c9570</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/leonard-williams-fined-46-371-for-head-butting-cade-otton"/>
+        <updated>2025-10-11T21:32:04.000Z</updated>
+        <summary type="html"><![CDATA[Seahawks defensive lineman Leonard Williams picked up one of the biggest fines of this NFL season for a hit with his helmet after the play was over on Sunday.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week 6 betting guide: Bengals-Packers points to high scoring, overs on player props]]></title>
+        <id>US-EN-46544223</id>
+        <link href="https://www.espn.com/espn/betting/story/_/id/46544223/week-6-nfl-odds-spreads-lines-props-best-bets-sunday-football-games"/>
+        <updated>2025-10-11T21:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Our experts dive into the lines and player props that offer value for Week 6 and share their tips and bets.]]></summary>
+        <author>
+            <name>Matt Bowen and Seth Walder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lions rule Taylor Decker, Avonte Maddox out for Sunday]]></title>
+        <id>602f1298-b63d-3194-bf6c-afec46061c34</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-rule-taylor-decker-avonte-maddox-out-for-sunday"/>
+        <updated>2025-10-11T21:22:13.000Z</updated>
+        <summary type="html"><![CDATA[The Lions won't have left tackle Taylor Decker or cornerback Avonte Maddox for Sunday's game against the Chiefs.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bears to start Theo Benedet at left tackle on Monday night]]></title>
+        <id>424b8141-e489-36b7-ae22-a5b1ff2b68ec</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-to-start-theo-benedet-at-left-tackle-on-monday-night"/>
+        <updated>2025-10-11T21:13:01.000Z</updated>
+        <summary type="html"><![CDATA[Bears head coach Ben Johnson announced on Saturday that the team will be going with a new starter at left tackle against the Commanders on Monday night.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LB T.J. Edwards, DB Kyler Gordon set to play for Bears on Monday night]]></title>
+        <id>9ec0540b-8fd4-3c49-86c5-817c46780434</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lb-t-j-edwards-db-kyler-gordon-set-to-play-for-bears-on-monday-night"/>
+        <updated>2025-10-11T21:01:53.000Z</updated>
+        <summary type="html"><![CDATA[The Bears will have a pair of defensive players back in the lineup for Monday night's game against the Commanders.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[49ers activate S Malik Mustapha from PUP list]]></title>
+        <id>23c08b67-2d13-3dfa-99e0-b60aece2d0bc</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-activate-s-malik-mustapha-from-pup-list"/>
+        <updated>2025-10-11T20:52:39.000Z</updated>
+        <summary type="html"><![CDATA[The 49ers will have safety Malik Mustapha available for the first time this season on Sunday.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardinals sign QB Kedon Slovis to 53-man roster]]></title>
+        <id>41b5ecb7-6b18-3e3b-8972-486810d481e0</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-sign-qb-kedon-slovis-to-53-man-roster"/>
+        <updated>2025-10-11T20:43:50.000Z</updated>
+        <summary type="html"><![CDATA[Kyler Murray is listed as questionable to play against the Colts on Sunday, so the Cardinals added another quarterback to the roster on Saturday.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raiders&#39; Tristin McCollum fined $5,722 for hit that ended Colts&#39; Spencer Shrader&#39;s season]]></title>
+        <id>fb7f4f19-e02a-3863-9632-2721cc0687e6</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-tristin-mccollum-fined-5-722-for-hit-that-ended-colts-spencer-shraders-season"/>
+        <updated>2025-10-11T20:43:02.000Z</updated>
+        <summary type="html"><![CDATA[Colts kicker Spencer Shrader suffered season-ending ACL and MCL injuries when Raiders safety Tristin McCollum hit his kicking leg on an extra point on Sunday.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jalen Coker: Won't return Week 6]]></title>
+        <id>nfl610306</id>
+        <link href="https://www.rotowire.com//football/player/jalen-coker-17976"/>
+        <updated>2025-10-11T20:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Coker (quadriceps) has been ruled out for Sunday's game against the Cowboys, Darin Gantt of the Panthers' official site reports.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With Brandon McManus questionable, Packers sign K Lucas Havrisik]]></title>
+        <id>60307fb8-2654-3aa8-bfc8-075510a1a489</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-brandon-mcmanus-questionable-packers-sign-k-lucas-havrisik"/>
+        <updated>2025-10-11T20:23:39.000Z</updated>
+        <summary type="html"><![CDATA[The Packers may have a new kicker on Sunday against the Bengals.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WR Darnell Mooney (hamstring) is out for Monday night&#39;s Bills-Falcons game]]></title>
+        <id>8d071ef4-5c81-377c-8abc-a828ba9111b3</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wr-darnell-mooney-hamstring-is-out-for-monday-nights-bills-falcons-game"/>
+        <updated>2025-10-11T19:47:24.000Z</updated>
+        <summary type="html"><![CDATA[When the 2-2 Falcons host the 4-1 Bills on Monday night, the home team will be missing one of its starting wideouts.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dalton Kincaid: Questionable for MNF]]></title>
+        <id>nfl610298</id>
+        <link href="https://www.rotowire.com//football/player/dalton-kincaid-16697"/>
+        <updated>2025-10-11T18:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Kincaid (oblique) is listed as questionable for Monday's game in Atlanta.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jared Goff has MVP-caliber numbers, so far]]></title>
+        <id>90c5f835-c692-38d6-ab86-a89ddd785ed6</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jared-goff-has-mvp-caliber-numbers-so-far"/>
+        <updated>2025-10-11T18:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Goff's odds are much lower than they should be.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Darnell Mooney: Ruled out to face Bills]]></title>
+        <id>nfl610296</id>
+        <link href="https://www.rotowire.com//football/player/darnell-mooney-14510"/>
+        <updated>2025-10-11T18:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Mooney (hamstring) is ruled out for Monday's game against Buffalo, D. Orlando Ledbetter of The Atlanta Journal-Constitution reports.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Darnell Mooney Out vs. Bills]]></title>
+        <id>https://www.draftsharks.com/shark-bites/79610/darnell-mooney-out-vs-bills</id>
+        <link href="https://www.draftsharks.com/shark-bites/79610/darnell-mooney-out-vs-bills"/>
+        <updated>2025-10-11T18:02:08.000Z</updated>
+        <summary type="html"><![CDATA[The Falcons have ruled WR Darnell Mooney out for Monday night's game against the Bills because of a hamstring injury. It'll be the first game Mooney has]]></summary>
+        <author>
+            <name>Kevin English</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jets rookie RT Armand Membou has a bright future ahead of him]]></title>
+        <id>f34bc119-a412-3e6b-9166-ec2fe4c7400c</id>
+        <link href="https://sny.tv/articles/jets-rookie-armand-membou-has-bright-future-ahead-of-him"/>
+        <updated>2025-10-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Five games into his NFL career, Jets rookie tackle Armand Membou has already made a big impression on fans, the media and his coaches and teammate.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Roob&#39;s Eagles Stats: Some crazy Dallas Goedert numbers amidst the misery]]></title>
+        <id>4271f9e7-fdda-38c0-9d7b-6a8020f4c46b</id>
+        <link href="https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/roobs-stats-dallas-goedert-jalen-hurts-week-6-giants/689244/?partner=yahoo"/>
+        <updated>2025-10-11T17:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Dallas Goedert shined in Week 6 despite a brutal Eagles loss to the Giants. We have more in Roob's Eagles Stats going into the mini bye.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe Flacco can become only the second QB to beat a team twice with two different teams]]></title>
+        <id>93c3392d-7ae4-3726-8261-0b73567476b5</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-flacco-can-become-only-the-second-qb-to-beat-a-team-twice-with-two-different-teams"/>
+        <updated>2025-10-11T17:03:55.000Z</updated>
+        <summary type="html"><![CDATA[In Cleveland, Joe Flacco went from being the Comeback Player of the Year in 2023 to being the Don't Come Back Player of the Year in 2024 to the Come Back For A While And Now Please Go Player of the Year in 2025.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commanders WRs Terry McLaurin and Noah Brown out, Deebo Samuel a game-time decision]]></title>
+        <id>bb38082d-99fa-3391-aebf-7440c796b994</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-wrs-terry-mclaurin-and-noah-brown-out-deebo-samuel-a-game-time-decision"/>
+        <updated>2025-10-11T17:01:44.000Z</updated>
+        <summary type="html"><![CDATA[The Commanders will be short-handed on Monday night against the Bears.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cowboys match great offense with not-great defense]]></title>
+        <id>003bdd8e-fcdd-36b8-b99b-4473b45acfb0</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-match-great-offense-with-not-great-defense"/>
+        <updated>2025-10-11T16:40:32.000Z</updated>
+        <summary type="html"><![CDATA[The Cowboys, at 2-2-1, have themselves in position to potentially stack some wins and contend in the NFC East, especially with the Eagles suddenly struggling.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chargers vs. Dolphins: How to watch, start time and prediction]]></title>
+        <id>9a49a7e5-cdaa-3c1f-a45a-216832f50871</id>
+        <link href="https://sports.yahoo.com/article/chargers-vs-dolphins-watch-start-163450574.html"/>
+        <updated>2025-10-11T16:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Everything you need to know about the Chargers vs. Miami Dolphins in NFL Week 6, including how to watch, betting odds and a prediction on who will win.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bills&#39; TJ Sanders and Damar Hamlin on injured reserve, Matt Milano out Monday]]></title>
+        <id>cec180eb-6d81-3040-ac11-21be61bc949e</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-tj-sanders-and-damar-hamlin-on-injured-reserve-matt-milano-out-monday"/>
+        <updated>2025-10-11T16:21:22.000Z</updated>
+        <summary type="html"><![CDATA[The Bills' defense will be without three players on Monday night against the Falcons, and two of them will be out for longer than that.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jalen Ramsey upgraded, now set to play vs. Browns]]></title>
+        <id>cf7bd190-7158-3f7c-9a20-acd2b73a26a8</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-ramsey-upgraded-now-set-to-play-vs-browns"/>
+        <updated>2025-10-11T15:56:54.000Z</updated>
+        <summary type="html"><![CDATA[The Steelers will officially have one of their key defensive players for Sunday's game against the Browns.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broncos vs. Jets in London: How to watch the NFL international game this Sunday]]></title>
+        <id>b3deb4e0-0721-47e7-a119-4bf3c1ccf351</id>
+        <link href="https://sports.yahoo.com/nfl/article/broncos-vs-jets-in-london-how-to-watch-the-nfl-international-game-this-sunday-154509614.html"/>
+        <updated>2025-10-11T15:45:09.000Z</updated>
+        <summary type="html"><![CDATA[The Broncos and Jets face off this weekend in London. Here's what to know and how to tune in to the international NFL game.]]></summary>
+        <author>
+            <name>Danica Creahan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week 6 Big Shield giveaway]]></title>
+        <id>7c7e47d0-233a-3e34-bb77-cb87f8b8de2c</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/week-6-big-shield-giveaway"/>
+        <updated>2025-10-11T14:57:25.000Z</updated>
+        <summary type="html"><![CDATA[It's been a big two months (almost) for Big Shield.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Man, he loves football. You can feel it': How Deebo became an instant hit in D.C.]]></title>
+        <id>US-EN-46555927</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46555927/deebo-samuel-instant-hit-washington-commanders"/>
+        <updated>2025-10-11T14:29:03.000Z</updated>
+        <summary type="html"><![CDATA[Samuel has made an instant impact in Washington since joining from San Francisco.]]></summary>
+        <author>
+            <name>John Keim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move Breece Hall? Quinnen Williams? Could Jets be movers at trade deadline?]]></title>
+        <id>US-EN-46546834</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46546834/new-york-jets-sellers-trade-deadline-quinnen-williams-breece-hall"/>
+        <updated>2025-10-11T14:29:03.000Z</updated>
+        <summary type="html"><![CDATA[After an 0-5 start, New York might be thinking about the future ahead of the Nov. 4 trade deadline.]]></summary>
+        <author>
+            <name>Rich Cimini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Basically playing for pizza': Remembering Sean Payton's six-month run as the QB of the Leicester Panthers]]></title>
+        <id>US-EN-46545070</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46545070/broncos-coach-sean-payton-football-player-england-leicester-panthers"/>
+        <updated>2025-10-11T14:25:06.000Z</updated>
+        <summary type="html"><![CDATA[Before he became a Super Bowl-winning coach, Payton played quarterback on an English team alongside bouncers and construction workers.]]></summary>
+        <author>
+            <name>Jeff Legwold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[49ers activate two key defensive players for Week 6 road game vs. Buccaneers]]></title>
+        <id>01861e05-3bb4-324d-a45c-9be0e81e5d68</id>
+        <link href="https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/malik-mustapha-buccaneers/1880683/?partner=yahoo"/>
+        <updated>2025-10-11T13:44:34.000Z</updated>
+        <summary type="html"><![CDATA[The San Francisco 49ers activated two key defensive players for their Week 6 road game against the Tampa Bay Buccaneers on Sunday.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C Josh Myers breaks down what&#39;s involved in getting Jets’ offensive line on the same page]]></title>
+        <id>5facb58b-717b-3b39-be08-67f1b5396f88</id>
+        <link href="https://sny.tv/articles/what-s-involved-getting-jets-offensive-line-on-the-same-page"/>
+        <updated>2025-10-11T13:40:12.000Z</updated>
+        <summary type="html"><![CDATA[A constant theme from Aaron Glenn’s comments over the past few days has been that the coaches are trying to get everyone “speaking the same language." On the offensive line, this is a familiar battle.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jets&#39; defense had players-only meeting]]></title>
+        <id>6779e201-063d-3801-86c4-f485c39b45d5</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-defense-had-players-only-meeting"/>
+        <updated>2025-10-11T13:31:50.000Z</updated>
+        <summary type="html"><![CDATA[The Jets are the first NFL team since turnovers were first tracked in 1933 to start the season by going five games without forcing one.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seahawks to Miss Julian Love, Two Other DB Starters]]></title>
+        <id>https://www.draftsharks.com/shark-bites/79609/seahawks-to-miss-julian-love-two-other-db-starters</id>
+        <link href="https://www.draftsharks.com/shark-bites/79609/seahawks-to-miss-julian-love-two-other-db-starters"/>
+        <updated>2025-10-11T12:50:18.000Z</updated>
+        <summary type="html"><![CDATA[The Seahawks have ruled S Julian Love, CB Devon Witherspoon, and CB Riq Woolen doubtful for Sunday's game against the Jaguars. That almost certainly mea]]></summary>
+        <author>
+            <name>Kevin English</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the 2025 NFL season has seen a historic number of last-minute drives]]></title>
+        <id>US-EN-46554443</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46554443/historic-nfl-comebacks-week-5-buccaneers"/>
+        <updated>2025-10-11T12:24:52.000Z</updated>
+        <summary type="html"><![CDATA[The 17 games that featured a go-ahead score in the final minute of regulation are the most through five weeks of a season since the merger.]]></summary>
+        <author>
+            <name>Jenna Laine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At Pittsburgh on Sunday, history won&#39;t be on Dillon Gabriel&#39;s side]]></title>
+        <id>49474def-5872-3eed-a9ae-06a105f20b94</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/at-pittsburgh-on-sunday-history-wont-be-on-dillon-gabriels-side"/>
+        <updated>2025-10-11T11:32:39.000Z</updated>
+        <summary type="html"><![CDATA[On Sunday at Pittsburgh, Browns rookie quarterback Dillon Gabriel will make his second career start.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rams vs. Ravens: How to watch, prediction and betting odds]]></title>
+        <id>6e6ae3cd-5a52-34dd-b13a-7cccbad0c1fc</id>
+        <link href="https://sports.yahoo.com/article/rams-vs-ravens-watch-prediction-113000532.html"/>
+        <updated>2025-10-11T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Everything you need to know about the Rams vs. the Baltimore Ravens in Week 6 of the NFL season, including how to watch, betting odds and a prediction.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rams&#39; Kyren Williams won&#39;t let costly fumble discourage him on or off the field]]></title>
+        <id>d04c1b8f-ba15-3e7c-a23d-461e00d7b32a</id>
+        <link href="https://sports.yahoo.com/article/rams-kyren-williams-wont-let-113000575.html"/>
+        <updated>2025-10-11T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Rams running back Kyren Williams says his goal-line fumble against the 49ers served as a learning experience, and he won't let it define him as a player.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ravens expect Alohi Gilman to contribute on Sunday, five days after arriving in a trade]]></title>
+        <id>65215bf1-61de-3d91-b887-306311f365f9</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-expect-alohi-gilman-to-contribute-on-sunday-five-days-after-arriving-in-a-trade"/>
+        <updated>2025-10-11T11:28:33.000Z</updated>
+        <summary type="html"><![CDATA[On Tuesday, the Ravens traded for safety Alohi Gilman.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chargers and Rams face pivotal games as they try to energize their respective seasons]]></title>
+        <id>8821a760-0a47-3b6d-9812-43a0723f055f</id>
+        <link href="https://sports.yahoo.com/article/chargers-rams-face-pivotal-games-110000612.html"/>
+        <updated>2025-10-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Chargers and Rams head into Week 6 of the NFL season looking to get their respective seasons back on track against struggle opponents.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eagles snap counts: Splitting up Jalen Carter&#39;s snaps vs. Giants]]></title>
+        <id>d0955bda-cc61-3b1e-977f-9228b9f8e2ca</id>
+        <link href="https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/eagles-snap-counts-splitting-up-jalen-carters-snaps-vs-giants/689191/?partner=yahoo"/>
+        <updated>2025-10-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's a complete look at Eagles' snap counts from their 34-17 loss to the Giants.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lamar ruled out; Ravens to roll with Rush again]]></title>
         <id>US-EN-46554698</id>
@@ -7640,46 +8118,6 @@
         <link href="https://www.draftsharks.com/shark-bites/78966/noah-brown-suffers-groin-injury"/>
         <updated>2025-09-12T14:50:00.000Z</updated>
         <summary type="html"><![CDATA[Commanders WR Noah Brown was knocked out of Thursday night's game vs. the Packers with a groin injury. He was primarily replaced by rookie Jaylin Lane,]]></summary>
-        <author>
-            <name>Kevin English</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jayden Reed Has Broken Collarbone]]></title>
-        <id>https://www.draftsharks.com/shark-bites/78960/jayden-reed-has-broken-collarbone</id>
-        <link href="https://www.draftsharks.com/shark-bites/78960/jayden-reed-has-broken-collarbone"/>
-        <updated>2025-09-12T11:36:03.000Z</updated>
-        <summary type="html"><![CDATA[Packers WR Jayden Reed broke his collarbone in Thursday night's win over the Commanders, HC Matt LaFleur said. The "hope" is that Reed will be back in 6]]></summary>
-        <author>
-            <name>Kevin English</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jayden Reed Hurts Right shoulder]]></title>
-        <id>https://www.draftsharks.com/shark-bites/78959/jayden-reed-hurts-right-shoulder</id>
-        <link href="https://www.draftsharks.com/shark-bites/78959/jayden-reed-hurts-right-shoulder"/>
-        <updated>2025-09-12T01:14:27.000Z</updated>
-        <summary type="html"><![CDATA[Packers WR Jayden Reed is officially questionable to return to Thursday night's game vs. the Commanders with a right shoulder injury. Reed made an impre]]></summary>
-        <author>
-            <name>Kevin English</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blake Cashman to Miss at Least Four Games]]></title>
-        <id>https://www.draftsharks.com/shark-bites/78962/blake-cashman-to-miss-at-least-four-games</id>
-        <link href="https://www.draftsharks.com/shark-bites/78962/blake-cashman-to-miss-at-least-four-games"/>
-        <updated>2025-09-11T18:50:47.000Z</updated>
-        <summary type="html"><![CDATA[The Vikings are placing LB Blake Cashman on IR for the hamstring injury that knocked him out of Monday night's game. That means he'll miss at least the]]></summary>
-        <author>
-            <name>Kevin English</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Godwin Headed Back to the Field]]></title>
-        <id>https://www.draftsharks.com/shark-bites/78944/chris-godwin-headed-back-to-the-field</id>
-        <link href="https://www.draftsharks.com/shark-bites/78944/chris-godwin-headed-back-to-the-field"/>
-        <updated>2025-09-11T15:04:00.000Z</updated>
-        <summary type="html"><![CDATA[NFL Network's Ian Rapoport reports that Buccaneers WR Chris Godwin is expected to practice today for the first time since last year's ankle injury, whic]]></summary>
         <author>
             <name>Kevin English</name>
         </author>

@@ -6,6 +6,46 @@
       "siteUrl": "https://www.rotowire.com",
       "articles": [
         {
+          "id": "nfl610310",
+          "author": null,
+          "description": "Kamara (ankle), who is listed as questionable for Sunday's game against the Patriots, is expected to play, Adam Schefter of ESPN reports.\n\n        Visit RotoWire.com for more analysis on this update.",
+          "link": "https://www.rotowire.com//football/player/alvin-kamara-11732",
+          "publishedOn": "2025-10-11T21:41:00.000Z",
+          "wordCount": 47624,
+          "title": "Alvin Kamara: In line to play Sunday",
+          "imageUrl": null
+        },
+        {
+          "id": "nfl610306",
+          "author": null,
+          "description": "Coker (quadriceps) has been ruled out for Sunday's game against the Cowboys, Darin Gantt of the Panthers' official site reports.\n\n        Visit RotoWire.com for more analysis on this update.",
+          "link": "https://www.rotowire.com//football/player/jalen-coker-17976",
+          "publishedOn": "2025-10-11T20:32:00.000Z",
+          "wordCount": 29508,
+          "title": "Jalen Coker: Won't return Week 6",
+          "imageUrl": null
+        },
+        {
+          "id": "nfl610298",
+          "author": null,
+          "description": "Kincaid (oblique) is listed as questionable for Monday's game in Atlanta.\n\n        Visit RotoWire.com for more analysis on this update.",
+          "link": "https://www.rotowire.com//football/player/dalton-kincaid-16697",
+          "publishedOn": "2025-10-11T18:48:00.000Z",
+          "wordCount": 32328,
+          "title": "Dalton Kincaid: Questionable for MNF",
+          "imageUrl": null
+        },
+        {
+          "id": "nfl610296",
+          "author": null,
+          "description": "Mooney (hamstring) is ruled out for Monday's game against Buffalo, D. Orlando Ledbetter of The Atlanta Journal-Constitution reports.\n\n        Visit RotoWire.com for more analysis on this update.",
+          "link": "https://www.rotowire.com//football/player/darnell-mooney-14510",
+          "publishedOn": "2025-10-11T18:07:00.000Z",
+          "wordCount": 39887,
+          "title": "Darnell Mooney: Ruled out to face Bills",
+          "imageUrl": null
+        },
+        {
           "id": "nfl609984",
           "author": null,
           "description": "Johnston (hamstring) remained limited at practice Thursday.\n\n        Visit RotoWire.com for more analysis on this update.",
@@ -402,6 +442,26 @@
       "feedUrl": "https://www.draftsharks.com/rss/injury-news",
       "siteUrl": "https://www.draftsharks.com",
       "articles": [
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79610/darnell-mooney-out-vs-bills",
+          "author": "Kevin English",
+          "description": "The Falcons have ruled WR Darnell Mooney out for Monday night's game against the Bills because of a hamstring injury. It'll be the first game Mooney has",
+          "link": "https://www.draftsharks.com/shark-bites/79610/darnell-mooney-out-vs-bills",
+          "publishedOn": "2025-10-11T18:02:08.000Z",
+          "wordCount": 9330,
+          "title": "Darnell Mooney Out vs. Bills",
+          "imageUrl": "https://www.draftsharks.com/player-images/59dbc606-66d8-447b-c9c8-7b8bb5ca5400/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79609/seahawks-to-miss-julian-love-two-other-db-starters",
+          "author": "Kevin English",
+          "description": "The Seahawks have ruled S Julian Love, CB Devon Witherspoon, and CB Riq Woolen doubtful for Sunday's game against the Jaguars. That almost certainly mea",
+          "link": "https://www.draftsharks.com/shark-bites/79609/seahawks-to-miss-julian-love-two-other-db-starters",
+          "publishedOn": "2025-10-11T12:50:18.000Z",
+          "wordCount": 9619,
+          "title": "Seahawks to Miss Julian Love, Two Other DB Starters",
+          "imageUrl": "https://www.draftsharks.com/player-images/ccbb57d3-ea5d-4538-abfa-20d2efe14800/1200x675.avif"
+        },
         {
           "id": "https://www.draftsharks.com/shark-bites/79605/chase-young-finally-ready-to-play",
           "author": "Kevin English",
@@ -891,46 +951,6 @@
           "wordCount": 9239,
           "title": "Noah Brown Suffers Groin Injury",
           "imageUrl": "https://www.draftsharks.com/player-images/aeed6e5c-2bcf-4b22-2af0-83143eb1f400/1200x675.avif"
-        },
-        {
-          "id": "https://www.draftsharks.com/shark-bites/78960/jayden-reed-has-broken-collarbone",
-          "author": "Kevin English",
-          "description": "Packers WR Jayden Reed broke his collarbone in Thursday night's win over the Commanders, HC Matt LaFleur said. The \"hope\" is that Reed will be back in 6",
-          "link": "https://www.draftsharks.com/shark-bites/78960/jayden-reed-has-broken-collarbone",
-          "publishedOn": "2025-09-12T11:36:03.000Z",
-          "wordCount": 9463,
-          "title": "Jayden Reed Has Broken Collarbone",
-          "imageUrl": "https://www.draftsharks.com/player-images/f17e7604-8787-4db1-e59f-74fddd5e4000/1200x675.avif"
-        },
-        {
-          "id": "https://www.draftsharks.com/shark-bites/78959/jayden-reed-hurts-right-shoulder",
-          "author": "Kevin English",
-          "description": "Packers WR Jayden Reed is officially questionable to return to Thursday night's game vs. the Commanders with a right shoulder injury. Reed made an impre",
-          "link": "https://www.draftsharks.com/shark-bites/78959/jayden-reed-hurts-right-shoulder",
-          "publishedOn": "2025-09-12T01:14:27.000Z",
-          "wordCount": 9275,
-          "title": "Jayden Reed Hurts Right shoulder",
-          "imageUrl": "https://www.draftsharks.com/player-images/f17e7604-8787-4db1-e59f-74fddd5e4000/1200x675.avif"
-        },
-        {
-          "id": "https://www.draftsharks.com/shark-bites/78962/blake-cashman-to-miss-at-least-four-games",
-          "author": "Kevin English",
-          "description": "The Vikings are placing LB Blake Cashman on IR for the hamstring injury that knocked him out of Monday night's game. That means he'll miss at least the",
-          "link": "https://www.draftsharks.com/shark-bites/78962/blake-cashman-to-miss-at-least-four-games",
-          "publishedOn": "2025-09-11T18:50:47.000Z",
-          "wordCount": 9505,
-          "title": "Blake Cashman to Miss at Least Four Games",
-          "imageUrl": "https://www.draftsharks.com/player-images/62938d73-2316-47f8-f869-099d3295fb00/1200x675.avif"
-        },
-        {
-          "id": "https://www.draftsharks.com/shark-bites/78944/chris-godwin-headed-back-to-the-field",
-          "author": "Kevin English",
-          "description": "NFL Network's Ian Rapoport reports that Buccaneers WR Chris Godwin is expected to practice today for the first time since last year's ankle injury, whic",
-          "link": "https://www.draftsharks.com/shark-bites/78944/chris-godwin-headed-back-to-the-field",
-          "publishedOn": "2025-09-11T15:04:00.000Z",
-          "wordCount": 9588,
-          "title": "Chris Godwin Headed Back to the Field",
-          "imageUrl": "https://www.draftsharks.com/player-images/5a1d4a3c-a257-4b36-53e1-3beef1245c00/1200x675.avif"
         }
       ]
     },
@@ -939,6 +959,306 @@
       "feedUrl": "https://sports.yahoo.com/nfl/rss/",
       "siteUrl": "https://sports.yahoo.com/nfl/",
       "articles": [
+        {
+          "id": "13e49869-3f0a-3bd8-8be1-468b8de3bb39",
+          "author": null,
+          "description": "When Saints running back Alvin Kamara injured his ankle at practice on Wednesday, head coach Kellen Moore said he was not concerned about Kamara's availability but the rest of the week left some uncertainty about his status against the Patriots.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alvin-kamara-is-expected-to-play-on-sunday",
+          "publishedOn": "2025-10-11T21:51:01.000Z",
+          "wordCount": 2135,
+          "title": "Alvin Kamara is expected to play on Sunday",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/fc3aa37/2147483647/strip/true/crop/3662x2060+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa2%2F5d%2F3318d46a413b97633d1eba8bcae1%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2236976400"
+        },
+        {
+          "id": "9b54d356-e7e2-3874-935c-4be3158c9570",
+          "author": null,
+          "description": "Seahawks defensive lineman Leonard Williams picked up one of the biggest fines of this NFL season for a hit with his helmet after the play was over on Sunday.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/leonard-williams-fined-46-371-for-head-butting-cade-otton",
+          "publishedOn": "2025-10-11T21:32:04.000Z",
+          "wordCount": 2118,
+          "title": "Leonard Williams fined $46,371 for head butting Cade Otton",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/aa5f006/2147483647/strip/true/crop/2867x1613+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F61%2F2c%2F7114e6514ec89a0248b7aaab9ca7%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2239442555"
+        },
+        {
+          "id": "602f1298-b63d-3194-bf6c-afec46061c34",
+          "author": null,
+          "description": "The Lions won't have left tackle Taylor Decker or cornerback Avonte Maddox for Sunday's game against the Chiefs.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-rule-taylor-decker-avonte-maddox-out-for-sunday",
+          "publishedOn": "2025-10-11T21:22:13.000Z",
+          "wordCount": 2168,
+          "title": "Lions rule Taylor Decker, Avonte Maddox out for Sunday",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/f7e7c0b/2147483647/strip/true/crop/3944x2219+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc2%2Fb9%2Fe8db7c914ff884262ca311a350a5%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2238656863"
+        },
+        {
+          "id": "424b8141-e489-36b7-ae22-a5b1ff2b68ec",
+          "author": null,
+          "description": "Bears head coach Ben Johnson announced on Saturday that the team will be going with a new starter at left tackle against the Commanders on Monday night.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-to-start-theo-benedet-at-left-tackle-on-monday-night",
+          "publishedOn": "2025-10-11T21:13:01.000Z",
+          "wordCount": 2167,
+          "title": "Bears to start Theo Benedet at left tackle on Monday night",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/817d8d9/2147483647/strip/true/crop/5039x2834+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1d%2Fde%2F1e9518d242a9ac70912a4c1b62fe%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2234844717"
+        },
+        {
+          "id": "9ec0540b-8fd4-3c49-86c5-817c46780434",
+          "author": null,
+          "description": "The Bears will have a pair of defensive players back in the lineup for Monday night's game against the Commanders.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lb-t-j-edwards-db-kyler-gordon-set-to-play-for-bears-on-monday-night",
+          "publishedOn": "2025-10-11T21:01:53.000Z",
+          "wordCount": 2208,
+          "title": "LB T.J. Edwards, DB Kyler Gordon set to play for Bears on Monday night",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/10054f0/2147483647/strip/true/crop/5250x2953+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F92%2Fb1%2F473988584993b94cce6fbb831427%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2236322891"
+        },
+        {
+          "id": "23c08b67-2d13-3dfa-99e0-b60aece2d0bc",
+          "author": null,
+          "description": "The 49ers will have safety Malik Mustapha available for the first time this season on Sunday.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-activate-s-malik-mustapha-from-pup-list",
+          "publishedOn": "2025-10-11T20:52:39.000Z",
+          "wordCount": 2097,
+          "title": "49ers activate S Malik Mustapha from PUP list",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/465dc98/2147483647/strip/true/crop/4500x2531+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F19%2F1e%2F88b08ce14e798c86e687fdf0ee4e%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2190342378"
+        },
+        {
+          "id": "41b5ecb7-6b18-3e3b-8972-486810d481e0",
+          "author": null,
+          "description": "Kyler Murray is listed as questionable to play against the Colts on Sunday, so the Cardinals added another quarterback to the roster on Saturday.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-sign-qb-kedon-slovis-to-53-man-roster",
+          "publishedOn": "2025-10-11T20:43:50.000Z",
+          "wordCount": 2143,
+          "title": "Cardinals sign QB Kedon Slovis to 53-man roster",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/4bc02b2/2147483647/strip/true/crop/3767x2119+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5f%2Fc9%2F7998dc4742b4affd0814a1a35e3f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2230931141"
+        },
+        {
+          "id": "fb7f4f19-e02a-3863-9632-2721cc0687e6",
+          "author": null,
+          "description": "Colts kicker Spencer Shrader suffered season-ending ACL and MCL injuries when Raiders safety Tristin McCollum hit his kicking leg on an extra point on Sunday.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-tristin-mccollum-fined-5-722-for-hit-that-ended-colts-spencer-shraders-season",
+          "publishedOn": "2025-10-11T20:43:02.000Z",
+          "wordCount": 2147,
+          "title": "Raiders&#39; Tristin McCollum fined $5,722 for hit that ended Colts&#39; Spencer Shrader&#39;s season",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/7e333c1/2147483647/strip/true/crop/4685x2635+0+385/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5f%2F31%2F90c179fd4f5e94a5791906ff5111%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27254280"
+        },
+        {
+          "id": "60307fb8-2654-3aa8-bfc8-075510a1a489",
+          "author": null,
+          "description": "The Packers may have a new kicker on Sunday against the Bengals.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-brandon-mcmanus-questionable-packers-sign-k-lucas-havrisik",
+          "publishedOn": "2025-10-11T20:23:39.000Z",
+          "wordCount": 2171,
+          "title": "With Brandon McManus questionable, Packers sign K Lucas Havrisik",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/dcc06a9/2147483647/strip/true/crop/3358x1889+0+336/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F51%2Fbb%2Fde05847245f58642e3221a991df9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1865759561"
+        },
+        {
+          "id": "8d071ef4-5c81-377c-8abc-a828ba9111b3",
+          "author": null,
+          "description": "When the 2-2 Falcons host the 4-1 Bills on Monday night, the home team will be missing one of its starting wideouts.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wr-darnell-mooney-hamstring-is-out-for-monday-nights-bills-falcons-game",
+          "publishedOn": "2025-10-11T19:47:24.000Z",
+          "wordCount": 2182,
+          "title": "WR Darnell Mooney (hamstring) is out for Monday night&#39;s Bills-Falcons game",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/47fe8c8/2147483647/strip/true/crop/5592x3146+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5a%2Fd9%2F8d47ea674d478e638b410667c2f0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235423331"
+        },
+        {
+          "id": "90c5f835-c692-38d6-ab86-a89ddd785ed6",
+          "author": null,
+          "description": "Goff's odds are much lower than they should be.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jared-goff-has-mvp-caliber-numbers-so-far",
+          "publishedOn": "2025-10-11T18:36:59.000Z",
+          "wordCount": 2244,
+          "title": "Jared Goff has MVP-caliber numbers, so far",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/2e13629/2147483647/strip/true/crop/5011x2819+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2F34%2Faaf80c1e42a190f82bc137b72c46%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2239226111"
+        },
+        {
+          "id": "f34bc119-a412-3e6b-9166-ec2fe4c7400c",
+          "author": null,
+          "description": "Five games into his NFL career, Jets rookie tackle Armand Membou has already made a big impression on fans, the media and his coaches and teammate.",
+          "link": "https://sny.tv/articles/jets-rookie-armand-membou-has-bright-future-ahead-of-him",
+          "publishedOn": "2025-10-11T18:00:00.000Z",
+          "wordCount": 2070,
+          "title": "Jets rookie RT Armand Membou has a bright future ahead of him",
+          "imageUrl": "https://images.contentstack.io/v3/assets/bltf7a82b39b0908da4/blta8ef1f118851eed2/68bf105c07b4fa61b138c262/USATSI_26416004_168393353_lowres.jpg?format=jpg&quality=75&fit=bounds&width=1296&height=729"
+        },
+        {
+          "id": "4271f9e7-fdda-38c0-9d7b-6a8020f4c46b",
+          "author": null,
+          "description": "Dallas Goedert shined in Week 6 despite a brutal Eagles loss to the Giants. We have more in Roob's Eagles Stats going into the mini bye.",
+          "link": "https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/roobs-stats-dallas-goedert-jalen-hurts-week-6-giants/689244/?partner=yahoo",
+          "publishedOn": "2025-10-11T17:32:47.000Z",
+          "wordCount": 4052,
+          "title": "In Roob&#39;s Eagles Stats: Some crazy Dallas Goedert numbers amidst the misery",
+          "imageUrl": "https://media.nbcsportsphiladelphia.com/2025/10/GettyImages-2240443931.jpg?quality=85&strip=all&crop=578px%2C276px%2C4870px%2C2740px&resize=1200%2C675"
+        },
+        {
+          "id": "93c3392d-7ae4-3726-8261-0b73567476b5",
+          "author": null,
+          "description": "In Cleveland, Joe Flacco went from being the Comeback Player of the Year in 2023 to being the Don't Come Back Player of the Year in 2024 to the Come Back For A While And Now Please Go Player of the Year in 2025.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-flacco-can-become-only-the-second-qb-to-beat-a-team-twice-with-two-different-teams",
+          "publishedOn": "2025-10-11T17:03:55.000Z",
+          "wordCount": 2405,
+          "title": "Joe Flacco can become only the second QB to beat a team twice with two different teams",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/291a092/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffd%2F9b%2F34fa242742ceb81f970cda954ed8%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2239226383"
+        },
+        {
+          "id": "bb38082d-99fa-3391-aebf-7440c796b994",
+          "author": null,
+          "description": "The Commanders will be short-handed on Monday night against the Bears.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-wrs-terry-mclaurin-and-noah-brown-out-deebo-samuel-a-game-time-decision",
+          "publishedOn": "2025-10-11T17:01:44.000Z",
+          "wordCount": 2132,
+          "title": "Commanders WRs Terry McLaurin and Noah Brown out, Deebo Samuel a game-time decision",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/7f79d18/2147483647/strip/true/crop/8427x4740+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2Ffc%2F0b1988694872a839df4fe09fdda0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237111059"
+        },
+        {
+          "id": "003bdd8e-fcdd-36b8-b99b-4473b45acfb0",
+          "author": null,
+          "description": "The Cowboys, at 2-2-1, have themselves in position to potentially stack some wins and contend in the NFC East, especially with the Eagles suddenly struggling.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-match-great-offense-with-not-great-defense",
+          "publishedOn": "2025-10-11T16:40:32.000Z",
+          "wordCount": 2171,
+          "title": "Cowboys match great offense with not-great defense",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/b4eb3e3/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7b%2Fc5%2F3c23a224435da3bd67b08e26d1c2%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D26718280"
+        },
+        {
+          "id": "9a49a7e5-cdaa-3c1f-a45a-216832f50871",
+          "author": null,
+          "description": "Everything you need to know about the Chargers vs. Miami Dolphins in NFL Week 6, including how to watch, betting odds and a prediction on who will win.",
+          "link": "https://sports.yahoo.com/article/chargers-vs-dolphins-watch-start-163450574.html",
+          "publishedOn": "2025-10-11T16:34:50.000Z",
+          "wordCount": 8536,
+          "title": "Chargers vs. Dolphins: How to watch, start time and prediction",
+          "imageUrl": "https://media.zenfs.com/en/la_times_articles_853/c10a146a21b5a56585e8f5f163548b63"
+        },
+        {
+          "id": "cec180eb-6d81-3040-ac11-21be61bc949e",
+          "author": null,
+          "description": "The Bills' defense will be without three players on Monday night against the Falcons, and two of them will be out for longer than that.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-tj-sanders-and-damar-hamlin-on-injured-reserve-matt-milano-out-monday",
+          "publishedOn": "2025-10-11T16:21:22.000Z",
+          "wordCount": 2216,
+          "title": "Bills&#39; TJ Sanders and Damar Hamlin on injured reserve, Matt Milano out Monday",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/8c965eb/2147483647/strip/true/crop/4000x2250+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6c%2Ffc%2Feb704f984b098ed7fa5f214c7c0a%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235047925"
+        },
+        {
+          "id": "cf7bd190-7158-3f7c-9a20-acd2b73a26a8",
+          "author": null,
+          "description": "The Steelers will officially have one of their key defensive players for Sunday's game against the Browns.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-ramsey-upgraded-now-set-to-play-vs-browns",
+          "publishedOn": "2025-10-11T15:56:54.000Z",
+          "wordCount": 2073,
+          "title": "Jalen Ramsey upgraded, now set to play vs. Browns",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/902f83a/2147483647/strip/true/crop/3905x2197+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2F0a%2F177653c44386a49694437c3685ac%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2238060028"
+        },
+        {
+          "id": "b3deb4e0-0721-47e7-a119-4bf3c1ccf351",
+          "author": "Danica Creahan",
+          "description": "The Broncos and Jets face off this weekend in London. Here's what to know and how to tune in to the international NFL game.",
+          "link": "https://sports.yahoo.com/nfl/article/broncos-vs-jets-in-london-how-to-watch-the-nfl-international-game-this-sunday-154509614.html",
+          "publishedOn": "2025-10-11T15:45:09.000Z",
+          "wordCount": 13041,
+          "title": "Broncos vs. Jets in London: How to watch the NFL international game this Sunday",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Cyk7Eoavd8WDDqdd7rIY3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/250afde0-a541-11f0-bffb-8689178f0440"
+        },
+        {
+          "id": "7c7e47d0-233a-3e34-bb77-cb87f8b8de2c",
+          "author": null,
+          "description": "It's been a big two months (almost) for Big Shield.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/week-6-big-shield-giveaway",
+          "publishedOn": "2025-10-11T14:57:25.000Z",
+          "wordCount": 2512,
+          "title": "Week 6 Big Shield giveaway",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/1776408/2147483647/strip/true/crop/1050x591+0+237/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2F81%2Fbf4762084f219d6d1a61ab3efcd8%2Fbigshield2.jpg"
+        },
+        {
+          "id": "01861e05-3bb4-324d-a45c-9be0e81e5d68",
+          "author": null,
+          "description": "The San Francisco 49ers activated two key defensive players for their Week 6 road game against the Tampa Bay Buccaneers on Sunday.",
+          "link": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/malik-mustapha-buccaneers/1880683/?partner=yahoo",
+          "publishedOn": "2025-10-11T13:44:34.000Z",
+          "wordCount": 2306,
+          "title": "49ers activate two key defensive players for Week 6 road game vs. Buccaneers",
+          "imageUrl": "https://media.nbcsportsbayarea.com/2025/10/malik-mustapha-activate-USATSI.jpg?quality=85&strip=all&resize=1200%2C675"
+        },
+        {
+          "id": "5facb58b-717b-3b39-be08-67f1b5396f88",
+          "author": null,
+          "description": "A constant theme from Aaron Glenn’s comments over the past few days has been that the coaches are trying to get everyone “speaking the same language.\" On the offensive line, this is a familiar battle.",
+          "link": "https://sny.tv/articles/what-s-involved-getting-jets-offensive-line-on-the-same-page",
+          "publishedOn": "2025-10-11T13:40:12.000Z",
+          "wordCount": 2650,
+          "title": "C Josh Myers breaks down what&#39;s involved in getting Jets’ offensive line on the same page",
+          "imageUrl": "https://images.contentstack.io/v3/assets/bltf7a82b39b0908da4/bltea2d03975c091f52/68ea649ec43e2f0b257be9d5/USATSI_26706161_Cropped.jpg?format=jpg&quality=75&fit=bounds&width=1296&height=729"
+        },
+        {
+          "id": "6779e201-063d-3801-86c4-f485c39b45d5",
+          "author": null,
+          "description": "The Jets are the first NFL team since turnovers were first tracked in 1933 to start the season by going five games without forcing one.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-defense-had-players-only-meeting",
+          "publishedOn": "2025-10-11T13:31:50.000Z",
+          "wordCount": 2448,
+          "title": "Jets&#39; defense had players-only meeting",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/ee86718/2147483647/strip/true/crop/4797x2698+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2Fa0%2F9a559eaa481ca202042ebdfb38f1%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D26881128"
+        },
+        {
+          "id": "49474def-5872-3eed-a9ae-06a105f20b94",
+          "author": null,
+          "description": "On Sunday at Pittsburgh, Browns rookie quarterback Dillon Gabriel will make his second career start.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/at-pittsburgh-on-sunday-history-wont-be-on-dillon-gabriels-side",
+          "publishedOn": "2025-10-11T11:32:39.000Z",
+          "wordCount": 2227,
+          "title": "At Pittsburgh on Sunday, history won&#39;t be on Dillon Gabriel&#39;s side",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/fde0405/2147483647/strip/true/crop/4435x2495+0+263/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2F0d%2F92d35cb94d4da5b44c200de02129%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2239374815"
+        },
+        {
+          "id": "6e6ae3cd-5a52-34dd-b13a-7cccbad0c1fc",
+          "author": null,
+          "description": "Everything you need to know about the Rams vs. the Baltimore Ravens in Week 6 of the NFL season, including how to watch, betting odds and a prediction.",
+          "link": "https://sports.yahoo.com/article/rams-vs-ravens-watch-prediction-113000532.html",
+          "publishedOn": "2025-10-11T11:30:00.000Z",
+          "wordCount": 8686,
+          "title": "Rams vs. Ravens: How to watch, prediction and betting odds",
+          "imageUrl": "https://media.zenfs.com/en/la_times_articles_853/8c5a45135ddd203c15af42af67b4f1ba"
+        },
+        {
+          "id": "d04c1b8f-ba15-3e7c-a23d-461e00d7b32a",
+          "author": null,
+          "description": "Rams running back Kyren Williams says his goal-line fumble against the 49ers served as a learning experience, and he won't let it define him as a player.",
+          "link": "https://sports.yahoo.com/article/rams-kyren-williams-wont-let-113000575.html",
+          "publishedOn": "2025-10-11T11:30:00.000Z",
+          "wordCount": 9328,
+          "title": "Rams&#39; Kyren Williams won&#39;t let costly fumble discourage him on or off the field",
+          "imageUrl": "https://media.zenfs.com/en/la_times_articles_853/8591b67550782fce9ffbd3ec27b73517"
+        },
+        {
+          "id": "65215bf1-61de-3d91-b887-306311f365f9",
+          "author": null,
+          "description": "On Tuesday, the Ravens traded for safety Alohi Gilman.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-expect-alohi-gilman-to-contribute-on-sunday-five-days-after-arriving-in-a-trade",
+          "publishedOn": "2025-10-11T11:28:33.000Z",
+          "wordCount": 2247,
+          "title": "Ravens expect Alohi Gilman to contribute on Sunday, five days after arriving in a trade",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/4c27d7b/2147483647/strip/true/crop/4887x2749+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbb%2F8e%2F2bb10b2242afb70b5c9f24d3d96c%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235846110"
+        },
+        {
+          "id": "8821a760-0a47-3b6d-9812-43a0723f055f",
+          "author": null,
+          "description": "The Chargers and Rams head into Week 6 of the NFL season looking to get their respective seasons back on track against struggle opponents.",
+          "link": "https://sports.yahoo.com/article/chargers-rams-face-pivotal-games-110000612.html",
+          "publishedOn": "2025-10-11T11:00:00.000Z",
+          "wordCount": 9902,
+          "title": "Chargers and Rams face pivotal games as they try to energize their respective seasons",
+          "imageUrl": "https://media.zenfs.com/en/la_times_articles_853/8caa0573f4a19e302858ac17605ecce0"
+        },
+        {
+          "id": "d0955bda-cc61-3b1e-977f-9228b9f8e2ca",
+          "author": null,
+          "description": "Here's a complete look at Eagles' snap counts from their 34-17 loss to the Giants.",
+          "link": "https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/eagles-snap-counts-splitting-up-jalen-carters-snaps-vs-giants/689191/?partner=yahoo",
+          "publishedOn": "2025-10-11T07:00:00.000Z",
+          "wordCount": 2620,
+          "title": "Eagles snap counts: Splitting up Jalen Carter&#39;s snaps vs. Giants",
+          "imageUrl": "https://media.nbcsportsphiladelphia.com/2025/10/Ojomo-M-USATSI-27284658.jpg?quality=85&strip=all&resize=1200%2C675"
+        },
         {
           "id": "d35f5b71-2b79-3d05-b721-ea5794633ece",
           "author": null,
@@ -5866,6 +6186,116 @@
       "feedUrl": "https://www.espn.com/espn/rss/nfl/news",
       "siteUrl": "https://www.espn.com",
       "articles": [
+        {
+          "id": "US-EN-46556471",
+          "author": "Adam Schefter",
+          "description": "Sources expect more trade activity ahead of this year's NFL trade deadline.",
+          "link": "https://www.espn.com/nfl/story/_/id/46556471/sources-expect-active-nfl-trade-market-ahead-deadline",
+          "publishedOn": "2025-10-12T01:25:39.000Z",
+          "wordCount": 2988,
+          "title": "Sources eye bevy of NFL trades before deadline",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1007%2Fr1557031_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46563038",
+          "author": "Marc Raimondi",
+          "description": "Falcons No. 2 wide receiver Darnell Mooney has been ruled out for \"Monday Night Football\" against the Bills because of a hamstring injury.",
+          "link": "https://www.espn.com/nfl/story/_/id/46563038/falcons-rule-wr-darnell-mooney-hamstring-vs-bills",
+          "publishedOn": "2025-10-12T01:25:39.000Z",
+          "wordCount": 2700,
+          "title": "Falcons rule WR Mooney out vs. Bills on Monday",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0907%2Fr1542163_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46562230",
+          "author": "John Keim",
+          "description": "Commanders coach Dan Quinn has ruled out wide receivers Terry McLaurin (quad) and Noah Brown (groin/knee) for Monday's game against the Bears, while Deebo Samuel (heel) is uncertain to play.",
+          "link": "https://www.espn.com/nfl/story/_/id/46562230/commanders-rule-receivers-mclaurin-brown-vs-bears",
+          "publishedOn": "2025-10-12T01:25:39.000Z",
+          "wordCount": 2835,
+          "title": "Commanders rule out receivers McLaurin, Brown",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0925%2Fr1391556_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46562241",
+          "author": "Alaina Getzenberg",
+          "description": "The Bills placed S Damar Hamlin and DT T.J. Sanders on injured reserve and ruled LB Matt Milano out for Monday night's matchup against the Falcons, coach Sean McDermott announced Saturday.",
+          "link": "https://www.espn.com/nfl/story/_/id/46562241/bills-place-hamlin-sanders-ir-rule-milano-mnf",
+          "publishedOn": "2025-10-12T01:25:39.000Z",
+          "wordCount": 2708,
+          "title": "Bills' Hamlin, Sanders to IR, Milano out for MNF",
+          "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0102%2Fr1434095_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46562551",
+          "author": "Courtney Cronin",
+          "description": "The Bears will debut a new left tackle Sunday against the Commanders, starting Theo Benedet in place of Braxton Jones, coach Ben Johnson announced on Saturday.",
+          "link": "https://www.espn.com/college-football/story/_/id/46562551/bears-start-lt-theo-benedet-braxton-jones-vs-commanders",
+          "publishedOn": "2025-10-12T01:25:39.000Z",
+          "wordCount": 2687,
+          "title": "Bears to start Benedet over Jones at left tackle",
+          "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0929%2Fr1553175_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46521299",
+          "author": "Matt Bowen, Pamela Maldonado, Eric Moody and Seth Walder",
+          "description": "Could Darnold be a fantasy sleeper? Can K.C.'s defense stop Detroit's play-action? Here's last-minute intel.",
+          "link": "https://www.espn.com/nfl/story/_/id/46521299/2025-nfl-week-6-predictions-fantasy-sleepers-upsets-bets-stats-matchups",
+          "publishedOn": "2025-10-12T00:20:16.000Z",
+          "wordCount": 3999,
+          "title": "Predictions, fantasy sleepers, trends for Week 6: Keep an eye on Sam Darnold?",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1009%2Fr1558045_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46544223",
+          "author": "Matt Bowen and Seth Walder",
+          "description": "Our experts dive into the lines and player props that offer value for Week 6 and share their tips and bets.",
+          "link": "https://www.espn.com/espn/betting/story/_/id/46544223/week-6-nfl-odds-spreads-lines-props-best-bets-sunday-football-games",
+          "publishedOn": "2025-10-11T21:30:33.000Z",
+          "wordCount": 4106,
+          "title": "Week 6 betting guide: Bengals-Packers points to high scoring, overs on player props",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1009%2Fr1558051_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46555927",
+          "author": "John Keim",
+          "description": "Samuel has made an instant impact in Washington since joining from San Francisco.",
+          "link": "https://www.espn.com/nfl/story/_/id/46555927/deebo-samuel-instant-hit-washington-commanders",
+          "publishedOn": "2025-10-11T14:29:03.000Z",
+          "wordCount": 3389,
+          "title": "'Man, he loves football. You can feel it': How Deebo became an instant hit in D.C.",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1006%2Fr1556493_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46546834",
+          "author": "Rich Cimini",
+          "description": "After an 0-5 start, New York might be thinking about the future ahead of the Nov. 4 trade deadline.",
+          "link": "https://www.espn.com/nfl/story/_/id/46546834/new-york-jets-sellers-trade-deadline-quinnen-williams-breece-hall",
+          "publishedOn": "2025-10-11T14:29:03.000Z",
+          "wordCount": 3797,
+          "title": "Move Breece Hall? Quinnen Williams? Could Jets be movers at trade deadline?",
+          "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1010%2Fr1558119_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46545070",
+          "author": "Jeff Legwold",
+          "description": "Before he became a Super Bowl-winning coach, Payton played quarterback on an English team alongside bouncers and construction workers.",
+          "link": "https://www.espn.com/nfl/story/_/id/46545070/broncos-coach-sean-payton-football-player-england-leicester-panthers",
+          "publishedOn": "2025-10-11T14:25:06.000Z",
+          "wordCount": 3330,
+          "title": "'Basically playing for pizza': Remembering Sean Payton's six-month run as the QB of the Leicester Panthers",
+          "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1010%2Fr1558261_640x430cc.jpg"
+        },
+        {
+          "id": "US-EN-46554443",
+          "author": "Jenna Laine",
+          "description": "The 17 games that featured a go-ahead score in the final minute of regulation are the most through five weeks of a season since the merger.",
+          "link": "https://www.espn.com/nfl/story/_/id/46554443/historic-nfl-comebacks-week-5-buccaneers",
+          "publishedOn": "2025-10-11T12:24:52.000Z",
+          "wordCount": 4860,
+          "title": "Why the 2025 NFL season has seen a historic number of last-minute drives",
+          "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1010%2Fr1558474_1296x729_16%2D9.jpg"
+        },
         {
           "id": "US-EN-46554698",
           "author": "Jamison Hensley",
