@@ -443,6 +443,26 @@
       "siteUrl": "https://www.draftsharks.com",
       "articles": [
         {
+          "id": "https://www.draftsharks.com/shark-bites/79668/jauan-jennings-playing-through-broken-ribs-and-ankle-sprains",
+          "author": "Kevin English",
+          "description": "49ers WR Jauan Jennings told reporters after Sunday's loss to the Buccaneers that he's playing through five broken ribs and high- and low-ankle sprains.",
+          "link": "https://www.draftsharks.com/shark-bites/79668/jauan-jennings-playing-through-broken-ribs-and-ankle-sprains",
+          "publishedOn": "2025-10-12T23:54:56.000Z",
+          "wordCount": 9336,
+          "title": "Jauan Jennings Playing Through Broken Ribs And Ankle Sprains",
+          "imageUrl": "https://www.draftsharks.com/player-images/eaceef83-8838-4636-cde3-c3d39869c600/1200x675.avif"
+        },
+        {
+          "id": "https://www.draftsharks.com/shark-bites/79667/fred-warner-suffers-season-ending-injury",
+          "author": "Kevin English",
+          "description": "Niners LB Fred Warner fractured and dislocated his right ankle in Sunday's loss to the Buccaneers, HC Kyle Shanahan announced after the game. He'll have",
+          "link": "https://www.draftsharks.com/shark-bites/79667/fred-warner-suffers-season-ending-injury",
+          "publishedOn": "2025-10-12T23:41:22.000Z",
+          "wordCount": 9327,
+          "title": "Fred Warner Suffers Season-Ending Injury",
+          "imageUrl": "https://www.draftsharks.com/player-images/8cc070a7-ca91-450c-0ada-18132884fe00/1200x675.avif"
+        },
+        {
           "id": "https://www.draftsharks.com/shark-bites/79610/darnell-mooney-out-vs-bills",
           "author": "Kevin English",
           "description": "The Falcons have ruled WR Darnell Mooney out for Monday night's game against the Bills because of a hamstring injury. It'll be the first game Mooney has",
@@ -931,26 +951,6 @@
           "wordCount": 9432,
           "title": "Laiatu Latu Not Expected to Play Against Broncos",
           "imageUrl": "https://www.draftsharks.com/player-images/7f733e33-652b-4dd2-f33d-4da6bc62d100/1200x675.avif"
-        },
-        {
-          "id": "https://www.draftsharks.com/shark-bites/78982/andrew-van-ginkel-out-harrison-smith-questionable",
-          "author": "Kevin English",
-          "description": "The Vikings have ruled Edge Andrew Van Ginkel out for Sunday's game against the Falcons. He's in the concussion protocol off the Monday night win over t",
-          "link": "https://www.draftsharks.com/shark-bites/78982/andrew-van-ginkel-out-harrison-smith-questionable",
-          "publishedOn": "2025-09-12T21:14:50.000Z",
-          "wordCount": 9528,
-          "title": "Andrew Van Ginkel Out; Harrison Smith Questionable",
-          "imageUrl": "https://www.draftsharks.com/player-images/3249f4b9-2d54-4f8b-3314-48f93ce43100/1200x675.avif"
-        },
-        {
-          "id": "https://www.draftsharks.com/shark-bites/78966/noah-brown-suffers-groin-injury",
-          "author": "Kevin English",
-          "description": "Commanders WR Noah Brown was knocked out of Thursday night's game vs. the Packers with a groin injury. He was primarily replaced by rookie Jaylin Lane,",
-          "link": "https://www.draftsharks.com/shark-bites/78966/noah-brown-suffers-groin-injury",
-          "publishedOn": "2025-09-12T14:50:00.000Z",
-          "wordCount": 9239,
-          "title": "Noah Brown Suffers Groin Injury",
-          "imageUrl": "https://www.draftsharks.com/player-images/aeed6e5c-2bcf-4b22-2af0-83143eb1f400/1200x675.avif"
         }
       ]
     },
@@ -959,6 +959,506 @@
       "feedUrl": "https://sports.yahoo.com/nfl/rss/",
       "siteUrl": "https://sports.yahoo.com/nfl/",
       "articles": [
+        {
+          "id": "da3dc3df-55ca-31ae-a4bc-859e0543e9f2",
+          "author": null,
+          "description": "The Panthers got quite the bargain in running back Rico Dowdle.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rico-dowdle-is-proving-to-be-a-huge-bargain-for-the-panthers",
+          "publishedOn": "2025-10-13T01:07:57.000Z",
+          "wordCount": 2203,
+          "title": "Rico Dowdle is proving to be a huge bargain for the Panthers",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/4ff087a/2147483647/strip/true/crop/3741x2104+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2F09%2F5f49729741c0a26993ed06a4ac68%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240616758"
+        },
+        {
+          "id": "0204e9cc-72da-3662-b9f3-cd0d17ab23c4",
+          "author": null,
+          "description": "The Lions were a little less methodical on their second possession of the night against the Chiefs.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jameson-williams-td-catch-puts-lions-back-on-top-10-6",
+          "publishedOn": "2025-10-13T01:02:49.000Z",
+          "wordCount": 2155,
+          "title": "Jameson Williams TD catch puts Lions back on top, 10-6",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/59e0e5c/2147483647/strip/true/crop/6393x3596+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F53%2F30%2Fcbbcb83d4430858f2d6abc414194%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27311241"
+        },
+        {
+          "id": "815fcefd-6a8e-39ba-8dc7-da878d09f852",
+          "author": null,
+          "description": "Quarterback Patrick Mahomes has once again made history.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-throws-300th-touchdown-chiefs-lead-6-3",
+          "publishedOn": "2025-10-13T00:56:25.000Z",
+          "wordCount": 2161,
+          "title": "Patrick Mahomes throws 300th touchdown, Chiefs lead 6-3",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/de780b1/2147483647/strip/true/crop/2991x1682+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2F7a%2F7c53a5c0458982f344b251b59b81%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27311261"
+        },
+        {
+          "id": "a02008bf-065a-4f74-94ba-49909b0a3465",
+          "author": "Frank Schwab",
+          "description": "Jared Goff looked like he had a nice touchdown catch.",
+          "link": "https://sports.yahoo.com/nfl/article/lions-fantastic-trick-play-is-taken-off-the-board-because-jared-goffs-illegal-motion-004634365.html",
+          "publishedOn": "2025-10-13T00:46:34.000Z",
+          "wordCount": 8284,
+          "title": "Lions&#39; fantastic trick play is taken off the board because Jared Goff&#39;s illegal motion",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/VPcRhwjP4aCba5BUei6TDw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/9eba0210-a7cd-11f0-bbfe-6dfd3f4886a3"
+        },
+        {
+          "id": "30731481-2824-3ffa-a0c2-1aea5f47ab43",
+          "author": null,
+          "description": "The Lions looked like they were going to take a 7-0 lead over the Chiefs after a long, methodical drive to open the contest.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-lead-3-0-after-jared-goff-td-catch-was-nullified-by-penalty",
+          "publishedOn": "2025-10-13T00:43:12.000Z",
+          "wordCount": 2268,
+          "title": "Lions lead 3-0 after Jared Goff TD catch was nullified by penalty",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/0abe702/2147483647/strip/true/crop/4370x2458+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbf%2F6f%2Fabab4c574b839ff62599493c78db%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27310921"
+        },
+        {
+          "id": "d6eccbdf-8723-41f6-81d7-3a280bd29d1a",
+          "author": "Ray Garvin",
+          "description": "It's time for Ray Garvin's instant fantasy football reactions for Sunday's Week 6 results.",
+          "link": "https://sports.yahoo.com/fantasy/article/week-6-fantasy-football-instant-reactions-drake-maye-is-a-locked-in-elite-fantasy-starter-the-rest-of-the-season-235927240.html",
+          "publishedOn": "2025-10-12T23:59:27.000Z",
+          "wordCount": 11236,
+          "title": "Week 6 Fantasy Football Instant Reactions: &#39;Drake Maye is a locked-in elite fantasy starter the rest of the season&#39;",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hdtwDGRX80sEt5A7rhSiAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/b2f6ccc0-a7c5-11f0-bffe-821efbf1c33e"
+        },
+        {
+          "id": "2db98bb7-99bf-3dea-a99c-e74f34995567",
+          "author": null,
+          "description": "The 49ers' All-Pro linebacker will require surgery",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fred-warners-season-is-over-with-dislocated-and-fractured-ankle",
+          "publishedOn": "2025-10-12T23:47:58.000Z",
+          "wordCount": 2183,
+          "title": "Fred Warner&#39;s season is over with dislocated and fractured ankle",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/f5fa672/2147483647/strip/true/crop/5366x3018+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2F18%2F3a66fc1e463ca7db7a674fa23c95%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240299444"
+        },
+        {
+          "id": "0a7d8e1b-8762-337c-849a-bd82fd5b8ad0",
+          "author": null,
+          "description": "Things aren't getting any better for the Titans offense.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-callahan-we-all-have-to-be-better-on-offense-cam-wards-a-part-of-that",
+          "publishedOn": "2025-10-12T23:42:51.000Z",
+          "wordCount": 2358,
+          "title": "Brian Callahan: We all have to be better on offense, Cam Ward&#39;s a part of that",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/d0b65f9/2147483647/strip/true/crop/4727x2659+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F12%2Fea%2F69b8431540a78455b10b5f7de3df%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240637211"
+        },
+        {
+          "id": "3a73505e-4bc1-36f0-b4e7-a117c5a10f65",
+          "author": null,
+          "description": "Baker Mayfield threw for 256 yards and two touchdowns, continuing his MVP-level play.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-move-to-5-1-with-30-19-win-over-49ers",
+          "publishedOn": "2025-10-12T23:28:57.000Z",
+          "wordCount": 2311,
+          "title": "Buccaneers move to 5-1 with 30-19 win over 49ers",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/8798b28/2147483647/strip/true/crop/4830x2717+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe3%2F5f%2F06de64794526a9fa615049a3bc19%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240299679"
+        },
+        {
+          "id": "f7cefc0a-acb3-39d3-b665-526c2efa5fc0",
+          "author": null,
+          "description": "There were some potentially nerve-racking moments during Sunday’s matchup between the Packers and Bengals.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-defeat-bengals-27-18-move-to-3-1-1-in-2025",
+          "publishedOn": "2025-10-12T23:23:09.000Z",
+          "wordCount": 2426,
+          "title": "Packers defeat Bengals 27-18, move to 3-1-1 in 2025",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/ad4678a/2147483647/strip/true/crop/3000x1688+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F32%2Fc8%2Fb685fe184b36b10d0c34ec1254ce%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240643255"
+        },
+        {
+          "id": "f88869b2-8dd1-44d1-8c46-8bcb06408aa1",
+          "author": "Frank Schwab",
+          "description": "Baker Mayfield came up with a number of big plays in another win.",
+          "link": "https://sports.yahoo.com/nfl/article/baker-mayfield-again-looks-like-an-mvp-candidate-as-buccaneers-beat-the-49ers-232220024.html",
+          "publishedOn": "2025-10-12T23:22:20.000Z",
+          "wordCount": 9093,
+          "title": "Baker Mayfield again looks like an MVP candidate as Buccaneers beat the 49ers",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/3IRDeLt8MM3gSe_x9l1TFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/15dd8090-a7c1-11f0-bfe7-348d588b32b9"
+        },
+        {
+          "id": "52376f1f-a892-43b1-af1c-7d64eb0085ae",
+          "author": "Jason Owens",
+          "description": "Cincinnati's offense improved to competent following a scoreless first half. But it wasn't enough to avoid falling to 2-4.",
+          "link": "https://sports.yahoo.com/nfl/breaking-news/article/bengals-show-signs-of-life-with-joe-flacco-but-lose-again-as-comeback-falls-short-vs-packers-231820104.html",
+          "publishedOn": "2025-10-12T23:18:20.000Z",
+          "wordCount": 9444,
+          "title": "Bengals show signs of life with Joe Flacco, but lose again as comeback falls short vs. Packers",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/EkAVaXs5721JK209cRJLqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/d8abd1a0-a7ba-11f0-9eba-a1cbbedb3d06"
+        },
+        {
+          "id": "017ae68a-358c-4601-8589-1fa64863f9f7",
+          "author": "Scott Pianowski",
+          "description": "Scott Pianowski breaks down the fantasy football winners and losers from Week 6.",
+          "link": "https://sports.yahoo.com/fantasy/article/week-6-booms-and-busts-cowboys-colts-bring-carnival-fun-for-fantasy-football-while-browns-offer-ghost-town-231247147.html",
+          "publishedOn": "2025-10-12T23:12:47.000Z",
+          "wordCount": 10146,
+          "title": "Week 6 Booms and Busts: Cowboys, Colts bring carnival fun for fantasy football while Browns offer ghost town",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/cmxlOg_41EkZpIdt0FI8Vg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mzk7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/470298b0-a7bf-11f0-9f3e-6de7ca1fe3bf"
+        },
+        {
+          "id": "46ad67d6-7440-3284-adc6-69c80b6d68a3",
+          "author": null,
+          "description": "The Raiders improved to 2-4 and won for the first time since Week 1 on Sunday.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-end-losing-streak-with-20-10-win-over-titans",
+          "publishedOn": "2025-10-12T23:08:04.000Z",
+          "wordCount": 2514,
+          "title": "Raiders end losing streak with 20-10 win over Titans",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/30a9e88/2147483647/strip/true/crop/3591x2020+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3f%2F84%2Ff96528ff4878b2c8b66f989e5545%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240638501"
+        },
+        {
+          "id": "565d2304-c081-362e-b4a8-24fd58f06941",
+          "author": null,
+          "description": "The Lions will have a pair of key defensive backs available for Sunday night’s game against the Chiefs.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-kerby-joseph-brian-branch-both-active-for-lions-chiefs",
+          "publishedOn": "2025-10-12T23:01:28.000Z",
+          "wordCount": 2191,
+          "title": "Sunday Night Football: Kerby Joseph, Brian Branch both active for Lions-Chiefs",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/4c793d5/2147483647/strip/true/crop/4625x2602+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2Ff6%2Fb4ead8244a09af1ef85df7cc3d65%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27083048"
+        },
+        {
+          "id": "e92820e5-96f3-33d7-a82d-617d02440b05",
+          "author": null,
+          "description": "Jerry Jones is the only owner and/or General Manager in the league to hold court after every game.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-did-not-talk-after-sundays-loss-to-the-panthers",
+          "publishedOn": "2025-10-12T22:37:49.000Z",
+          "wordCount": 2287,
+          "title": "Jerry Jones did not talk after Sunday&#39;s loss to the Panthers",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/9c2312f/2147483647/strip/true/crop/7980x4489+0+416/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F18%2Ffd%2Fa189e96448a1ab735f87d5991a7b%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27253653"
+        },
+        {
+          "id": "4a51534e-2035-373d-9070-55d9a2d30483",
+          "author": null,
+          "description": "The Buccaneers have lost yet another wide receiver.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-rookie-wr-emeka-egbuka-doubtful-to-return-with-hamstring-injury",
+          "publishedOn": "2025-10-12T22:36:33.000Z",
+          "wordCount": 2141,
+          "title": "Bucs rookie WR Emeka Egbuka doubtful to return with hamstring injury",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/566826c/2147483647/strip/true/crop/5294x2978+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2F6b%2Fd1e24d4349b0adcccf72eb55dc24%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240629729"
+        },
+        {
+          "id": "36fe198b-d854-3614-a51a-ff13f7e9f0a4",
+          "author": null,
+          "description": "The Bengals had a little life.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-jacobs-scores-second-rushing-td-packers-lead-bengals-17-7",
+          "publishedOn": "2025-10-12T22:27:46.000Z",
+          "wordCount": 2156,
+          "title": "Josh Jacobs scores second rushing TD, Packers lead Bengals 17-7",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/badb67b/2147483647/strip/true/crop/4342x2442+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2Fbc%2Fdb04ca7c4c9ca11374cd0ed0cc8f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240636164"
+        },
+        {
+          "id": "b662fd76-bba8-3126-9239-0a0d6b9131e2",
+          "author": null,
+          "description": "The good news for the Titans is that they won't be shut out in Las Vegas on Sunday.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-cut-raiders-lead-to-17-3-rule-calvin-ridley-out",
+          "publishedOn": "2025-10-12T22:05:02.000Z",
+          "wordCount": 2151,
+          "title": "Titans cut Raiders lead to 17-3, rule Calvin Ridley out",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/2830cc0/2147483647/strip/true/crop/6207x3491+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffc%2F2b%2Fdd2050b745d58cd5341bd3a6efd5%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27256018"
+        },
+        {
+          "id": "a39c6024-d94a-3dcb-becd-7e953267c727",
+          "author": null,
+          "description": "Stafford passed Marino and moved into ninth place in the NFL's all-time passing yardage list.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matthew-stafford-passes-dan-marino-in-passing-yards-it-means-a-lot-he-was-unbelievable",
+          "publishedOn": "2025-10-12T22:03:57.000Z",
+          "wordCount": 2390,
+          "title": "Matthew Stafford passes Dan Marino in passing yards: It means a lot, he was unbelievable",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/7c5de6a/2147483647/strip/true/crop/3695x2078+0+212/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F14%2F5c%2F59263a96442080647c105c7e59b5%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240291452"
+        },
+        {
+          "id": "112305a7-682d-31b2-bffd-a7afc9abeefa",
+          "author": null,
+          "description": "The 49ers took a gut punch in the first quarter, and the Buccaneers are doing their best to add insult to San Francisco's injury.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-lose-fred-warner-but-trail-bucs-only-20-16-at-halftime",
+          "publishedOn": "2025-10-12T21:54:08.000Z",
+          "wordCount": 2281,
+          "title": "49ers lose Fred Warner but trail Bucs only 20-16 at halftime",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/e5e37c4/2147483647/strip/true/crop/2952x1660+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2Fbe%2Fafc508144aa8ba5f91610aa819b0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240633966"
+        },
+        {
+          "id": "eb4b579b-1eac-3f1b-9c6f-640eb88e3a50",
+          "author": null,
+          "description": "The Packers have largely controlled things against the Bengals so far on Sunday, with Green Bay holding a 10-0 lead over Cincinnati at halftime.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-lead-bengals-10-0-at-halftime",
+          "publishedOn": "2025-10-12T21:48:48.000Z",
+          "wordCount": 2266,
+          "title": "Packers lead Bengals 10-0 at halftime",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/c5acefc/2147483647/strip/true/crop/4309x2424+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6a%2F55%2F00d3a14544cdad22ae8fd9b00edb%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240632068"
+        },
+        {
+          "id": "37dec49c-67c9-49b3-998e-6fffe939bbb9",
+          "author": "Andy Backstrom",
+          "description": "The Dolphins' only win this season came against a winless Jets team.",
+          "link": "https://sports.yahoo.com/nfl/breaking-news/article/tua-tagovailoa-candid-after-dolphins-drop-to-1-5-says-some-teammates-arent-taking-players-only-meetings-seriously-214235215.html",
+          "publishedOn": "2025-10-12T21:42:35.000Z",
+          "wordCount": 9152,
+          "title": "Tua Tagovailoa candid after Dolphins drop to 1-5, says some teammates aren&#39;t taking players-only meetings seriously",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Zv9gd_pQik7sPJyM8uXCFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/065aafc0-a7ae-11f0-b51b-0a047614225b"
+        },
+        {
+          "id": "d1133d38-f9e7-3999-ab2c-25baa7678e54",
+          "author": null,
+          "description": "The Titans used a few fortunate bounces on fumbles to knock off the Cardinals last Sunday, but the turnover luck is not going their way in Las Vegas on Sunday.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devin-whites-big-half-sends-raiders-to-halftime-with-a-10-0-lead",
+          "publishedOn": "2025-10-12T21:31:39.000Z",
+          "wordCount": 2278,
+          "title": "Devin White&#39;s big half sends Raiders to halftime with a 10-0 lead",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/d0956b1/2147483647/strip/true/crop/3124x1757+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9f%2F8f%2Fa9b2c4024aac9e65933722deb00a%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240631876"
+        },
+        {
+          "id": "a56baa82-a86d-35b0-97b0-849bf5b5bcb4",
+          "author": null,
+          "description": "The Indianapolis Colts were without their backup quarterback, Anthony Richardson, after he suffered an orbital fracture during the buildup to Sunday’s win over the Arizona Cardinals.  ESPN reported that Richardson was hit with an elastic exercise band while warming up in the locker room before the game.  Equipment used to contain the band failed and it whipped into Richardson’s face, causing the fracture.",
+          "link": "https://sports.yahoo.com/article/colts-qb-richardson-taken-hospital-213006352.html",
+          "publishedOn": "2025-10-12T21:30:06.000Z",
+          "wordCount": 7994,
+          "title": "Colts QB Richardson taken to hospital with orbital fracture after elastic band mishap",
+          "imageUrl": "https://media.zenfs.com/en/the_guardian_765/979954ba3897050af2b871b7155ea951"
+        },
+        {
+          "id": "e137495a-5a57-3005-ae65-8c385605a105",
+          "author": null,
+          "description": "The Packers have largely controlled the first half of Sunday's game against the Bengals.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-jacobs-3-yard-td-gives-packers-10-0-lead-over-bengals",
+          "publishedOn": "2025-10-12T21:22:11.000Z",
+          "wordCount": 2131,
+          "title": "Josh Jacobs 3-yard TD gives Packers 10-0 lead over Bengals",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/d82732a/2147483647/strip/true/crop/7614x4283+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F83%2Fe1%2Fd63c40b849e7bada1fad29f04024%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240626110"
+        },
+        {
+          "id": "f9efbf99-d30f-4815-be50-3933d5a94d58",
+          "author": "Ben Zweiman",
+          "description": "We break down RB touches for key backfield splits for fantasy football in Week 6.",
+          "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-recapping-running-back-touches-for-key-backfield-splits-in-week-6-212051422.html",
+          "publishedOn": "2025-10-12T21:20:51.000Z",
+          "wordCount": 10935,
+          "title": "Fantasy Football: Recapping running back touches for key backfield splits in Week 6",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/xG9taI8PS2_8nUPpy98JLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/65e29da0-a7a8-11f0-9cf8-1ee2cd73074b"
+        },
+        {
+          "id": "5403866f-8ea1-3374-8d95-5b70dfdd87ff",
+          "author": null,
+          "description": "There's something weird in the water in Indianapolis lately.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/anthony-richardson-suffered-orbital-fracture-after-pregame-elastic-band-mishap",
+          "publishedOn": "2025-10-12T21:17:53.000Z",
+          "wordCount": 2178,
+          "title": "Anthony Richardson suffered orbital fracture after pregame elastic band mishap",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/6369b5a/2147483647/strip/true/crop/2351x1322+0+219/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdf%2F13%2Ffee667e4457d9331d0196c4a4bf5%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27255194"
+        },
+        {
+          "id": "658f6621-577c-396f-a2f7-dc7178329032",
+          "author": null,
+          "description": "The Ravens are perhaps the NFL's most disappointing team this season, with a 1-5 record through Week Six.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-lamar-jackson-roquan-smith-will-be-back-after-next-weeks-bye",
+          "publishedOn": "2025-10-12T21:04:37.000Z",
+          "wordCount": 2193,
+          "title": "John Harbaugh: Lamar Jackson, Roquan Smith will be back after next week&#39;s bye",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/1ac43cc/2147483647/strip/true/crop/3008x1692+0+157/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2Fe3%2F6487bddc492a88b8b8e11b8bb591%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240621138"
+        },
+        {
+          "id": "9243bcf9-ff73-3019-b691-9bc6dc3863d2",
+          "author": null,
+          "description": "The Titans are down double digits and their comeback bid may not include wide receiver Calvin Ridley.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/calvin-ridley-questionable-with-hamstring-injury-raiders-up-10-0",
+          "publishedOn": "2025-10-12T21:02:59.000Z",
+          "wordCount": 2131,
+          "title": "Calvin Ridley questionable with hamstring injury, Raiders up 10-0",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/9a0b15a/2147483647/strip/true/crop/4500x2531+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F51%2Ff2%2Fbc1de9dc442298d931eeca663d83%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2239840085"
+        },
+        {
+          "id": "2d600494-13d0-3ee4-9787-6ca087d82513",
+          "author": null,
+          "description": "The 49ers linebacker had an air cast on his ankle as he left the field.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fred-warner-carted-with-serious-ankle-injury",
+          "publishedOn": "2025-10-12T21:02:21.000Z",
+          "wordCount": 2196,
+          "title": "Fred Warner carted with serious ankle injury",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/2fea9a1/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F61%2F52%2Fd02d47574bbfb0912514013ba64d%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27309469"
+        },
+        {
+          "id": "75059ab9-bb41-4fa3-9e6d-d87467652ba7",
+          "author": "Jason Owens",
+          "description": "The 49ers suffered what appears to be another major injury blow on Sunday, this time to All-Pro linebacker Fred Warner",
+          "link": "https://sports.yahoo.com/nfl/breaking-news/article/all-pro-49ers-lb-fred-warner-leaves-field-on-cart-with-air-cast-after-gruesome-lower-leg-injury-likely-out-for-season-205745402.html",
+          "publishedOn": "2025-10-12T20:57:45.000Z",
+          "wordCount": 8878,
+          "title": "All-Pro 49ers LB Fred Warner leaves field on cart with air cast after gruesome lower-leg injury, likely out for season",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/gQPWRcFjaT3WlvFo_tIJKg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/333a1d00-a7ae-11f0-9fdf-b20ed1388e13"
+        },
+        {
+          "id": "42ab4f74-7be7-391c-a352-7cbe46e660de",
+          "author": null,
+          "description": "Rams wide receiver Puka Nacua returned to Sunday's win over the Ravens after injuring his ankle in the second quarter, but it's not a sure thing that he will be back for Week 7's game against the Jaguars in London.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacua-uncertain-for-week-7-due-to-ankle-injury",
+          "publishedOn": "2025-10-12T20:36:44.000Z",
+          "wordCount": 2172,
+          "title": "Puka Nacua uncertain for Week 7 due to ankle injury",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/21813b0/2147483647/strip/true/crop/3609x2030+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc5%2F23%2Fc15de88142cdb76e98b35474a2be%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240616820"
+        },
+        {
+          "id": "fc6922a9-99a3-4554-b13a-41b8dc367375",
+          "author": "Ryan Young",
+          "description": "Anthony Richardson was supposed to back up Daniel Jones on Sunday. Instead, he spent the game in the hospital.",
+          "link": "https://sports.yahoo.com/nfl/breaking-news/article/colts-qb-anthony-richardson-fractures-orbital-bone-in-fluke-accident-during-pregame-warmups-with-resistance-band-203643460.html",
+          "publishedOn": "2025-10-12T20:36:43.000Z",
+          "wordCount": 8675,
+          "title": "Colts QB Anthony Richardson fractures orbital bone in &#39;fluke accident&#39; during pregame warmups with resistance band",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/niWtUOr_mfTiLIzz5NyDSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/e10f4a80-a7aa-11f0-b67f-d3c0c4647fe3"
+        },
+        {
+          "id": "973ffe30-ba10-4f43-9cc8-243db1dde1c7",
+          "author": "Ben Zweiman",
+          "description": "Ben Zweiman shares some early players to target off the waiver wire for fantasy football going into Week 7.",
+          "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-early-pickups-to-consider-going-into-week-7-203128768.html",
+          "publishedOn": "2025-10-12T20:31:28.000Z",
+          "wordCount": 9247,
+          "title": "Fantasy Football Waiver Wire: Early pickups to consider going into Week 7",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OnTw_1669Tg9c3hboW_TUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/3cd99420-a7a5-11f0-8f1f-da3ad5b5a108"
+        },
+        {
+          "id": "7628c111-33b9-45b2-bff2-4b4a6053c3c5",
+          "author": "Frank Schwab",
+          "description": "Dak Prescott played well. And the Cowboys lost again.",
+          "link": "https://sports.yahoo.com/nfl/article/nfl-winners-and-losers-cowboys-have-not-done-enough-to-help-out-red-hot-qb-dak-prescott-202247163.html",
+          "publishedOn": "2025-10-12T20:22:47.000Z",
+          "wordCount": 12963,
+          "title": "NFL Winners and Losers: Cowboys have not done enough to help out red hot QB Dak Prescott",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/wKfbHMWUu_8Ef7ph1CIuOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/a532ec00-a79c-11f0-a9d5-3aadb07154ff"
+        },
+        {
+          "id": "5c45e501-78da-3602-879f-c30faab42d16",
+          "author": null,
+          "description": "The Jaguars' defense had no answer for Seahawks wide receiver Jaxon Smith-Njigba today in Jacksonville.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxon-smith-njigba-leads-the-way-as-seahawks-beat-jaguars",
+          "publishedOn": "2025-10-12T20:21:15.000Z",
+          "wordCount": 2225,
+          "title": "Jaxon Smith-Njigba leads the way as Seahawks beat Jaguars",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/93dbef0/2147483647/strip/true/crop/4718x2654+0+246/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1f%2F42%2F433d77f34799a93a83b4f4e55b0a%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240268460"
+        },
+        {
+          "id": "fbe82afb-c645-3e23-9e66-9c3b06357dda",
+          "author": null,
+          "description": "The running back, who signed with Carolina after a 1,000-yard season with Dallas last season, had over 200 yards from scrimmage.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rico-dowdle-carries-panthers-to-30-27-upset-of-the-cowboys",
+          "publishedOn": "2025-10-12T20:20:43.000Z",
+          "wordCount": 2326,
+          "title": "Rico Dowdle carries Panthers to 30-27 upset of the Cowboys",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/3b95743/2147483647/strip/true/crop/4613x2595+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff2%2Fea%2F4b6d21ea4cdea4d6714bfdb7da1d%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240617476"
+        },
+        {
+          "id": "333e6560-2721-3ac6-b769-dfdcd8ebe34c",
+          "author": null,
+          "description": "At this rate, the Steelers may have the AFC North wrapped up by Halloween.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-easily-handle-browns-move-to-4-1-with-23-9-win",
+          "publishedOn": "2025-10-12T20:20:43.000Z",
+          "wordCount": 2346,
+          "title": "Steelers easily handle Browns, move to 4-1 with 23-9 win",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/ce05ebd/2147483647/strip/true/crop/5397x3036+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F97%2Fa8cf83fa4579b997174dfdd8c4d9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240618634"
+        },
+        {
+          "id": "a445aeaa-75c6-3f64-b402-38859161ddab",
+          "author": null,
+          "description": "Justin Herbert somehow escapes being sacked to connect on a 42-yard pass to Ladd McConkey in the final minute of the Chargers' 29-27 win over the Dolphins.",
+          "link": "https://sports.yahoo.com/article/cameron-dicker-helps-chargers-survive-201942904.html",
+          "publishedOn": "2025-10-12T20:19:42.000Z",
+          "wordCount": 9610,
+          "title": "Justin Herbert&#39;s escape from the clutches of defeat spurs Chargers to comeback win",
+          "imageUrl": "https://media.zenfs.com/en/la_times_articles_853/8d66d9e2eb520a28c1cb1a89b2507017"
+        },
+        {
+          "id": "4b2e3787-784c-3fe9-a3e0-d0c6abec63a5",
+          "author": null,
+          "description": "The Jets aren’t benching Justin Fields. That’s fine. They don’t have to. But if there is even the slightest hint of carryover from this 13-11 loss to the Broncos, Glenn better go to Tyrod Taylor early against Carolina.",
+          "link": "https://sny.tv/articles/jets-justin-fields-aaron-glenn-hughes-101225",
+          "publishedOn": "2025-10-12T20:17:18.000Z",
+          "wordCount": 2672,
+          "title": "It&#39;s Aaron Glenn&#39;s right to stick with Justin Fields, but Jets coach must weigh what&#39;s best for locker room",
+          "imageUrl": "https://images.contentstack.io/v3/assets/bltf7a82b39b0908da4/bltaaf4398361e5dc0e/68ec0fa79975a5644d97b419/USATSI_27308029_168393353_lowres_(1).jpg?format=jpg&quality=75&fit=bounds&width=1296&height=729"
+        },
+        {
+          "id": "c4c6d86a-4306-34db-8dff-8bec189ede0a",
+          "author": null,
+          "description": "Daniel Jones and Jonathan Taylor leas the Colts to a 5-1 start.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-hold-off-cardinals-for-31-27-win",
+          "publishedOn": "2025-10-12T20:13:49.000Z",
+          "wordCount": 2368,
+          "title": "Colts hold off Cardinals for 31-27 win",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/10e0fde/2147483647/strip/true/crop/3847x2164+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9a%2F7f%2Fb7f5d703453f98ee59d7ffa97c5a%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240624476"
+        },
+        {
+          "id": "a4baadfd-423e-3822-94d4-bf44090e72bb",
+          "author": null,
+          "description": "Maye was excellent on Sunday in New Orleans.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-mayes-big-game-delivers-patriots-win-over-saints",
+          "publishedOn": "2025-10-12T20:11:17.000Z",
+          "wordCount": 2180,
+          "title": "Drake Maye&#39;s big game delivers Patriots win over Saints",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/228d546/2147483647/strip/true/crop/4632x2606+0+241/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9d%2F6c%2Ff9cc312746e0815a133db2f0bd5a%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240622702"
+        },
+        {
+          "id": "f8e196ee-0fed-3784-938a-c3b3f3c2c4c0",
+          "author": null,
+          "description": "It was not a victory the Chargers will frame and hang on the wall, but they did what they had to do to put it in the win column.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-come-from-behind-to-beat-dolphins-29-27",
+          "publishedOn": "2025-10-12T20:08:10.000Z",
+          "wordCount": 2429,
+          "title": "Chargers come from behind to beat Dolphins 29-27",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/348ee37/2147483647/strip/true/crop/6623x3725+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6d%2F03%2F02a421c24525bda48925e87a97ee%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27309166"
+        },
+        {
+          "id": "8f8732f0-8ec6-4f1d-a36e-76b4d3b027da",
+          "author": "Ryan Young",
+          "description": "Rico Dowdle set a franchise record after a pair of dominant outings for the Panthers.",
+          "link": "https://sports.yahoo.com/nfl/breaking-news/article/rico-dowdle-erupts-in-revenge-game-backs-up-smack-talk-to-lead-panthers-past-cowboys-200551754.html",
+          "publishedOn": "2025-10-12T20:05:51.000Z",
+          "wordCount": 9209,
+          "title": "Rico Dowdle erupts in revenge game, backs up smack talk to lead Panthers past Cowboys",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/039Uy.npZaZJFM4y4WTHtA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/4326eb50-a7a2-11f0-afff-88b3c54268c7"
+        },
+        {
+          "id": "7f6c7fe3-70cb-41e4-a74a-d081fb1fabda",
+          "author": "Jay Busbee",
+          "description": "The Jaguars' inconsistency couldn't match Seattle's big-play theatrics in Florida.",
+          "link": "https://sports.yahoo.com/nfl/article/jaxon-smith-njigba-leaps-into-the-elite-receiver-conversation-as-seattle-outplays-jacksonville-200536827.html",
+          "publishedOn": "2025-10-12T20:05:36.000Z",
+          "wordCount": 9044,
+          "title": "Jaxon Smith-Njigba leaps into the elite-receiver conversation as Seattle outplays Jacksonville",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vd7bqnwpedNlv8XqCELW8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/ca4af2f0-a7a4-11f0-bf94-9948ddfba671"
+        },
+        {
+          "id": "6c495acd-3b15-3095-b12c-b61d6bbf0a7d",
+          "author": null,
+          "description": "The Rams overcame a Puka Nacua injury, turnovers and kicking issues to earn a 17-3 road win over the Baltimore Ravens Sunday.",
+          "link": "https://sports.yahoo.com/article/matthew-stafford-potent-defense-helped-195921050.html",
+          "publishedOn": "2025-10-12T19:59:21.000Z",
+          "wordCount": 9918,
+          "title": "Matthew Stafford and a potent defense helped the Rams rally to beat the Ravens",
+          "imageUrl": "https://media.zenfs.com/en/la_times_articles_853/a6d297eb59a1f67994cff300e9438317"
+        },
+        {
+          "id": "aa289c3e-2787-3fc0-b146-601399e8f22a",
+          "author": null,
+          "description": "The Rams got off to a slow start in Baltimore, but put together a nice second half to bounce back with a 17-3 victory over the Ravens.",
+          "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-bounce-back-with-solid-second-half-beat-ravens-17-3",
+          "publishedOn": "2025-10-12T19:57:52.000Z",
+          "wordCount": 2497,
+          "title": "Rams bounce back with solid second half, beat Ravens 17-3",
+          "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/333ecdd/2147483647/strip/true/crop/4999x2812+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcd%2F46%2F95483e7b4bddbb6a5cc1181cd329%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27309196"
+        },
+        {
+          "id": "8a2789fc-6013-440e-9223-63a1860247ed",
+          "author": "Jason Owens",
+          "description": "The Ravens went from bad to worse on Sunday as the Los Angeles Rams sent a once-promising Baltimore season further into the abyss.",
+          "link": "https://sports.yahoo.com/nfl/breaking-news/article/cooper-rush-benched-baltimore-booed-as-rams-send-spiraling-ravens-to-1-5-ahead-of-lamar-jacksons-expected-return-195422528.html",
+          "publishedOn": "2025-10-12T19:54:22.000Z",
+          "wordCount": 9462,
+          "title": "Cooper Rush benched, Baltimore booed as Rams send spiraling Ravens to 1-5 ahead of Lamar Jackson&#39;s expected return",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/N7gVSVk3S0MYuWgo0A9MOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/d8583560-a7a4-11f0-9fac-5e1c4a2c5fe3"
+        },
+        {
+          "id": "6207dd0a-6ec4-47a5-9dac-c6f36b6d50b9",
+          "author": "Liz Kocan",
+          "description": "How to watch this week's Sunday Night Football game between the Detroit Lions and the Kansas City Chiefs.",
+          "link": "https://sports.yahoo.com/nfl/article/sunday-night-football-how-to-watch-the-detroit-lions-vs-kansas-city-chiefs-game-tonight-115515755.html",
+          "publishedOn": "2025-10-12T11:55:15.000Z",
+          "wordCount": 12819,
+          "title": "Sunday Night Football: How to watch the Detroit Lions vs. Kansas City Chiefs game tonight",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ruhY0p8QEkw9Ogiko_sTfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/299e8b90-a548-11f0-aefe-43205a71c468"
+        },
         {
           "id": "13e49869-3f0a-3bd8-8be1-468b8de3bb39",
           "author": null,
@@ -6186,6 +6686,156 @@
       "feedUrl": "https://www.espn.com/espn/rss/nfl/news",
       "siteUrl": "https://www.espn.com",
       "articles": [
+        {
+          "id": "US-EN-46573384",
+          "author": "Jeff Legwold",
+          "description": "Sean Payton is known for his great offenses. But after another big day on the other side of the ball, he knows Denver has a defensive personality.",
+          "link": "https://www.espn.com/nfl/story/_/id/46573384/denver-broncos-defense-team-sean-payton-2025-nfl-week-6",
+          "publishedOn": "2025-10-13T02:05:50.000Z",
+          "wordCount": 3032,
+          "title": "The Broncos are a defensive-based team, and that's what they need to be right now",
+          "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1012%2Fr1559297_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46547688",
+          "author": "ESPN",
+          "description": "null",
+          "link": "https://www.espn.com/nfl/story/_/id/46547688/week-6-nfl-highlights-plays-moments-touchdowns",
+          "publishedOn": "2025-10-13T02:00:14.000Z",
+          "wordCount": 2579,
+          "title": "Follow live: Goff, Williams connect for TD as Lions retake lead",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1013%2Fr1559409_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46573305",
+          "author": "Rich Cimini",
+          "description": "Quarterback Justin Fields received a strong vote of confidence from coach Aaron Glenn despite the worst passing performance in Jets history.",
+          "link": "https://www.espn.com/nfl/story/_/id/46573305/glenn-defends-justin-fields-jets-10-net-pass-yards",
+          "publishedOn": "2025-10-13T01:47:43.000Z",
+          "wordCount": 3292,
+          "title": "Glenn defends Fields despite Jets' -10 pass yards",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1012%2Fr1559187_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46576018",
+          "author": "Kalan Hooks",
+          "description": "The Jacksonville Jaguars' two-way rookie took part in the life-changing decision at Celebration Church.",
+          "link": "https://www.espn.com/nfl/story/_/id/46576018/travis-hunter-jacksonville-jagaurs-baptized-seahawks-matchup",
+          "publishedOn": "2025-10-13T01:40:06.000Z",
+          "wordCount": 2398,
+          "title": "'It's God's day': Jaguars WR Travis Hunter takes part in life-changing event before Seahawks matchup",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1012%2Fr1559371_2_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46575559",
+          "author": "David Newton",
+          "description": "Ex-Cowboys RB Rico Dowdle backed up his trash talk against his former team, racking up a Panthers-record 239 scrimmage yards in a 30-27 victory.",
+          "link": "https://www.espn.com/nfl/story/_/id/46575559/rico-dowdle-backs-talk-steamrolls-cowboys-239-yards",
+          "publishedOn": "2025-10-13T01:24:28.000Z",
+          "wordCount": 3239,
+          "title": "Unbuckled: Dowdle backs up talk, rolls Cowboys",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1012%2Fr1559303_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46575310",
+          "author": "Marcel Louis-Jacques",
+          "description": "Dolphins quarterback Tua Tagovailoa said Sunday that some of his teammates are showing up late or not at all to player-led meetings.",
+          "link": "https://www.espn.com/nfl/story/_/id/46575310/tagovailoa-calls-some-dolphins-player-meeting-attendance",
+          "publishedOn": "2025-10-13T01:24:26.000Z",
+          "wordCount": 3376,
+          "title": "Tua calls out some Fins for meeting attendance",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1012%2Fr1559308_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46574756",
+          "author": "Nick Wagoner",
+          "description": "The San Francisco 49ers took another significant injury hit Sunday when linebacker Fred Warner departed in the first quarter with a season-ending dislocated and fractured right ankle.",
+          "link": "https://www.espn.com/nfl/story/_/id/46574756/banged-49ers-lose-top-lb-fred-warner-ankle-injury",
+          "publishedOn": "2025-10-13T01:24:26.000Z",
+          "wordCount": 2869,
+          "title": "49ers lose top LB Warner to season-ending injury",
+          "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1012%2Fr1559292_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46575963",
+          "author": "Jenna Laine",
+          "description": "A depleted Buccaneers offense suffered another blow after rookie WR Emeka Egbuka exited Sunday's game against the 49ers with a hamstring injury.",
+          "link": "https://www.espn.com/nfl/story/_/id/46575963/depleted-bucs-lose-wr-emeka-egbuka-hamstring-injury",
+          "publishedOn": "2025-10-13T01:24:26.000Z",
+          "wordCount": 2667,
+          "title": "Depleted Bucs lose Egbuka to hamstring injury",
+          "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1012%2Fr1559358_1024x576_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46576070",
+          "author": "Jamison Hensley",
+          "description": "Ravens coach John Harbaugh says \"the hope\" is to have injured quarterback Lamar Jackson return after the bye and start the Oct. 26 game against the Chicago Bears.",
+          "link": "https://www.espn.com/nfl/story/_/id/46576070/ravens-lose-again-hope-lamar-jackson-return-bye",
+          "publishedOn": "2025-10-13T01:24:26.000Z",
+          "wordCount": 2930,
+          "title": "Ravens lose again but eye Lamar return after bye",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1012%2Fr1559365_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46572199",
+          "author": "Stephen Holder",
+          "description": "Colts quarterback Anthony Richardson Sr. sustained an orbital fracture during pregame warmups and was inactive for his team's 31-27 victory over game the Cardinals.",
+          "link": "https://www.espn.com/nfl/story/_/id/46572199/colts-richardson-inactive-hurting-eye-mishap-band",
+          "publishedOn": "2025-10-13T01:24:26.000Z",
+          "wordCount": 3048,
+          "title": "Colts' Richardson has orbital fracture from mishap",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1012%2Fr1559144_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46575058",
+          "author": "Sarah Barshop",
+          "description": "Rams star WR Puka Nacua's status for Week 7 against the Jaguars is in question following an ankle injury that limited him in Sunday's win.",
+          "link": "https://www.espn.com/nfl/story/_/id/46575058/rams-puka-nacua-limited-ankle-injury-week-7-status-tbd",
+          "publishedOn": "2025-10-13T01:24:26.000Z",
+          "wordCount": 2760,
+          "title": "Nacua limited by ankle injury; Week 7 status TBD",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1012%2Fr1559318_1024x576_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46531418",
+          "author": "NFL Nation",
+          "description": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 6.",
+          "link": "https://www.espn.com/nfl/story/_/id/46531418/nfl-week-6-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          "publishedOn": "2025-10-13T01:24:18.000Z",
+          "wordCount": 8400,
+          "title": "Questions, takeaways from NFL Week 6: Raiders bounce back against Titans; Panthers and Chargers win thrillers",
+          "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1012%2Fr1559340_2_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-46573302",
+          "author": "Dan Graziano",
+          "description": "We sized up Week 6 overreactions -- including a few for fantasy football -- weighing in on Fields, Drake Maye, the Cowboys' defense and Jaxon Smith-Njigba.",
+          "link": "https://www.espn.com/nfl/story/_/id/46573302/nfl-week-6-overreactions-surprises-fantasy-jets-patriots-cowboys-jaguars-buccaneers",
+          "publishedOn": "2025-10-13T01:24:18.000Z",
+          "wordCount": 4707,
+          "title": "Time to bench Justin Fields? Let's overreact to Week 6 games, fantasy performances",
+          "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1012%2Fr1559338_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-FFSundayHighLows-46574955",
+          "author": "Matt Bowen and Tristan H. Cockcroft",
+          "description": "Rico Dowdle, Jaxon Smith-Njigba and De'Von Achane dazzled with big Week 6 performances, but several of fantasy's most reliable stars early this season had a down week.",
+          "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-46574955/nfl-week-6-fantasy-football-winners-losers-injuries-rankings-more",
+          "publishedOn": "2025-10-12T23:55:32.000Z",
+          "wordCount": 5133,
+          "title": "Week 6 winners and losers: Dowdle makes case to keep starting; time to sack Fields?",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1012%2Fr1559335_1296x729_16%2D9.jpg"
+        },
+        {
+          "id": "US-EN-40919095",
+          "author": "NFL Nation",
+          "description": "Matthew Stafford needed 191 yards coming into Week 1 to join the prestigious quarterback club.",
+          "link": "https://www.espn.com/nfl/story/_/id/40919095/60k-club-passing-yards-quarterback-nfl-history",
+          "publishedOn": "2025-10-12T18:50:46.000Z",
+          "wordCount": 5206,
+          "title": "60K club: Stafford moves into ninth as Rodgers closes in on Roethlisberger for fifth",
+          "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0822%2Fstafford_rodgers_passing_yards_lede_1296x729.png"
+        },
         {
           "id": "US-EN-46556471",
           "author": "Adam Schefter",
