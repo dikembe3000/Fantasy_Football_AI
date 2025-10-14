@@ -2,10 +2,768 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dikembe3000.github.io/Fantasy_Football_AI/index.html</id>
     <title>FF Aggregator</title>
-    <updated>2025-10-13T01:23:54.775Z</updated>
+    <updated>2025-10-14T01:18:53.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dikembe3000.github.io/Fantasy_Football_AI/index.html"/>
     <link rel="self" href="https://dikembe3000.github.io/Fantasy_Football_AI/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Titans fire coach Callahan, name McCoy interim]]></title>
+        <id>US-EN-46583863</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46583863/titans-fire-coach-brian-callahan-1-5-start-2025"/>
+        <updated>2025-10-14T01:54:55.000Z</updated>
+        <summary type="html"><![CDATA[The Titans have fired Brian Callahan just six games into his second season as the team's head coach. He finishes with a 4-19 record as the team's coach.]]></summary>
+        <author>
+            <name>Turron Davenport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lions safety Branch suspended 1 game for fight]]></title>
+        <id>US-EN-46585859</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46585859/lions-brian-branch-suspended-one-game-postgame-fight"/>
+        <updated>2025-10-14T01:54:55.000Z</updated>
+        <summary type="html"><![CDATA[The NFL has suspended Lions safety Brian Branch for one game without pay after he struck Chiefs wide receiver JuJu Smith-Schuster and set off a brief fight.]]></summary>
+        <author>
+            <name>www.espn.com - NFL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kittle to practice; Purdy, Pearsall could be in mix too]]></title>
+        <id>US-EN-46586523</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46586523/49ers-george-kittle-practice-week-brock-purdy-ricky-pearsall-mix"/>
+        <updated>2025-10-14T01:54:55.000Z</updated>
+        <summary type="html"><![CDATA[49ers tight end George Kittle, who has been on IR since Week 2 because of a strained hamstring, will return to practice this week. Quarterback Brock Purdy (toe) and receiver Ricky Pearsall (knee) also could get back in the practice mix this week.]]></summary>
+        <author>
+            <name>Nick Wagoner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dolphins' McDaniel: Tua's comments 'misguided']]></title>
+        <id>US-EN-46585082</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46585082/dolphins-mcdaniel-tagovailoa-picked-wrong-forum-comments"/>
+        <updated>2025-10-14T01:54:55.000Z</updated>
+        <summary type="html"><![CDATA[Tua Tagovailoa's comments after Sunday's game were "misguided," and his postgame news conference was not "not the forum" to air his concerns, coach Mike McDaniel said Monday.]]></summary>
+        <author>
+            <name>Marcel Louis-Jacques</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eagles' pass rush depth takes hit as Smith retires]]></title>
+        <id>US-EN-46583307</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46583307/eagles-pass-rush-depth-takes-hit-zadarius-smith-retires"/>
+        <updated>2025-10-14T01:54:55.000Z</updated>
+        <summary type="html"><![CDATA[Eagles veteran edge rusher Za'Darius Smith announced his retirement on social media Monday, marking a sudden departure for a productive player at a position of need for Philadelphia.]]></summary>
+        <author>
+            <name>Tim McManus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tomlin questions Browns' trade of Flacco to Cincy]]></title>
+        <id>US-EN-46583801</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46583801/tomlin-browns-trading-flacco-bengals-make-sense"/>
+        <updated>2025-10-14T01:54:55.000Z</updated>
+        <summary type="html"><![CDATA[Steelers coach Mike Tomlin on Monday openly questioned the Browns and general manager Andrew Berry for the decision to execute a midseason trade sending quarterback Joe Flacco to the Bengals, saying, "It doesn't make sense."]]></summary>
+        <author>
+            <name>Brooke Pryor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jags rule out Lloyd, NFL's INT leader, vs. Rams]]></title>
+        <id>US-EN-46586564</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46586564/jaguars-rule-devin-lloyd-nfl-interceptions-leader-vs-rams"/>
+        <updated>2025-10-14T01:54:55.000Z</updated>
+        <summary type="html"><![CDATA[Jaguars linebacker Devin Lloyd, the NFL's leader in turnovers forced, will sit out Sunday's game against the Rams in London because of a calf injury.]]></summary>
+        <author>
+            <name>Michael Dirocco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Source: Jets WR Wilson avoids major knee injury]]></title>
+        <id>US-EN-46585592</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46585592/source-jets-garrett-wilson-appears-avoid-serious-knee-injury"/>
+        <updated>2025-10-14T01:54:55.000Z</updated>
+        <summary type="html"><![CDATA[Jets wide receiver Garrett Wilson underwent an MRI on Monday and avoided a serious knee injury, a source told ESPN, but the issue probably still means some down time.]]></summary>
+        <author>
+            <name>Rich Cimini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monday Night Football: Bijan Robinson, Drake London lead Falcons to 21-7 halftime lead]]></title>
+        <id>4184d26c-b057-3cf1-a5ae-000ad14e4d82</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-bijan-robinson-drake-london-lead-falcons-to-21-7-halftime-lead"/>
+        <updated>2025-10-14T01:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Robinson has 138 rushing yards and a touchdown, and London has 147 receiving yards and a touchdown.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caleb Williams running touchdown gives Bears 13-0 lead in Washington]]></title>
+        <id>2fc458e0-d14b-35ce-9369-2a2df1460f50</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-running-touchdown-gives-bears-13-0-lead-in-washington"/>
+        <updated>2025-10-14T00:57:20.000Z</updated>
+        <summary type="html"><![CDATA[It's been all Bears tonight in Washington.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jake Moody field goal gives Bears early lead in Washington]]></title>
+        <id>9137d7d3-d55d-347d-8c7d-7e6f0e940eca</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jake-moody-field-goal-gives-bears-early-lead-in-washington"/>
+        <updated>2025-10-14T00:30:30.000Z</updated>
+        <summary type="html"><![CDATA[As a third-round pick of the 49ers, kicker Jake Moody was a disaster.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joshua Palmer: Questionable to return]]></title>
+        <id>nfl610821</id>
+        <link href="https://www.rotowire.com//football/player/joshua-palmer-15447"/>
+        <updated>2025-10-14T00:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Palmer is questionable to return to Monday's game against Atlanta due to an ankle injury, Alaina Getzenberg of ESPN.com reports.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bijan Robinson&#39;s career-long run has Falcons leading 21-7]]></title>
+        <id>19645ea7-2400-31e2-a553-f81c24e39ec4</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bijan-robinsons-career-long-run-has-falcons-leading-21-7"/>
+        <updated>2025-10-14T00:18:11.000Z</updated>
+        <summary type="html"><![CDATA[Bijan Robinson has the longest run of his career, and the Falcons have a 21-7 lead on the Bills.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joshua Palmer: Dealing with lower-body inury]]></title>
+        <id>nfl610819</id>
+        <link href="https://www.rotowire.com//football/player/joshua-palmer-15447"/>
+        <updated>2025-10-14T00:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Palmer is being evaluated for an apparent lower-body injury during Monday's game against the Falcons, Jay Skurski of The Buffalo Newsreports.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report: Bill Callahan is leaving Titans after the firing of his son]]></title>
+        <id>3876e38d-8911-3ffe-96f3-fb7053785459</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-bill-callahan-is-leaving-titans-after-the-firing-of-his-son"/>
+        <updated>2025-10-14T00:08:52.000Z</updated>
+        <summary type="html"><![CDATA[Titans offensive line coach Bill Callahan is leaving the team after it fired his son, Brian, on Monday, Paul Kuharsky of paulkuharsky.com reports.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drake London gives Falcons a 14-7 lead]]></title>
+        <id>be22e0f0-23b0-3afa-b176-e64c27a3f62d</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-london-gives-falcons-a-14-7-lead"/>
+        <updated>2025-10-13T23:59:33.000Z</updated>
+        <summary type="html"><![CDATA[Falcons wide receiver Darnell Mooney is inactive with a hamstring injury, but Michael Penix still has Drake London.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devin Lloyd Won't Travel for Week 7]]></title>
+        <id>https://www.draftsharks.com/shark-bites/79705/devin-lloyd-wont-travel-for-week-7</id>
+        <link href="https://www.draftsharks.com/shark-bites/79705/devin-lloyd-wont-travel-for-week-7"/>
+        <updated>2025-10-13T23:40:29.000Z</updated>
+        <summary type="html"><![CDATA[The Jaguars have already ruled LB Devin Lloyd out for Sunday's game against the Rams in London, according to NFL Network's Ian Rapoport. He's dealing wi]]></summary>
+        <author>
+            <name>Kevin English</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bills tie Falcons 7-7 on Josh Allen&#39;s TD throw]]></title>
+        <id>94e0f73b-3522-3c11-8644-08417fcf01e6</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-tie-falcons-7-7-on-josh-allens-td-throw"/>
+        <updated>2025-10-13T23:38:22.000Z</updated>
+        <summary type="html"><![CDATA[Josh Allen threw his 10th touchdown of the season on the Bills' first drive Monday night.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brian Branch appeals his one-game suspension]]></title>
+        <id>df656eb5-97d5-3144-b215-bcb4722baf7e</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-branch-appeals-his-one-game-suspension"/>
+        <updated>2025-10-13T23:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Precedent could be on Branch's side.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falcons strike first with a touchdown drive]]></title>
+        <id>ab0453d1-4841-30db-9a9d-007d43355017</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-strike-first-with-a-touchdown-drive"/>
+        <updated>2025-10-13T23:28:02.000Z</updated>
+        <summary type="html"><![CDATA[On the first play from scrimmage Monday night, Bijan Robinson fumbled after a 3-yard gain.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jets WR Garrett Wilson hyperextended knee in loss to Broncos, will miss a ‘couple of weeks’]]></title>
+        <id>941fea70-7fad-4ea1-afca-e59d8b4d9f52</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/jets-wr-garrett-wilson-hyperextended-knee-in-loss-to-broncos-will-miss-a-couple-of-weeks-232533828.html"/>
+        <updated>2025-10-13T23:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Garrett Wilson has avoided a major knee injury after going down late in their loss to the Broncos on Sunday in London.]]></summary>
+        <author>
+            <name>Ryan Young</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monday Night Football: Deebo Samuel will play; Cairo Santos is inactive]]></title>
+        <id>d9306833-74f5-3986-b52b-1831992dcf63</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-deebo-samuel-is-active-cairo-santos-is-inactive"/>
+        <updated>2025-10-13T23:11:14.000Z</updated>
+        <summary type="html"><![CDATA[The Commanders won't have two of their wide receivers, but they will have Deebo Samuel.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rashee Rice: Suspension lifted]]></title>
+        <id>nfl610796</id>
+        <link href="https://www.rotowire.com//football/player/rashee-rice-16963"/>
+        <updated>2025-10-13T22:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Rice's suspension has been lifted by the NFL, per the league's official transaction log, which paves the way for the wideout to be available for Sunday's game against the Raiders.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[49ers expect George Kittle to practice this week]]></title>
+        <id>611b5aab-50cc-337f-81fb-b638c4cc8289</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-expect-george-kittle-to-practice-this-week"/>
+        <updated>2025-10-13T22:34:58.000Z</updated>
+        <summary type="html"><![CDATA[The 49ers could get a little help on offense for their Week 7 game against the Falcons.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brandon Aiyuk: Still no timetable to practice]]></title>
+        <id>nfl610795</id>
+        <link href="https://www.rotowire.com//football/player/brandon-aiyuk-14386"/>
+        <updated>2025-10-13T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Coach Kyle Shanahan said Monday that Aiyuk (knee) is getting "closer and closer" to being able to practice, but the 49ers don't have a specific timeline for the wide receiver to do so, Nick Wagoner of ESPN.com reports.
+
+        Visit RotoWire.com for more analysis on this update.]]></summary>
+        <author>
+            <name>RotoWire.com Latest NFL News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaguars LB Devin Lloyd won&#39;t travel to London or play in Week 7]]></title>
+        <id>5d75b87f-606d-35be-94fb-d51b519a6acd</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-lb-devin-lloyd-wont-travel-to-london-or-play-in-week-7"/>
+        <updated>2025-10-13T22:18:01.000Z</updated>
+        <summary type="html"><![CDATA[The Jaguars will be missing one of their defensive players in their Week 7 game against the Rams.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeMarvion Overshown is expected to return to practice in the &quot;next week or two&quot;]]></title>
+        <id>6da0108b-43bc-32a7-83df-8a3cbf1db73e</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/demarvion-overshown-is-expected-to-return-to-practice-in-the-next-week-or-two"/>
+        <updated>2025-10-13T22:06:46.000Z</updated>
+        <summary type="html"><![CDATA[Help is on the way for the Dallas defense.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What does Brian Callahan's firing mean for Cam Ward, 1-5 Titans?]]></title>
+        <id>US-EN-46583914</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46583914/tennessee-titans-fire-brian-callahan-mean-cam-ward"/>
+        <updated>2025-10-13T22:03:13.000Z</updated>
+        <summary type="html"><![CDATA[Everything you need to know about Tennessee parting ways with Callahan, including what's next, intel on draft and trade considerations and more.]]></summary>
+        <author>
+            <name>Turron Davenport and Matt Miller and Dan Graziano and Jeremy Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monday Night Football: Bills TE Dalton Kincaid, WR Curtis Samuel are inactive]]></title>
+        <id>ec2b4f77-28f1-358f-9eb7-a6efe2604abe</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-bills-te-dalton-kincaid-wr-curtis-samuel-are-inactive"/>
+        <updated>2025-10-13T22:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Bills quarterback Josh Allen will be down two weapons for Monday Night Football.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It makes sense that Browns trading Joe Flacco to Bengals doesn&#39;t make sense to Steelers&#39; Mike Tomlin]]></title>
+        <id>eb3b56d2-7009-4295-b80c-b8319fc81f8b</id>
+        <link href="https://sports.yahoo.com/article/it-makes-sense-that-browns-trading-joe-flacco-to-bengals-doesnt-make-sense-to-steelers-mike-tomlin-215245795.html"/>
+        <updated>2025-10-13T21:52:45.000Z</updated>
+        <summary type="html"><![CDATA[Perhaps Tomlin's airing of his feelings was just a friendly jab at a divisional rival. Or perhaps Tomlin wanted to send a message to the AFC North that anything less than maximal competitive spirit will be scorned.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy football pickups: Vidal steps up; Dart, Darnold being underrated]]></title>
+        <id>US-EN-46584020</id>
+        <link href="https://www.espn.com/fantasy/football/story/_/id/46584020/fantasy-football-free-agent-pickups-waiver-wire-nfl-week-7"/>
+        <updated>2025-10-13T21:46:32.000Z</updated>
+        <summary type="html"><![CDATA[Highlighting free agent options after some big performances this weekend and to help with injury concerns ahead of Week 7.]]></summary>
+        <author>
+            <name>Eric Karabell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bengals list Trey Hendrickson as out of Monday&#39;s practice, Shemar Stewart listed as full participant]]></title>
+        <id>01f950a0-bb52-3840-a314-04a72e59aa35</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-list-trey-hendrickson-as-out-of-mondays-practice-shemar-stewart-listed-as-full-participant"/>
+        <updated>2025-10-13T21:38:23.000Z</updated>
+        <summary type="html"><![CDATA[The Bengals' first injury report of Week 7 lists defensive end Trey Hendrickson as out of practice.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After miraculous plays and a 5-1 start, Bucs' Mayfield tempers MVP talk]]></title>
+        <id>US-EN-46577781</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46577781/tampa-bay-buccaneers-baker-mayfield-tempers-mvp-talks"/>
+        <updated>2025-10-13T21:36:12.000Z</updated>
+        <summary type="html"><![CDATA[The heroics continue for Tampa Bay's quarterback, even as the injuries mount to his top receiving options.]]></summary>
+        <author>
+            <name>Jenna Laine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFL Week 6's top performance? Check the fan-voted 'Himmy' Award leaderboard]]></title>
+        <id>US-EN-46583304</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46583304/patrick-mahomes-baker-mayfield-drake-maye-rico-dowdle-himmy-award-week-6"/>
+        <updated>2025-10-13T21:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Patrick Mahomes, Baker Mayfield, Drake Maye or Rico Dowdle -- only one of them could win Week 6's "Himmy" Award.]]></summary>
+        <author>
+            <name>ESPN Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First bets for Week 7: Buccaneers' luck runs out vs. Lions, Giants cover in Denver]]></title>
+        <id>US-EN-46509824</id>
+        <link href="https://www.espn.com/espn/betting/story/_/id/46509824/2025-nfl-week-7-games-betting-odds-props-early-pick-predictions-first-bet"/>
+        <updated>2025-10-13T21:30:57.000Z</updated>
+        <summary type="html"><![CDATA[What lines offered immediate value once odds came out? Here are five early bets and a futures wager to track.]]></summary>
+        <author>
+            <name>ESPN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week 7 betting lines: Bucs-Lions and Commanders-Cowboys have highest totals]]></title>
+        <id>US-EN-46509798</id>
+        <link href="https://www.espn.com/espn/betting/story/_/id/46509798/2025-nfl-week-7-schedule-odds-betting-point-spreads"/>
+        <updated>2025-10-13T21:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Two games have total points projections north of 50, and the Chiefs are favorites over the Raiders.]]></summary>
+        <author>
+            <name>www.espn.com - NFL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Titans to name Mike McCoy interim head coach]]></title>
+        <id>9f76b64b-47c3-3862-9f70-f4ddc3a0cd19</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-to-name-mike-mccoy-interim-head-coach"/>
+        <updated>2025-10-13T21:22:59.000Z</updated>
+        <summary type="html"><![CDATA[After firing Brian Callahan earlier on Monday, the Titans have found his replacement for the rest of 2025.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brian Branch suspended one game for conduct at the end of Lions-Chiefs]]></title>
+        <id>cfe0fe32-bb0f-363c-8dc3-8d493e874445</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-branch-suspended-one-game-for-conduct-at-the-end-of-lions-chiefs"/>
+        <updated>2025-10-13T21:14:03.000Z</updated>
+        <summary type="html"><![CDATA[In the announcement, the NFL said Branch was suspended for his unsportsmanlike conduct that "has no place in our game."]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brian Callahan fired by Titans after posting a 4-19 record, Mike McCoy expected to be named interim coach]]></title>
+        <id>3bdb4fa3-63aa-4648-a45f-e2e2113dad07</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/brian-callahan-fired-by-titans-after-posting-a-4-19-record-mike-mccoy-expected-to-be-named-interim-coach-211139311.html"/>
+        <updated>2025-10-13T21:11:39.000Z</updated>
+        <summary type="html"><![CDATA[The Titans went 3-14 in Callahan's first season as head coach.]]></summary>
+        <author>
+            <name>Frank Schwab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colts place Anthony Richardson on injured reserve, claim S Reuben Lowery]]></title>
+        <id>14ebbbe0-6de7-30c0-a5bc-4b34929a347e</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-place-anthony-richardson-on-injured-reserve-claim-s-reuben-lowery"/>
+        <updated>2025-10-13T21:06:19.000Z</updated>
+        <summary type="html"><![CDATA[The Colts placed quarterback Anthony Richardson Sr. on injured reserve on Monday, the team announced.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFL suspends Lions DB Brian Branch 1 game for fight with JuJu Smith-Schuster after loss to Chiefs]]></title>
+        <id>8cd5e053-d9a4-4ab7-8025-6ffe82d6349f</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/nfl-suspends-lions-db-brian-branch-1-game-for-fight-with-juju-smith-schuster-after-loss-to-chiefs-210207211.html"/>
+        <updated>2025-10-13T21:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Branch called his actions "childish." The NFL called them worthy of a one-game ban.]]></summary>
+        <author>
+            <name>Ryan Young</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report: Garrett Wilson avoided major knee injury]]></title>
+        <id>f0851830-1266-3757-9519-8d4cae6e4506</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-garrett-wilson-avoided-major-knee-injury"/>
+        <updated>2025-10-13T21:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Jets head coach Aaron Glenn said at a Monday press conference that he will have an update on wide receiver Garrett Wilson's knee injury on Wednesday, but a report about the wideout has shed some light on the severity of the injury.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brian Callahan fired as Titans head coach. Former UCLA walk-on started season 1-5]]></title>
+        <id>954cca4e-0eab-3df0-92ce-fc00d9cb70aa</id>
+        <link href="https://sports.yahoo.com/article/brian-callahan-fired-titans-head-205831697.html"/>
+        <updated>2025-10-13T20:58:31.000Z</updated>
+        <summary type="html"><![CDATA[Brian Callahan, a former backup quarterback at UCLA, was fired Monday as the Tennessee Titans head coach after starting the season 1-5 and going 4-19 overall.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Checking the temperature of the NFL's hottest seats: Barnwell on Mike McDaniel, Justin Fields]]></title>
+        <id>US-EN-46573291</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46573291/2025-nfl-week-6-hot-seat-watch-coaches-players-mcdaniel-fields-harbaugh-callahan"/>
+        <updated>2025-10-13T20:51:29.000Z</updated>
+        <summary type="html"><![CDATA[Should the Dolphins, Titans or Ravens make coaching changes? Is it time for a QB switch for the Jets? Might the Eagles consider moves in their secondary?]]></summary>
+        <author>
+            <name>Bill Barnwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jets WR Garrett Wilson appears to have avoided serious knee injury: report]]></title>
+        <id>8f972b90-3af4-304c-83d0-7391b8ab51e3</id>
+        <link href="https://sny.tv/articles/jets-garrett-wilson-appears-avoided-serious-knee-injury-10132025"/>
+        <updated>2025-10-13T20:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Jets wide receiver Garrett Wilson underwent an MRI that indicated he did not sustain a serious knee injury during Sunday's 13-11 loss to the Denver Broncos in London.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calvin Austin remains sidelined on Steelers first Week 7 injury report]]></title>
+        <id>fa2ce564-3af4-3715-ad33-f56edc26aa93</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/calvin-austin-remains-sidelined-on-steelers-first-week-7-injury-report"/>
+        <updated>2025-10-13T20:44:14.000Z</updated>
+        <summary type="html"><![CDATA[With the Steelers playing the Bengals on Thursday night, Pittsburgh has released its first estimated injury report of the week.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falcons elevate CB Keith Taylor, WR Deven Thompkins for Monday Night Football]]></title>
+        <id>bebe9988-82b7-3424-aab4-044acaf57816</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-elevate-cb-keith-taylor-wr-deven-thompkins-for-monday-night-football"/>
+        <updated>2025-10-13T20:17:05.000Z</updated>
+        <summary type="html"><![CDATA[The Falcons elevated cornerback Keith Taylor and wide receiver Deven Thompkins from the practice squad for Monday Night Football, the team announced.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bears elevate K Jake Moody, DL Jonathan Ford for Monday vs. Commanders]]></title>
+        <id>079d5aeb-83da-3712-8ccc-718d92ce4e54</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-elevate-k-jake-moody-dl-jonathan-ford-for-monday-vs-commanders"/>
+        <updated>2025-10-13T20:16:00.000Z</updated>
+        <summary type="html"><![CDATA[The Bears have made a couple of practice squad elevations for Monday night's game against the Commanders.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brian Schottenheimer backs Matt Eberflus: He&#39;s a great coach]]></title>
+        <id>0320b18c-52a7-3959-9db1-11805cb9e623</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-backs-matt-eberflus-hes-a-great-coach"/>
+        <updated>2025-10-13T19:50:50.000Z</updated>
+        <summary type="html"><![CDATA[The Cowboys rank 32nd in total defense, allowing 411.7 yards per game, and 31st in scoring, allowing 30.7 points per game.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curran: Maye&#39;s play is helping ‘infuse&#39; Patriots WRs with confidence]]></title>
+        <id>eda5045d-95b5-35b1-bcda-2b2dd6fb33d1</id>
+        <link href="https://www.nbcsportsboston.com/nfl/new-england-patriots/drake-maye-elevating-kayshon-boutte-receivers/738640/?partner=yahoo"/>
+        <updated>2025-10-13T19:49:40.000Z</updated>
+        <summary type="html"><![CDATA[New England Patriots quarterback Drake Maye is infusing confidence into his pass-catchers with his play, Patriots insider Tom E. Curran says.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Browns waive OT Thayer Munford]]></title>
+        <id>32c32ee9-f56f-3a11-b531-280196c0ea08</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-waive-ot-thayer-munford"/>
+        <updated>2025-10-13T19:49:40.000Z</updated>
+        <summary type="html"><![CDATA[The Browns are continuing to shuffle personnel on their offensive line.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Titans sack head coach Callahan after poor start]]></title>
+        <id>4eee17a7-5856-3134-adce-3c49aa587e20</id>
+        <link href="https://www.bbc.com/sport/american-football/articles/cjek21pxvq9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"/>
+        <updated>2025-10-13T19:45:22.000Z</updated>
+        <summary type="html"><![CDATA[The Tennessee Titans sack head coach Brian Callahan following a disappointing start to the NFL season.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chiefs are rounding back into form — just as presumptive AFC contenders are collapsing around them]]></title>
+        <id>c0c322a9-bda7-4ffa-ac06-6ef7fd7a28e9</id>
+        <link href="https://sports.yahoo.com/nfl/article/chiefs-are-rounding-back-into-form--just-as-presumptive-afc-contenders-are-collapsing-around-them-194244388.html"/>
+        <updated>2025-10-13T19:42:44.000Z</updated>
+        <summary type="html"><![CDATA[Patrick Mahomes and Kansas City would look ripe for another deep postseason run even if the conference as a whole wasn't looking so weakened.]]></summary>
+        <author>
+            <name>Charles McDonald</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amon-Ra St. Brown on fourth-down drop: Should have caught it, went right through my hands]]></title>
+        <id>6e7f3684-cc6c-3d65-8b7d-a635f827bde2</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/amon-ra-st-brown-on-fourth-down-drop-should-have-caught-it-went-right-through-my-hands"/>
+        <updated>2025-10-13T19:21:21.000Z</updated>
+        <summary type="html"><![CDATA[One of the major turning points of Sunday night's game came when the Lions went for it on fourth-and-2 with 2:46 remaining in the second quarter.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vikings open 21-day practice window for Blake Cashman]]></title>
+        <id>534da9fd-4393-3c14-bb26-1d6cc1925eb3</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-open-21-day-practice-window-for-blake-cashman"/>
+        <updated>2025-10-13T19:10:52.000Z</updated>
+        <summary type="html"><![CDATA[Help is on the way for the Vikings' defense.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pete Carroll: Might be best for &quot;long haul&quot; to keep Brock Bowers out through Week 8 bye]]></title>
+        <id>11a00327-6338-3b5d-882e-9573355ebd88</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pete-carroll-might-be-best-for-long-haul-to-keep-brock-bowers-out-through-week-8-bye"/>
+        <updated>2025-10-13T19:07:22.000Z</updated>
+        <summary type="html"><![CDATA[The Raiders have played without tight end Brock Bowers the last two weeks and his status for Week 7's trip to Kansas City was a topic at head coach Pete Carroll's Monday press conference.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kevin O&#39;Connell not ready to announce Week 7 starter at QB]]></title>
+        <id>3691af4c-56cb-3b6c-9df0-b236b136b48a</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-not-ready-to-announce-week-7-starter-at-qb"/>
+        <updated>2025-10-13T19:01:34.000Z</updated>
+        <summary type="html"><![CDATA[Who will start at quarterback when the Vikings play the Eagles in Week 7?]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harbaugh Expects Roquan Smith to Play Week 8]]></title>
+        <id>https://www.draftsharks.com/shark-bites/79696/harbaugh-expects-roquan-smith-to-play-week-8</id>
+        <link href="https://www.draftsharks.com/shark-bites/79696/harbaugh-expects-roquan-smith-to-play-week-8"/>
+        <updated>2025-10-13T18:53:47.000Z</updated>
+        <summary type="html"><![CDATA[The Ravens get a (likely) welcomed bye in Week 7. After that, they expect to get LB Roquan Smith back. Jeff Zrebiec of The Athletic reports that HC John]]></summary>
+        <author>
+            <name>Kevin English</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mike McDaniel: Tua Tagovailoa picked the wrong forum for his comments]]></title>
+        <id>e51a7bb0-7771-31f6-aee7-a488aecb0f23</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mcdaniel-postgame-press-conference-was-not-the-right-forum-for-tua-tagovailoas-comments"/>
+        <updated>2025-10-13T18:39:22.000Z</updated>
+        <summary type="html"><![CDATA[After Sunday's loss to the Chargers, Dolphins quarterback Tua Tagovailoa said he thinks problems with the 1-5 team "starts with the leadership" and included "guys not showing up to player-only meetings" as one of the places where that leadership was lacking.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Packers RB Josh Jacobs&#39; productive day came despite vomiting before, during game: &#39;I&#39;m ready to go lay down&#39;]]></title>
+        <id>c6b0d16c-5320-4f16-a1d2-2412e711d6f8</id>
+        <link href="https://sports.yahoo.com/nfl/article/packers-rb-josh-jacobs-productive-day-came-despite-vomiting-before-during-game-im-ready-to-go-lay-down-183313629.html"/>
+        <updated>2025-10-13T18:33:13.000Z</updated>
+        <summary type="html"><![CDATA[Jacobs ran for 93 yards and two touchdowns during a win over the Bengals]]></summary>
+        <author>
+            <name>Sean Leahy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jayden Daniels and the QB battle that unlocked his greatness]]></title>
+        <id>US-EN-46554320</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46554320/jayden-daniels-nfl-washington-commanders-battle"/>
+        <updated>2025-10-13T18:27:38.000Z</updated>
+        <summary type="html"><![CDATA[Daniels was third on the depth chart when he transferred to LSU. This is how he won the QB battle and unlocked his potential.]]></summary>
+        <author>
+            <name>Ryan Hockensmith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Jayden Daniels vs. Caleb Williams 2.0: A year after the Hail Mary]]></title>
+        <id>US-EN-46543456</id>
+        <link href="https://www.espn.com/nfl/story/_/id/46543456/nfl-bears-commanders-jayden-daniels-caleb-williams-hail-mary"/>
+        <updated>2025-10-13T18:27:38.000Z</updated>
+        <summary type="html"><![CDATA[Daniels' numbers aren't as good as last year's while Williams' accuracy remains an issue.]]></summary>
+        <author>
+            <name>John Keim, Courtney Cronin, Jeremy Fowler, Jordan Reid, Seth Walder, Seth Wickersham and Aaron Schatz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who will be the Titans&#39; interim head coach?]]></title>
+        <id>e5fe76f2-051e-35a7-a646-663ef4e0a993</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/who-will-be-the-titans-interim-head-coach"/>
+        <updated>2025-10-13T18:14:08.000Z</updated>
+        <summary type="html"><![CDATA[The Tennessee Titans have announced that coach Brian Callahan is out.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sources: Several teams interested in trading for Jets edge rusher Jermaine Johnson]]></title>
+        <id>76cd429f-437f-3358-879b-24f13d9df3f9</id>
+        <link href="https://sny.tv/articles/jets-jermaine-johnson-nfl-trade-deadline"/>
+        <updated>2025-10-13T18:03:19.000Z</updated>
+        <summary type="html"><![CDATA[Sources tell SNY NFL Insider Connor Hughes that edge rusher Jermaine Johnson is a name that has come up for several teams in need of help rushing the quarterback.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Titans fire coach Brian Callahan]]></title>
+        <id>695e8153-f7ce-3add-ae57-e7ce8ea52258</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-fire-coach-brian-callahan"/>
+        <updated>2025-10-13T18:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Mike Vrabel won't face his replacement on Sunday, when Pats come to Nashville.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trey Hendrickson day-to-day, Mike Gesicki will be out &quot;a while&quot; for Bengals]]></title>
+        <id>c5d6e746-0072-3bc1-a2d8-dab283af0f60</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trey-hendrickson-day-to-day-mike-gesicki-will-be-out-a-while-for-bengals"/>
+        <updated>2025-10-13T17:33:36.000Z</updated>
+        <summary type="html"><![CDATA[As the Bengals prepare to play the Steelers on a short week, head coach Zac Taylor had injury updates on some key players during his Monday press conference.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football Week 7 Waiver Wire: Kickers to consider streaming]]></title>
+        <id>4b3d25c6-47b0-4b83-84da-7336b9e944ad</id>
+        <link href="https://sports.yahoo.com/fantasy/article/fantasy-football-week-7-waiver-wire-kickers-to-consider-streaming-172902324.html"/>
+        <updated>2025-10-13T17:29:02.000Z</updated>
+        <summary type="html"><![CDATA[We're going over Week 7 fantasy football kickers to stream off the waiver wire.]]></summary>
+        <author>
+            <name>Yahoo Sports Fantasy Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Football Week 7 Waiver Wire: D/ST options to consider streaming]]></title>
+        <id>6c1e8182-6cfd-4ad5-9242-2082fb7d4319</id>
+        <link href="https://sports.yahoo.com/fantasy/article/fantasy-football-week-7-waiver-wire-dst-options-to-consider-streaming-172458170.html"/>
+        <updated>2025-10-13T17:24:58.000Z</updated>
+        <summary type="html"><![CDATA[We're going over Week 7 fantasy football D/ST options to stream off the waiver wire.]]></summary>
+        <author>
+            <name>Yahoo Sports Fantasy Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[49ers fans identify most impactful acquisition through Week 6 of 2025 NFL season]]></title>
+        <id>97b36a47-2a26-334b-9a50-6b816775d76e</id>
+        <link href="https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/mac-jones-eddy-pineiro-impact/1881257/?partner=yahoo"/>
+        <updated>2025-10-13T17:21:54.000Z</updated>
+        <summary type="html"><![CDATA[Due to injuries and ineffectiveness, the San Francisco 49ers have relied heavily on their offseason and in-season acquisitions so far this season.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mike Tomlin takes shot at Browns GM after Joe Flacco trade: &#39;Andrew Berry must be a lot smarter than me&#39;]]></title>
+        <id>1c6f0b31-90bb-443d-b0ef-96fa49f04af6</id>
+        <link href="https://sports.yahoo.com/nfl/article/mike-tomlin-takes-shot-at-browns-gm-after-joe-flacco-trade-andrew-berry-must-be-a-lot-smarter-than-me-172051188.html"/>
+        <updated>2025-10-13T17:20:51.000Z</updated>
+        <summary type="html"><![CDATA[The Steelers head coach didn't understand why the Browns would help out a division rival.]]></summary>
+        <author>
+            <name>Sean Leahy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris Godwin, Bucky Irving &quot;not in play&quot; for Bucs in Week 7]]></title>
+        <id>749813d7-5794-3e3b-b4c0-a902849bd66a</id>
+        <link href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-godwin-bucky-irving-not-in-play-for-bucs-in-week-7"/>
+        <updated>2025-10-13T17:04:04.000Z</updated>
+        <summary type="html"><![CDATA[The Buccaneers won't be getting wide receiver Chris Godwin or running back Bucky Irving back for their Week 7 Monday night game.]]></summary>
+        <author>
+            <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outlook Darkens on Emeka Egbuka's Hamstring Issue]]></title>
+        <id>https://www.draftsharks.com/shark-bites/79690/outlook-darkens-on-emeka-egbukas-hamstring-issue</id>
+        <link href="https://www.draftsharks.com/shark-bites/79690/outlook-darkens-on-emeka-egbukas-hamstring-issue"/>
+        <updated>2025-10-13T16:46:26.000Z</updated>
+        <summary type="html"><![CDATA[ESPN's Adam Schefter reports that Buccaneers WR Emeka Egbuka will head for more testing Tuesday "to determine how much time he will miss" following the]]></summary>
+        <author>
+            <name>Kevin English</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bowles: No Bucky Irving or Chris Godwin for Week 7; Mike Evans Might Be Ready]]></title>
+        <id>https://www.draftsharks.com/shark-bites/79689/bowles-no-bucky-irving-or-chris-godwin-for-week-7-mike-evans-might-be-ready</id>
+        <link href="https://www.draftsharks.com/shark-bites/79689/bowles-no-bucky-irving-or-chris-godwin-for-week-7-mike-evans-might-be-ready"/>
+        <updated>2025-10-13T16:36:58.000Z</updated>
+        <summary type="html"><![CDATA[ESPN's Adam Schefter reports that Buccaneers HC Todd Bowles has already said RB Bucky Irving and WR Chris Godwin are "not in play" for a Monday night cl]]></summary>
+        <author>
+            <name>Kevin English</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trey Hendrickson Hurts Back]]></title>
+        <id>https://www.draftsharks.com/shark-bites/79688/trey-hendrickson-hurts-back</id>
+        <link href="https://www.draftsharks.com/shark-bites/79688/trey-hendrickson-hurts-back"/>
+        <updated>2025-10-13T16:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Bengals Edge Trey Hendrickson left in the first half of Sunday's loss to the Packers with a back injury. The team initially deemed him questionable to r]]></summary>
+        <author>
+            <name>Kevin English</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former NFL players react to Tua Tagovailoa&#39;s candid comments: &#39;Isn’t he just telling on himself?&#39;]]></title>
+        <id>7297e3d7-bd31-4a84-88a0-088add808fef</id>
+        <link href="https://sports.yahoo.com/nfl/article/former-nfl-players-react-to-tua-tagovailoas-candid-comments-isnt-he-just-telling-on-himself-160522874.html"/>
+        <updated>2025-10-13T16:05:22.000Z</updated>
+        <summary type="html"><![CDATA[The Dolphins quarterback told reporters some players have been late or not shown up for player-only meetings]]></summary>
+        <author>
+            <name>Sean Leahy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Broncos are a defensive-based team, and that's what they need to be right now]]></title>
         <id>US-EN-46573384</id>
@@ -494,6 +1252,16 @@
         <summary type="html"><![CDATA[Rams wide receiver Puka Nacua returned to Sunday's win over the Ravens after injuring his ankle in the second quarter, but it's not a sure thing that he will be back for Week 7's game against the Jaguars in London.]]></summary>
         <author>
             <name>NFL News, Scores, Fantasy Games and Highlights 2020 | Yahoo Sports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colts QB Anthony Richardson placed on injured reserve after &#39;fluke accident&#39; with workout band that resulted in orbital fracture]]></title>
+        <id>fc6922a9-99a3-4554-b13a-41b8dc367375</id>
+        <link href="https://sports.yahoo.com/nfl/breaking-news/article/colts-qb-anthony-richardson-placed-on-injured-reserve-after-fluke-accident-with-workout-band-that-resulted-in-orbital-fracture-203643583.html"/>
+        <updated>2025-10-12T20:36:43.000Z</updated>
+        <summary type="html"><![CDATA[Anthony Richardson was supposed to back up Daniel Jones on Sunday. Instead, he spent the game in the hospital.]]></summary>
+        <author>
+            <name>Ryan Young</name>
         </author>
     </entry>
     <entry>
@@ -8758,16 +9526,6 @@
         <link href="https://www.draftsharks.com/shark-bites/79041/confirmed-joe-burrow-out-for-a-minimum-of-three-months"/>
         <updated>2025-09-15T12:44:32.000Z</updated>
         <summary type="html"><![CDATA[Bengals QB Joe Burrow will require surgery on his toe, sidelining him for at least three months, according to ESPN’s Adam Schefter. Burrow suffered a]]></summary>
-        <author>
-            <name>Kevin English</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laiatu Latu Not Expected to Play Against Broncos]]></title>
-        <id>https://www.draftsharks.com/shark-bites/78994/laiatu-latu-not-expected-to-play-against-broncos</id>
-        <link href="https://www.draftsharks.com/shark-bites/78994/laiatu-latu-not-expected-to-play-against-broncos"/>
-        <updated>2025-09-14T12:52:21.000Z</updated>
-        <summary type="html"><![CDATA[Colts Edge Laiatu Latu is officially questionable for today's game against the Broncos because of a hamstring injury, but multiple reports say he's not]]></summary>
         <author>
             <name>Kevin English</name>
         </author>
